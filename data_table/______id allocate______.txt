@@ -1,0 +1,9 @@
+最大：2100 999999
+
+格式 ： x 000000
+
+x:
+
+ResourceConfig	15
+
+HeroInfo	1
