@@ -1,45 +1,33 @@
 /*
  * generate by tool
 */
-using System.Collections;
-using System.Collections.Generic;
-using System.Linq;
-using LitJson;
-using FixedPointy;
-namespace Config
+//using System.Collections;
+//using System.Collections.Generic;
+//using System.Linq;
+//using LitJson;
+//using FixedPointy;
+namespace Table
 {
+    {# 创建私有变量#}
     {% macro create_fields(n) -%}
-        {% for n2 in n.children -%}
-        {% if n2.name != 'id': -%}
+        {% for n2 in n %}
         /// <summary>
         ///{{n2.comment}}
         /// </summary>
-        {% if n2.type_name == 'float': -%}
-        public Fix {{ n2.name }};
-        {% else -%}
-        public {{ n2.type_name }} {{ n2.name }};
- 		
-        {% endif %}
-        {% endif %}
-        {%- endfor %}    
+        public {{ n2.type }} {{ n2.name }}; 
+        {% endfor %}
+    {%- endmacro %}
+    {# 创建封装后的属性#}
+    {% macro create_attr_fields(n) -%}
+        {% for n2 in n %}
+        public string {{n2.name | capitalize}} { get => {{ n2.name }}; }     {# set => {{ n2.name }} = value; #}
+        {% endfor %}
     {%- endmacro %}   
-    public class {{ name }} : ConfigData
+    public class {{ name }} : BaseTable
     {
-        //fileds
-        {{create_fields(node)}}        
+        {{create_fields(list)}}
 
-        {% set sub_classes = [] %}
-        {% for n in node.children recursive  -%}
-        {% if n.type == 'object' and n.type_name not in sub_classes -%}
-        {% if sub_classes.append(n.type_name) %}{% endif %}
-        
-        public class {{ n.type_name }}  
-        {
-            //fileds
-            {{create_fields(n)}}      
-        } 
-        {% endif -%}
-        {{ loop(n.children) -}}
-        {%- endfor %}
+        {{create_attr_fields(list)}}
+
     } 
 }
