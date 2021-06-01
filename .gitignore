@@ -1,0 +1,12 @@
+Library
+Logs
+obj
+Table
+Packages
+Temp
+*.csproj
+*.sln
+*.meta
+.vs
+.vscode
+~$*.xlsx
