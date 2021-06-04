@@ -13,13 +13,19 @@ from jinja2 import Environment, FileSystemLoader
 
 from openpyxl import load_workbook
 
-# Get Command Line Arguments
-
-enums = []
+################ 配置
+# table 文件输入目录
+table_input_dir = 'data_table'
+# 客户端 cs define 文件输出目录
+client_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Data/Define/Table"
+# 客户端 json 文件输出目录
+client_json_out_dir = "../001_GameFramework_Client/Assets/BuildRes/TableData"
+#################
 
 def main(argv):
    
-    list_dirs = os.walk('data_table')
+    list_dirs = os.walk(table_input_dir)
+    print("start generate cs ...")
     for root,dirs,files in list_dirs:
         for f in files:
             splitStr = os.path.splitext(f)
@@ -27,19 +33,41 @@ def main(argv):
             ext = splitStr[1]
             if ext == '.xlsx' and not '~$' in path_without_ext:
                 input_path = os.path.join(root, f)
+                # cs define files
+               
+                gen_cs_define_file(input_path,client_cs_out_dir)
+               
+    print("finish all cs!")
 
-                cs_out_dictionary = "cs_define"
-                json_out_dictionary = "json"
-                #cs define files
-                gen_cs_define_file(input_path,cs_out_dictionary)
-                #cs json files
-                gen_json_file(input_path,json_out_dictionary)
+    print("start generate json ...")
+    list_dirs2 = os.walk(table_input_dir)
+    for root,dirs,files in list_dirs2:
+        for f in files:
+            splitStr = os.path.splitext(f)
+            path_without_ext = splitStr[0]
+            ext = splitStr[1]
+            if ext == '.xlsx' and not '~$' in path_without_ext:
+                input_path = os.path.join(root, f)
+                gen_json_file(input_path,client_json_out_dir)
+                
+    print("finish all json!")
+    print("finish all !")
                 
 
 
 ################## 生成单个cs 定义文件
 def gen_cs_define_file(input_file,output_dictionary):
     data_list,class_name = get_table_head_list(input_file)
+    
+    #过滤掉转表符的数据 和 id 项(因为 BaseTable 中已经有 id 的定义了)
+    #data_list = filter(lambda x: x.name != '#', data_list)#导致在 jiaja 中有些问题 不好使 待测
+    for i in range(len(data_list)-1, -1, -1):
+        value = data_list[i]
+        if value.name == '#' or value.name == 'id':
+            data_list.remove(value)
+
+    # for value in data_list:
+    #     print(value.name)
     env = Environment(loader=FileSystemLoader('./'))
     template = env.get_template('template/cs_template.j2')
     result = template.render( name=class_name,list=data_list)
@@ -54,11 +82,12 @@ def gen_cs_define_file(input_file,output_dictionary):
 ################## 生成单个json 文件
 def gen_json_file(input_file,output_dictionary):
     json_data,class_name = get_table_data_list(input_file,output_dictionary)
-
     json_str = json.dumps(json_data,sort_keys=False, indent=4, separators=(',', ': '))
     
     with codecs.open(f'{output_dictionary}/{class_name}.json', "w", 'utf8') as f:
         f.write(json_str)
+
+    print("finish generate json : " + class_name + ".json")
 
 ################## 获取表格的前几行表头数据
 def get_table_head_list(input_file):
@@ -95,7 +124,7 @@ def get_table_data_list(input_file, output_dictionary):
 
     wb = load_workbook(input_file)
     ws = wb.worksheets[0]
-    json_data = []
+    json_data_list = []
     for row_index,row_data in enumerate(ws):
         curr_data = {}
         if row_index >= 3:
@@ -109,15 +138,31 @@ def get_table_data_list(input_file, output_dictionary):
                 
                 field_name = head_list[col_index].name
                 field_type = head_list[col_index].type
-                curr_data[field_name] = data_obj.value
+                if field_name == '#':
+                    continue
+                if data_obj.value == None:
+                    if field_type == 'string':
+                        curr_data[field_name] = ""
+                    if field_type == 'int':
+                        curr_data[field_name] = 0
+                else:
+                    curr_data[field_name] = data_obj.value
             if is_gen_data:
-                json_data.append(curr_data)
+                json_data_list.append(curr_data)
 
     file_name = os.path.split(input_file)[1]
     class_name = os.path.splitext(file_name)[0]
-    return json_data,class_name
+    return json_data_list,class_name
    
 
+
+def capitalize(string, lower_rest=False):
+    ''' 字符转换
+    :param string: 传入原始字符串
+    :param lower_rest: bool, 控制参数--是否将剩余字母都变为小写
+    :return: 改变后的字符
+    '''
+    return string[:1].upper() + (string[1:].lower() if lower_rest else string[1:])
 
 ##################
 class HeadDefine():
@@ -125,6 +170,7 @@ class HeadDefine():
         self.name = name
         self.type = type
         self.comment = comment
+        self.up_name = capitalize(self.name)
 
 
 ##################

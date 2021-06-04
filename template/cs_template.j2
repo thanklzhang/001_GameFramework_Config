@@ -14,13 +14,13 @@ namespace Table
         /// <summary>
         ///{{n2.comment}}
         /// </summary>
-        public {{ n2.type }} {{ n2.name }}; 
+        private {{ n2.type }} {{ n2.name }}; 
         {% endfor %}
     {%- endmacro %}
     {# 创建封装后的属性#}
     {% macro create_attr_fields(n) -%}
         {% for n2 in n %}
-        public string {{n2.name | capitalize}} { get => {{ n2.name }}; }     {# set => {{ n2.name }} = value; #}
+        public {{ n2.type }} {{n2.up_name}} { get => {{ n2.name }}; }     {# set => {{ n2.name }} = value; #}
         {% endfor %}
     {%- endmacro %}   
     public class {{ name }} : BaseTable

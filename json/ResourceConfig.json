@@ -1,6 +1,5 @@
 [
     {
-        "#": "#",
         "id": 15000001,
         "name": "LoginUI",
         "path": "Prefabs/UI/LoginUI",
@@ -9,7 +8,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15000002,
         "name": "LobbyUI",
         "path": "Prefabs/UI/LobbyUI",
@@ -18,7 +16,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15000003,
         "name": "HeroListUI",
         "path": "Prefabs/UI/HeroListUI",
@@ -27,7 +24,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15000004,
         "name": "MateMainUI",
         "path": "Prefabs/UI/MateUI",
@@ -36,7 +32,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15000005,
         "name": "CombatUI",
         "path": "Prefabs/UI/CombatUI",
@@ -45,7 +40,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15000006,
         "name": "LoadingUI",
         "path": "Prefabs/UI/LoadingUI",
@@ -54,7 +48,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15001001,
         "name": "hero_100",
         "path": "Textures/HeroBodyPic",
@@ -63,7 +56,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15006001,
         "name": "click",
         "path": "Audio",
@@ -72,7 +64,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15008001,
         "name": "eft_select_entity_01",
         "path": "Prefabs/Effects",
@@ -81,7 +72,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15008002,
         "name": "BuffEffect",
         "path": "Prefabs/Effects",
@@ -90,7 +80,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15010001,
         "name": "lobby_scene_001",
         "path": "Scenes",
@@ -99,7 +88,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15011001,
         "name": "Hero_101",
         "path": "Prefabs/Characters",
@@ -108,7 +96,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15011002,
         "name": "Hero_102",
         "path": "Prefabs/Characters",
@@ -117,7 +104,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15011003,
         "name": "Hero_103",
         "path": "Prefabs/Characters",
@@ -126,7 +112,6 @@
         "tag": null
     },
     {
-        "#": "#",
         "id": 15011004,
         "name": "Hero_104",
         "path": "Prefabs/Characters",

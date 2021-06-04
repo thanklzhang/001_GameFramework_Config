@@ -16,11 +16,6 @@ namespace Table
     {
         
         /// <summary>
-        ///转表符
-        /// </summary>
-        public # #; 
-        
-        /// <summary>
         ///ID
         /// </summary>
         public int id; 
@@ -52,9 +47,7 @@ namespace Table
         
 
         
-        public string # { get => #; }     
-        
-        public string Id { get => id; }     
+        public int Id { get => id; }     
         
         public string Name { get => name; }     
         
@@ -62,7 +55,7 @@ namespace Table
         
         public string Ext { get => ext; }     
         
-        public string Type { get => type; }     
+        public int Type { get => type; }     
         
         public string Tag { get => tag; }     
         
