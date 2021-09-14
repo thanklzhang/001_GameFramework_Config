@@ -1,6 +1,6 @@
 @echo off
 echo gen cs ...
-python gen.py
+python gen_all.py
 
 echo finish!
 pause

@@ -20,6 +20,8 @@ table_input_dir = 'data_table'
 client_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Data/Define/Table"
 # 客户端 json 文件输出目录
 client_json_out_dir = "../001_GameFramework_Client/Assets/BuildRes/TableData"
+# 客户端 cs load_json 文件输出目录
+#client_cs_load_json_out_dir = "../001_GameFramework_Client/Assets/Script/Manager/TableManager/TableStore"
 #################
 
 def main(argv):
@@ -49,6 +51,7 @@ def main(argv):
             if ext == '.xlsx' and not '~$' in path_without_ext:
                 input_path = os.path.join(root, f)
                 gen_json_file(input_path,client_json_out_dir)
+                #gen_load_json_file(input_path,client_cs_load_json_out_dir)
                 
     print("finish all json!")
     print("finish all !")
@@ -69,7 +72,7 @@ def gen_cs_define_file(input_file,output_dictionary):
     # for value in data_list:
     #     print(value.name)
     env = Environment(loader=FileSystemLoader('./'))
-    template = env.get_template('template/cs_template.j2')
+    template = env.get_template('template/cs_template_class_define.j2')
     result = template.render( name=class_name,list=data_list)
 
     if not os.path.exists(output_dictionary):
@@ -77,7 +80,7 @@ def gen_cs_define_file(input_file,output_dictionary):
 
     with codecs.open(f'{output_dictionary}/{class_name}.cs', "w", 'utf8') as f:
         f.write(result)
-    print("finish generate cs : " + class_name + ".cs")
+    print("finish generate cs_define : " + class_name + ".cs")
 
 ################## 生成单个json 文件
 def gen_json_file(input_file,output_dictionary):
@@ -89,6 +92,21 @@ def gen_json_file(input_file,output_dictionary):
 
     print("finish generate json : " + class_name + ".json")
 
+################## 生成单个读取 json 的读取器(.cs)
+def gen_load_json_file(input_file,output_dictionary):
+    data_list,class_name = get_table_head_list(input_file)
+    
+    env = Environment(loader=FileSystemLoader('./'))
+    template = env.get_template('template/cs_template_load_json.j2')
+    result = template.render( name=class_name)
+
+    if not os.path.exists(output_dictionary):
+        os.mkdir(output_dictionary)
+
+    with codecs.open(f'{output_dictionary}/{class_name}Store.cs', "w", 'utf8') as f:
+        f.write(result)
+    print("finish generate cs_load_json : " + class_name + "Store.cs")
+
 ################## 获取表格的前几行表头数据
 def get_table_head_list(input_file):
     # print(input_file)
@@ -97,15 +115,17 @@ def get_table_head_list(input_file):
     name_obj_list = ws[1]
     type_obj_list = ws[2]
     comment_obj_list = ws[3]
-
+    #print('get_table_head_list : input_file : ' + input_file)
     head_list = []
     for col_index,name_obj in enumerate(name_obj_list):
         # #过滤转表符
         # if 0 == col_index:
         #     continue
+       
         name_value = name_obj.value
         type_value = type_obj_list[col_index].value
         comment_value = comment_obj_list[col_index].value
+        #print('sss : ' + name_value + ' ' + type_value + ' ' + comment_value)
         head_data = HeadDefine(name_value,type_value,comment_value)
         head_list.append(head_data)
         # print(head_data.name + " " + head_data.type + " " + head_data.comment)
@@ -146,7 +166,10 @@ def get_table_data_list(input_file, output_dictionary):
                     if field_type == 'int':
                         curr_data[field_name] = 0
                 else:
-                    curr_data[field_name] = data_obj.value
+                    if field_type == 'string':
+                        curr_data[field_name] = '"' + str(data_obj.value) + '"'
+                    else:
+                        curr_data[field_name] = data_obj.value
             if is_gen_data:
                 json_data_list.append(curr_data)
 
@@ -162,6 +185,7 @@ def capitalize(string, lower_rest=False):
     :param lower_rest: bool, 控制参数--是否将剩余字母都变为小写
     :return: 改变后的字符
     '''
+    
     return string[:1].upper() + (string[1:].lower() if lower_rest else string[1:])
 
 ##################

@@ -7,3 +7,9 @@ x:
 ResourceConfig	15
 
 HeroInfo	1
+
+Skill 2
+
+ProjectileEffect 3
+
+CalculateEffect 4
