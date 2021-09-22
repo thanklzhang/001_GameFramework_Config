@@ -26,7 +26,7 @@ def gen(input,out,opType):
     if OpType.cs == opType:
         #gen cs
         list_dirs = os.walk(input)
-        print("start generate cs f... : from : " + input)
+        print("start generate cs ... : from : " + input)
         for root,dirs,files in list_dirs:
             for f in files:
                 splitStr = os.path.splitext(f)
@@ -163,7 +163,7 @@ def get_table_data_list(input_file, output_dictionary):
                         curr_data[field_name] = 0
                 else:
                     if field_type == 'string':
-                        curr_data[field_name] = '"' + str(data_obj.value) + '"'
+                        curr_data[field_name] = str(data_obj.value)
                     else:
                         curr_data[field_name] = data_obj.value
             if is_gen_data:
