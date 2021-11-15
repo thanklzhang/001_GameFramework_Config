@@ -164,8 +164,8 @@ def get_table_data_list(input_file, output_dictionary):
                 else:
                     if field_type == 'string':
                         curr_data[field_name] = str(data_obj.value)
-                    else:
-                        curr_data[field_name] = data_obj.value
+                    if field_type == 'int':
+                        curr_data[field_name] = int(data_obj.value)
             if is_gen_data:
                 json_data_list.append(curr_data)
 

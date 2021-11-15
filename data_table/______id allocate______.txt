@@ -13,3 +13,17 @@ Skill 2
 ProjectileEffect 3
 
 CalculateEffect 4
+
+Battle 5
+
+BattleTrigger 6
+
+BattleMap 7
+
+BattleConfig 9
+
+EntityAttrBase 10
+
+EntityAttrLevel 11
+
+EntityAttrStar 12
