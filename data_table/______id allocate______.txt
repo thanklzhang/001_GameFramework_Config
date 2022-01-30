@@ -4,8 +4,6 @@
 
 x:
 
-ResourceConfig	15
-
 HeroInfo	1
 
 Skill 2
@@ -27,3 +25,11 @@ EntityAttrBase 10
 EntityAttrLevel 11
 
 EntityAttrStar 12
+
+AreaEffect 13
+
+BuffEffect 14
+
+ResourceConfig	15
+
+MoveEffect 16
