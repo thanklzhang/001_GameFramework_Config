@@ -33,3 +33,7 @@ BuffEffect 14
 ResourceConfig	15
 
 MoveEffect 16
+
+MainTaskChapter 20
+
+MainTaskStage 21
