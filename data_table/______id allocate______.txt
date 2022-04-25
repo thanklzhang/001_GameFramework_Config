@@ -37,3 +37,5 @@ MoveEffect 16
 MainTaskChapter 20
 
 MainTaskStage 21
+
+Item 22
