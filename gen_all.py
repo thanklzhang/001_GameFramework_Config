@@ -23,6 +23,11 @@ server_json_out_dir = "../001_GameFramework_Server/GameServer/netcoreapp3.1/Reso
 #服务器端有可能在 IDE 中调试 所以在每个工程下都复制下所有 json
 battle_self_table_path = "../001_GameFramework_Server/GameServer/BattleServer/bin/Debug/netcoreapp3.1/Resource/Table"
 
+#纯战斗逻辑 table cs define 目录
+pure_battle_logic_table_path = "../001_GameFramework_Battle/BattleProject/Common/Table"
+#纯战斗逻辑 table json 目录
+pure_battle_logic_table_json_path = "../001_GameFramework_Battle/BattleProject/bin/Debug/netcoreapp3.1/Resource/Table"
+
 #################
 
 def main(argv):
@@ -39,6 +44,8 @@ def main(argv):
    
     Copy(server_json_out_dir,battle_self_table_path)
     
+    Copy(server_cs_out_dir,pure_battle_logic_table_path)
+    Copy(server_json_out_dir,pure_battle_logic_table_json_path)
 
 
 def Copy(source_path,target_path):
