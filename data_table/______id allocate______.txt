@@ -34,8 +34,15 @@ ResourceConfig	15
 
 MoveEffect 16
 
+CollisionGroupEffect 17
+
+PassiveEffect 18
+
 MainTaskChapter 20
 
 MainTaskStage 21
 
 Item 22
+
+
+
