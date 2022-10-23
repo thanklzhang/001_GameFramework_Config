@@ -14,19 +14,23 @@ table_input_dir = 'data_table'
 # 客户端 cs define 文件输出目录
 client_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Data/Define/Table"
 # 客户端 json 文件输出目录
-client_json_out_dir = "../001_GameFramework_Client/Assets/BuildRes/TableData"
+# client_json_out_dir = "../001_GameFramework_Client/Assets/BuildRes/TableData"
 
 # 服务端 cs define 文件输出目录
 server_cs_out_dir = "../001_GameFramework_Server/GameServer/Common/Config/Table/Define"
 # 服务端 json 文件输出目录
-server_json_out_dir = "../001_GameFramework_Server/GameServer/netcoreapp3.1/Resource/Table"
+# server_json_out_dir = "../001_GameFramework_Server/GameServer/netcoreapp3.1/Resource/Table"
 #服务器端有可能在 IDE 中调试 所以在每个工程下都复制下所有 json
-battle_self_table_path = "../001_GameFramework_Server/GameServer/BattleServer/bin/Debug/netcoreapp3.1/Resource/Table"
+# battle_self_table_path = "../001_GameFramework_Server/GameServer/BattleServer/bin/Debug/netcoreapp3.1/Resource/Table"
 
 #纯战斗逻辑 table cs define 目录
 pure_battle_logic_table_path = "../001_GameFramework_Battle/BattleProject/Common/Table"
 #纯战斗逻辑 table json 目录
-pure_battle_logic_table_json_path = "../001_GameFramework_Battle/BattleProject/bin/Debug/netcoreapp3.1/Resource/Table"
+# pure_battle_logic_table_json_path = "../001_GameFramework_Battle/BattleProject/bin/Debug/netcoreapp3.1/Resource/Table"
+
+
+# 目前只生成一份 table 数据 前后端通用
+common_json_out_dir = "../001_GameFramework_Table/CommonData/Table"
 
 #################
 
@@ -36,16 +40,18 @@ def main(argv):
 
     #client
     gen_logic.gen(table_input_dir,client_cs_out_dir,gen_logic.OpType.cs)
-    gen_logic.gen(table_input_dir,client_json_out_dir,gen_logic.OpType.json)
+    # gen_logic.gen(table_input_dir,client_json_out_dir,gen_logic.OpType.json)
     
     #server
     gen_logic.gen(table_input_dir,server_cs_out_dir,gen_logic.OpType.cs)
-    gen_logic.gen(table_input_dir,server_json_out_dir,gen_logic.OpType.json)
+    # gen_logic.gen(table_input_dir,server_json_out_dir,gen_logic.OpType.json)
    
-    Copy(server_json_out_dir,battle_self_table_path)
+    # Copy(server_json_out_dir,battle_self_table_path)
     
     Copy(server_cs_out_dir,pure_battle_logic_table_path)
-    Copy(server_json_out_dir,pure_battle_logic_table_json_path)
+    # Copy(server_json_out_dir,pure_battle_logic_table_json_path)
+    
+    gen_logic.gen(table_input_dir,common_json_out_dir,gen_logic.OpType.json)
 
 
 def Copy(source_path,target_path):
