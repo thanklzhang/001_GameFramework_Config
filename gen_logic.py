@@ -19,10 +19,11 @@ class OpType(Enum):
     cs = 1
     json = 2
 
+all_json_data_list = []
+
 def main(argv):
     print("")
-  
-def gen(input,out,opType):
+def gen(input,out,opType,resOutPath):
     if OpType.cs == opType:
         #gen cs
         list_dirs = os.walk(input)
@@ -49,9 +50,16 @@ def gen(input,out,opType):
                 ext = splitStr[1]
                 if ext == '.xlsx' and not '~$' in path_without_ext:
                     input_path = os.path.join(root, f)
-                    gen_json_file(input_path,out)
+                    json_data,class_name = gen_json_file(input_path,out)
+                    if class_name == 'ResourceConfig':
+                        gen_res_id_dic(json_data,resOutPath)
 
         print("finish json! : to : " + out)
+        
+     
+        
+        
+    
 
 
 ################## 生成单个cs 定义文件
@@ -85,8 +93,37 @@ def gen_json_file(input_file,output_dictionary):
     
     with codecs.open(f'{output_dictionary}/{class_name}.json', "w", 'utf8') as f:
         f.write(json_str)
-
     print("finish generate json : " + class_name + ".json")
+    return json_data,class_name
+    
+    
+################## 生成资源 id 对应表
+def gen_res_id_dic(json_data,output_dictionary):
+    _list = []
+    
+    
+    for value in json_data:
+        _id = value['id']
+        name = value['name']
+        path = value['path']
+        ext = value['ext']
+        
+        fullPath = '' + path + '/' + name + "." + ext
+        obj = {}
+        obj['name'] = name
+        obj['id'] = _id
+        obj['fullPath'] = fullPath
+        _list.append(obj)
+        
+    
+    env = Environment(loader=FileSystemLoader('./'))
+    template = env.get_template('template/cs_template_res_dic_temp.j2')
+    result = template.render(list=_list)
+    
+    with codecs.open(f'{output_dictionary}/ResDefine.cs', "w", 'utf8') as f:
+        f.write(result)
+        
+    print("finish res dic cs")
 
 ################## 生成单个读取 json 的读取器(.cs)
 def gen_load_json_file(input_file,output_dictionary):

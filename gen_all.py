@@ -32,6 +32,10 @@ pure_battle_logic_table_path = "../001_GameFramework_Battle/BattleProject/Common
 # 目前只生成一份 table 数据 前后端通用
 common_json_out_dir = "../001_GameFramework_Table/CommonData/Table"
 
+
+#资源 id 目录
+res_id_out_dir = "../001_GameFramework_Client/Assets/Script/Common"
+
 #################
 
 def main(argv):
@@ -39,11 +43,11 @@ def main(argv):
     #这里目前用的是一样的导表 看情况前后端可以用两套导表逻辑
 
     #client
-    gen_logic.gen(table_input_dir,client_cs_out_dir,gen_logic.OpType.cs)
+    gen_logic.gen(table_input_dir,client_cs_out_dir,gen_logic.OpType.cs,res_id_out_dir)
     # gen_logic.gen(table_input_dir,client_json_out_dir,gen_logic.OpType.json)
     
     #server
-    gen_logic.gen(table_input_dir,server_cs_out_dir,gen_logic.OpType.cs)
+    gen_logic.gen(table_input_dir,server_cs_out_dir,gen_logic.OpType.cs,res_id_out_dir)
     # gen_logic.gen(table_input_dir,server_json_out_dir,gen_logic.OpType.json)
    
     # Copy(server_json_out_dir,battle_self_table_path)
@@ -51,7 +55,7 @@ def main(argv):
     Copy(server_cs_out_dir,pure_battle_logic_table_path)
     # Copy(server_json_out_dir,pure_battle_logic_table_json_path)
     
-    gen_logic.gen(table_input_dir,common_json_out_dir,gen_logic.OpType.json)
+    gen_logic.gen(table_input_dir,common_json_out_dir,gen_logic.OpType.json,res_id_out_dir)
 
 
 def Copy(source_path,target_path):
