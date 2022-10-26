@@ -1,0 +1,29 @@
+/*
+ * generate by tool
+*/
+using System.Collections;
+using System;
+using System.Collections.Generic;
+namespace Table
+{
+
+  public class TablePathDefine
+    {
+        public static List<string> GetTablePathList()
+        {
+            return tablePathList;
+            
+        }
+		static List<string> tablePathList = new List<string>()
+		{
+			{% for k in list %}
+			"{{k}}",
+			{% endfor %}
+		
+		};
+       
+    }
+	
+	
+	
+}

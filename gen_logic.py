@@ -23,7 +23,7 @@ all_json_data_list = []
 
 def main(argv):
     print("")
-def gen(input,out,opType,resOutPath):
+def gen(input,out,opType,resOutPath,battleTriggerOutPath,tableDataOutPath):
     if OpType.cs == opType:
         #gen cs
         list_dirs = os.walk(input)
@@ -42,6 +42,7 @@ def gen(input,out,opType,resOutPath):
     elif OpType.json == opType:
         #gen json
         print("start generate json ... : from : " + input)
+        tableDataPathList = []
         list_dirs2 = os.walk(input)
         for root,dirs,files in list_dirs2:
             for f in files:
@@ -51,10 +52,14 @@ def gen(input,out,opType,resOutPath):
                 if ext == '.xlsx' and not '~$' in path_without_ext:
                     input_path = os.path.join(root, f)
                     json_data,class_name = gen_json_file(input_path,out)
+                    tableDataPathList.append(class_name + '.json');
                     if class_name == 'ResourceConfig':
                         gen_res_id_dic(json_data,resOutPath)
-
+                    if class_name == 'BattleTrigger':
+                       gen_battle_trigger_dic(json_data,battleTriggerOutPath)
+        gen_table_path_file(tableDataPathList,tableDataOutPath)
         print("finish json! : to : " + out)
+      
         
      
         
@@ -124,6 +129,49 @@ def gen_res_id_dic(json_data,output_dictionary):
         f.write(result)
         
     print("finish res dic cs")
+
+################## 生成战斗触发器路径对应表
+def gen_battle_trigger_dic(json_data,output_dictionary):
+    
+    _dic = {}
+    for value in json_data:
+        path = value['scriptPath']
+       
+        if not _dic.__contains__(path):
+            rootPath = 'CommonData'
+            fullPath = os.path.join(rootPath,path)
+            _list = []
+          
+            list_dirs2 = os.walk(fullPath)
+            for root,dirs,files in list_dirs2:
+                for f in files:
+                    currFullPath = os.path.join(root,f)
+                    splitStr = os.path.splitext(f)
+                    path_without_ext = splitStr[0]
+                    ext = splitStr[1]
+                    if ext == '.json':
+                        localPath = currFullPath.split(rootPath)[1][1:].replace('\\','/')
+                        _list.append(localPath)
+                        
+            
+            _dic[path] = _list
+            
+    env = Environment(loader=FileSystemLoader('./'))
+    template = env.get_template('template/cs_battle_trigger_dic_temp.j2')
+    result = template.render(dic=_dic)
+    
+    with codecs.open(f'{output_dictionary}/BattleTriggerPathDefine.cs', "w", 'utf8') as f:
+        f.write(result)
+        
+    print("finish res dic cs")
+
+def gen_table_path_file(pathList,output_dictionary):
+    env = Environment(loader=FileSystemLoader('./'))
+    template = env.get_template('template/cs_table_path_temp.j2')
+    result = template.render(list=pathList)
+    
+    with codecs.open(f'{output_dictionary}/TablePathDefine.cs', "w", 'utf8') as f:
+        f.write(result)
 
 ################## 生成单个读取 json 的读取器(.cs)
 def gen_load_json_file(input_file,output_dictionary):
