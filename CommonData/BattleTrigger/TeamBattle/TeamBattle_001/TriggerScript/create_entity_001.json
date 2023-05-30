@@ -78,7 +78,7 @@
                                         "getType"  : 0,
                                         "vector3Var" : {
                                             "__TYPE__" : "Vector3FixedVar",
-                                            "x"        : 5.0,
+                                            "x"        : 20.0,
                                             "y"        : 0.0,
                                             "z"        : 12.0
                                         }
