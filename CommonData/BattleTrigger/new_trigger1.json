@@ -1,0 +1,156 @@
+
+{
+    "triggerEvent" : {
+        "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        "__TYPE__"     : "Battle.BattleTrigger.Config.BattleStartEvent"
+    },
+    "executeGroup" : [
+        {
+            "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "__TYPE__"     : "Battle.BattleTrigger.Config.ConditionNode",
+            "conditionCheckType" : 0,
+            "check"              : {
+                "__TYPE__" : "Number_Check",
+                "aField"   : {
+                    "__TYPE__" : "NumberVarField",
+                    "getType"  : 12,
+                    "numberVar" : {
+                        "__TYPE__" : "TeamHeroAliveCountVar",
+                        "teamIndexField" : {
+                            "__TYPE__" : "NumberVarField",
+                            "getType"  : 0,
+                            "numberVar" : {
+                                "__TYPE__" : "FloatFixedVar",
+                                "value"    : 0.0
+                            }
+                        }
+                    }
+                },
+                "op"       : 0,
+                "bField"   : {
+                    "__TYPE__" : "NumberVarField",
+                    "getType"  : 0,
+                    "numberVar" : {
+                        "__TYPE__" : "FloatFixedVar",
+                        "value"    : 0.0
+                    }
+                }
+            },
+            "aExecuteGroup"      : [
+                {
+                    "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "__TYPE__"     : "Battle.BattleTrigger.Config.BattleEndNode",
+                    "teamIndex"    : {
+                        "__TYPE__" : "NumberVarField",
+                        "getType"  : 11,
+                        "numberVar" : {
+                            "__TYPE__" : "EntityTeamIndexVar",
+                            "entityType" : 25
+                        }
+                    },
+                    "endType"      : 0
+                },
+                {
+                    "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                    "__TYPE__"     : "Battle.BattleTrigger.Config.ConditionNode",
+                    "conditionCheckType" : 0,
+                    "check"              : {
+                        "__TYPE__" : "Number_Check",
+                        "aField"   : {
+                            "__TYPE__" : "NumberVarField",
+                            "getType"  : 12,
+                            "numberVar" : {
+                                "__TYPE__" : "TeamHeroAliveCountVar",
+                                "teamIndexField" : {
+                                    "__TYPE__" : "NumberVarField",
+                                    "getType"  : 0,
+                                    "numberVar" : {
+                                        "__TYPE__" : "FloatFixedVar",
+                                        "value"    : 0.0
+                                    }
+                                }
+                            }
+                        },
+                        "op"       : 0,
+                        "bField"   : {
+                            "__TYPE__" : "NumberVarField",
+                            "getType"  : 0,
+                            "numberVar" : {
+                                "__TYPE__" : "FloatFixedVar",
+                                "value"    : 0.0
+                            }
+                        }
+                    },
+                    "aExecuteGroup"      : [
+                        {
+                            "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                            "__TYPE__"     : "Battle.BattleTrigger.Config.BattleEndNode",
+                            "teamIndex"    : {
+                                "__TYPE__" : "NumberVarField",
+                                "getType"  : 11,
+                                "numberVar" : {
+                                    "__TYPE__" : "EntityTeamIndexVar",
+                                    "entityType" : 25
+                                }
+                            },
+                            "endType"      : 0
+                        },
+                        {
+                            "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                            "__TYPE__"     : "Battle.BattleTrigger.Config.ConditionNode",
+                            "conditionCheckType" : 0,
+                            "check"              : {
+                                "__TYPE__" : "Number_Check",
+                                "aField"   : {
+                                    "__TYPE__" : "NumberVarField",
+                                    "getType"  : 12,
+                                    "numberVar" : {
+                                        "__TYPE__" : "TeamHeroAliveCountVar",
+                                        "teamIndexField" : {
+                                            "__TYPE__" : "NumberVarField",
+                                            "getType"  : 0,
+                                            "numberVar" : {
+                                                "__TYPE__" : "FloatFixedVar",
+                                                "value"    : 0.0
+                                            }
+                                        }
+                                    }
+                                },
+                                "op"       : 0,
+                                "bField"   : {
+                                    "__TYPE__" : "NumberVarField",
+                                    "getType"  : 0,
+                                    "numberVar" : {
+                                        "__TYPE__" : "FloatFixedVar",
+                                        "value"    : 0.0
+                                    }
+                                }
+                            },
+                            "aExecuteGroup"      : [
+                                {
+                                    "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                                    "__TYPE__"     : "Battle.BattleTrigger.Config.BattleEndNode",
+                                    "teamIndex"    : {
+                                        "__TYPE__" : "NumberVarField",
+                                        "getType"  : 11,
+                                        "numberVar" : {
+                                            "__TYPE__" : "EntityTeamIndexVar",
+                                            "entityType" : 25
+                                        }
+                                    },
+                                    "endType"      : 0
+                                }
+                            ],
+                            "bExecuteGroup"      : [
+                            ]
+                        }
+                    ],
+                    "bExecuteGroup"      : [
+                    ]
+                }
+            ],
+            "bExecuteGroup"      : [
+            ]
+        }
+    ]
+}

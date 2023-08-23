@@ -13,7 +13,7 @@
                 "getType"  : 0,
                 "numberVar" : {
                     "__TYPE__" : "FloatFixedVar",
-                    "value"    : 1.0
+                    "value"    : 10000.0
                 }
             }
         },
