@@ -13,7 +13,7 @@
                 "getType"  : 0,
                 "numberVar" : {
                     "__TYPE__" : "FloatFixedVar",
-                    "value"    : 10000.0
+                    "value"    : 22.0
                 }
             }
         },
@@ -25,7 +25,7 @@
                 "getType"  : 0,
                 "numberVar" : {
                     "__TYPE__" : "FloatFixedVar",
-                    "value"    : 1.0
+                    "value"    : 10.0
                 }
             },
             "loopExecuteGroup" : [
@@ -53,7 +53,7 @@
                         }
                     },
                     "entityType"   : {
-                        "configId" : 1000201
+                        "configId" : 1000202
                     },
                     "createPosition" : {
                         "__TYPE__" : "Vector3VarField",
@@ -65,9 +65,9 @@
                                 "getType"  : 0,
                                 "vector3Var" : {
                                     "__TYPE__" : "Vector3FixedVar",
-                                    "x"        : 25.0,
+                                    "x"        : 15.0,
                                     "y"        : 0.0,
-                                    "z"        : 35.0
+                                    "z"        : 21.0
                                 }
                             },
                             "radius"   : {
@@ -75,7 +75,7 @@
                                 "getType"  : 0,
                                 "numberVar" : {
                                     "__TYPE__" : "FloatFixedVar",
-                                    "value"    : 2.0
+                                    "value"    : 1.0
                                 }
                             }
                         }
@@ -117,9 +117,9 @@
                                 "getType"  : 0,
                                 "vector3Var" : {
                                     "__TYPE__" : "Vector3FixedVar",
-                                    "x"        : 45.0,
+                                    "x"        : 22.0,
                                     "y"        : 0.0,
-                                    "z"        : 45.0
+                                    "z"        : 16.0
                                 }
                             },
                             "radius"   : {
@@ -127,7 +127,7 @@
                                 "getType"  : 0,
                                 "numberVar" : {
                                     "__TYPE__" : "FloatFixedVar",
-                                    "value"    : 2.0
+                                    "value"    : 1.0
                                 }
                             }
                         }
@@ -169,9 +169,9 @@
                                 "getType"  : 0,
                                 "vector3Var" : {
                                     "__TYPE__" : "Vector3FixedVar",
-                                    "x"        : 45.0,
+                                    "x"        : 15.0,
                                     "y"        : 0.0,
-                                    "z"        : 25.0
+                                    "z"        : 7.0
                                 }
                             },
                             "radius"   : {
@@ -179,7 +179,7 @@
                                 "getType"  : 0,
                                 "numberVar" : {
                                     "__TYPE__" : "FloatFixedVar",
-                                    "value"    : 2.0
+                                    "value"    : 1.0
                                 }
                             }
                         }
@@ -221,9 +221,9 @@
                                 "getType"  : 0,
                                 "vector3Var" : {
                                     "__TYPE__" : "Vector3FixedVar",
-                                    "x"        : 45.0,
+                                    "x"        : 7.0,
                                     "y"        : 0.0,
-                                    "z"        : 5.0
+                                    "z"        : 16.0
                                 }
                             },
                             "radius"   : {
@@ -231,14 +231,18 @@
                                 "getType"  : 0,
                                 "numberVar" : {
                                     "__TYPE__" : "FloatFixedVar",
-                                    "value"    : 2.0
+                                    "value"    : 1.0
                                 }
                             }
                         }
                     }
-                },
-                {
-                    "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+                }
+            ]
+        }
+    ]
+} }
+    ]
+}}      "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
                     "__TYPE__"     : "Battle.BattleTrigger.Config.DelayTimeNode",
                     "delayTime"    : {
                         "__TYPE__" : "NumberVarField",
@@ -446,9 +450,9 @@
                     }
                 }
             ]
-        },
-        {
-            "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+        }
+    ]
+}      "__ASSEMBLY__" : "BattleServer, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
             "__TYPE__"     : "Battle.BattleTrigger.Config.DelayTimeNode",
             "delayTime"    : {
                 "__TYPE__" : "NumberVarField",
