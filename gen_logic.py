@@ -55,9 +55,9 @@ def gen(input,out,opType,resOutPath,battleTriggerOutPath,tableDataOutPath):
                     tableDataPathList.append(class_name + '.json');
                     if class_name == 'ResourceConfig':
                         gen_res_id_dic(json_data,resOutPath)
-                    if class_name == 'BattleTrigger':
-                       gen_battle_trigger_dic(json_data,battleTriggerOutPath)
-        gen_table_path_file(tableDataPathList,tableDataOutPath)
+                    # if class_name == 'BattleTrigger':
+                       # gen_battle_trigger_dic(json_data,battleTriggerOutPath)
+        # gen_table_path_file(tableDataPathList,tableDataOutPath)
         print("finish json! : to : " + out)
       
         

@@ -12,7 +12,7 @@ import shutil
 table_input_dir = 'data_table'
 
 # 客户端 cs define 文件输出目录
-client_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Data/Define/Table"
+client_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Config/Table"
 # 客户端 json 文件输出目录
 # client_json_out_dir = "../001_GameFramework_Client/Assets/BuildRes/TableData"
 
@@ -34,7 +34,7 @@ common_json_out_dir = "../001_GameFramework_Table/CommonData/Table"
 
 
 #资源 id 生成目录
-res_id_out_dir = "../001_GameFramework_Client/Assets/Script/Common/DefineDic"
+res_id_out_dir = "../001_GameFramework_Client/Assets/Script/Common/Define"
 
 #战斗触发器 dic 根生成目录
 battle_trigger_out_dir = "../001_GameFramework_Client/Assets/Script/Common/DefineDic"
