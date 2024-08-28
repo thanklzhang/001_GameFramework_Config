@@ -1,0 +1,10 @@
+[
+    {
+        "id": 1000,
+        "name": "\u84dd\u6280\u80fd\u6c60\u5b50",
+        "describe": "\u7b49\u7ea7\u4e3a\u84dd\uff082\u7ea7\uff09\u7684\u6280\u80fd\u6c60\u5b50",
+        "fixedRewardList": "",
+        "rewardIdList": "10000,20000",
+        "rewardWeightList": "50,50"
+    }
+]

@@ -1,0 +1,35 @@
+[
+    {
+        "id": 10000,
+        "name": "\u83b7\u5f97\u6280\u80fd \u968f\u673a",
+        "describe": "\u83b7\u5f97\u6280\u80fd  \u968f\u673a",
+        "iconResId": 15003751,
+        "type": 100,
+        "valueList": "2001002,200103,2001004,2001005,2001006",
+        "weightList": "1,1,1,1,1",
+        "count": 1,
+        "makeSureRewardOccasion": 0
+    },
+    {
+        "id": 20000,
+        "name": "\u6b66\u5668\u5347\u7ea7",
+        "describe": "\u6b66\u5668\u5347\u7ea7",
+        "iconResId": 15003752,
+        "type": 200,
+        "valueList": "1,3",
+        "weightList": "50,50",
+        "count": 1,
+        "makeSureRewardOccasion": 0
+    },
+    {
+        "id": 30000,
+        "name": "\u83b7\u5f97\u5b9d\u7269  1,3\u7b49\u7ea7\u968f\u673a",
+        "describe": "\u83b7\u5f97\u5b9d\u7269  1,3\u7b49\u7ea7\u968f\u673a",
+        "iconResId": 15003753,
+        "type": 300,
+        "valueList": "1,3",
+        "weightList": "50,50",
+        "count": 1,
+        "makeSureRewardOccasion": 0
+    }
+]

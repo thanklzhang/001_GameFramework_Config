@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1000,
+        "describe": "\u7eaf\u672c\u5730\u6218\u6597\u6d4b\u8bd5\uff1a\u7b2c 1 \u6ce2 \u602a\u72691",
+        "index": 1,
+        "delayTime": 1000,
+        "intervalTime": 1000,
+        "triggerCount": 1,
+        "entityConfigId": 1000210,
+        "entityCount": 1,
+        "posType": 0
+    },
+    {
+        "id": 1001,
+        "describe": "\u7eaf\u672c\u5730\u6218\u6597\u6d4b\u8bd5\uff1a\u7b2c 1 \u6ce2 \u602a\u72692",
+        "index": 1,
+        "delayTime": 40000000,
+        "intervalTime": 3000,
+        "triggerCount": 5,
+        "entityConfigId": 1000202,
+        "entityCount": 2,
+        "posType": 0
+    },
+    {
+        "id": 1002,
+        "describe": "\u7eaf\u672c\u5730\u6218\u6597\u6d4b\u8bd5\uff1a\u7b2c 2 \u6ce2 \u602a\u72691",
+        "index": 2,
+        "delayTime": 40000000,
+        "intervalTime": 2000,
+        "triggerCount": 5,
+        "entityConfigId": 1000201,
+        "entityCount": 2,
+        "posType": 0
+    },
+    {
+        "id": 1003,
+        "describe": "\u7eaf\u672c\u5730\u6218\u6597\u6d4b\u8bd5\uff1a\u7b2c 2 \u6ce2 \u602a\u72692",
+        "index": 2,
+        "delayTime": 40000000,
+        "intervalTime": 3000,
+        "triggerCount": 5,
+        "entityConfigId": 1000202,
+        "entityCount": 2,
+        "posType": 0
+    },
+    {
+        "id": 1004,
+        "describe": "\u7eaf\u672c\u5730\u6218\u6597\u6d4b\u8bd5\uff1a\u7b2c 3 \u6ce2 boss",
+        "index": 3,
+        "delayTime": 40000000,
+        "intervalTime": 0,
+        "triggerCount": 1,
+        "entityConfigId": 1000210,
+        "entityCount": 1,
+        "posType": 0
+    }
+]

@@ -1,0 +1,30 @@
+[
+    {
+        "id": 16001001,
+        "name": "\u4e0a\u5b98\u7fce\u6280\u80fd3\u4f4d\u79fb",
+        "describe": "\u4e0a\u5b98\u7fce\u6280\u80fd3\u4f4d\u79fb",
+        "moveSpeed": 10000,
+        "moveTargetPosType": 0,
+        "endPosType": 1,
+        "lastTime": 0,
+        "startEffectList": "18001004",
+        "endEffectList": "",
+        "endRemoveEffectList": "18001004",
+        "isThisEndForSkillEnd": 1,
+        "effectResId": 15008009
+    },
+    {
+        "id": 16001010,
+        "name": "\u4f4d\u79fb\u6d4b\u8bd5",
+        "describe": "\u4f4d\u79fb\u6d4b\u8bd5",
+        "moveSpeed": 20000,
+        "moveTargetPosType": 0,
+        "endPosType": 2,
+        "lastTime": 1500,
+        "startEffectList": "18001010",
+        "endEffectList": "",
+        "endRemoveEffectList": "18001010",
+        "isThisEndForSkillEnd": 1,
+        "effectResId": 15008009
+    }
+]

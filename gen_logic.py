@@ -246,11 +246,19 @@ def get_table_data_list(input_file, output_dictionary):
                         curr_data[field_name] = ""
                     if field_type == 'int':
                         curr_data[field_name] = 0
+                    if field_type == 'List<int>':
+                        curr_data[field_name] = []
                 else:
                     if field_type == 'string':
                         curr_data[field_name] = str(data_obj.value)
                     if field_type == 'int':
                         curr_data[field_name] = int(data_obj.value)
+                    if field_type == 'List<int>':
+                    #   curr_data[field_name] = [](data_obj.value)
+                        valueStr = str(data_obj.value)
+                        #print("zxy test   : " + valueStr)
+                        curr_data[field_name] = [int(item) for item in valueStr.split(',')]
+
             if is_gen_data:
                 json_data_list.append(curr_data)
 
