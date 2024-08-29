@@ -7,9 +7,13 @@
         "moveTargetPosType": 0,
         "endPosType": 1,
         "lastTime": 0,
-        "startEffectList": "18001004",
-        "endEffectList": "",
-        "endRemoveEffectList": "18001004",
+        "startEffectList": [
+            18001004
+        ],
+        "endEffectList": [],
+        "endRemoveEffectList": [
+            18001004
+        ],
         "isThisEndForSkillEnd": 1,
         "effectResId": 15008009
     },
@@ -21,9 +25,13 @@
         "moveTargetPosType": 0,
         "endPosType": 2,
         "lastTime": 1500,
-        "startEffectList": "18001010",
-        "endEffectList": "",
-        "endRemoveEffectList": "18001010",
+        "startEffectList": [
+            18001010
+        ],
+        "endEffectList": [],
+        "endRemoveEffectList": [
+            18001010
+        ],
         "isThisEndForSkillEnd": 1,
         "effectResId": 15008009
     }

@@ -9,8 +9,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 1,
-        "effectList": "3001001",
-        "effectListOnGain": "",
+        "effectList": [
+            3001001
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 233,
         "afterTime": 100,
@@ -22,12 +24,21 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 1,
-        "skillReleaserDirectParam": "15008102,1500,1500,0",
+        "skillReleaserDirectParam": [
+            15008102,
+            1500,
+            1500,
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001002,
@@ -39,8 +50,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 2,
-        "effectList": "14001010",
-        "effectListOnGain": "",
+        "effectList": [
+            14001010
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 466,
         "afterTime": 200,
@@ -52,12 +65,18 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001003,
@@ -69,8 +88,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 0,
-        "effectList": "13001003",
-        "effectListOnGain": "",
+        "effectList": [
+            13001003
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 466,
         "afterTime": 200,
@@ -82,12 +103,18 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001004,
@@ -99,8 +126,10 @@
         "skillReleaseType": 1,
         "isPassiveSkill": 0,
         "skillTargetType": 0,
-        "effectList": "16001001",
-        "effectListOnGain": "",
+        "effectList": [
+            16001001
+        ],
+        "effectListOnGain": [],
         "releaseRange": 100000,
         "beforeTime": 466,
         "afterTime": 200,
@@ -112,12 +141,21 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 1,
-        "skillReleaserDirectParam": "15008102,1500,1500,0",
+        "skillReleaserDirectParam": [
+            15008102,
+            1500,
+            1500,
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001005,
@@ -129,8 +167,11 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 2,
-        "effectList": "14001011,14001012",
-        "effectListOnGain": "",
+        "effectList": [
+            14001011,
+            14001012
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 466,
         "afterTime": 200,
@@ -142,12 +183,18 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001006,
@@ -159,8 +206,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
         "skillTargetType": 2,
-        "effectList": "18001002",
-        "effectListOnGain": "",
+        "effectList": [
+            18001002
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 0,
         "afterTime": 0,
@@ -172,12 +221,18 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001021,
@@ -189,8 +244,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 1,
-        "effectList": "3001011",
-        "effectListOnGain": "",
+        "effectList": [
+            3001011
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 180,
         "afterTime": 100,
@@ -202,12 +259,19 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 2,
-        "skillReleaserDirectParam": "15008102,6000",
+        "skillReleaserDirectParam": [
+            15008102,
+            6000
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001022,
@@ -219,8 +283,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 0,
-        "effectList": "3001012",
-        "effectListOnGain": "",
+        "effectList": [
+            3001012
+        ],
+        "effectListOnGain": [],
         "releaseRange": 6000,
         "beforeTime": 1800,
         "afterTime": 1800,
@@ -232,12 +298,21 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "15008101,2000,2000,1",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            15008101,
+            2000,
+            2000,
+            1
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001023,
@@ -249,8 +324,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 2,
-        "effectList": "14001020",
-        "effectListOnGain": "",
+        "effectList": [
+            14001020
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 180,
         "afterTime": 100,
@@ -262,12 +339,18 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001024,
@@ -279,8 +362,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 1,
-        "effectList": "13001011",
-        "effectListOnGain": "",
+        "effectList": [
+            13001011
+        ],
+        "effectListOnGain": [],
         "releaseRange": 8000,
         "beforeTime": 180,
         "afterTime": 100,
@@ -292,12 +377,18 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001025,
@@ -309,8 +400,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 1,
-        "effectList": "3001014",
-        "effectListOnGain": "",
+        "effectList": [
+            3001014
+        ],
+        "effectListOnGain": [],
         "releaseRange": 8000,
         "beforeTime": 180,
         "afterTime": 100,
@@ -322,12 +415,18 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001026,
@@ -339,8 +438,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
         "skillTargetType": 2,
-        "effectList": "18001020",
-        "effectListOnGain": "",
+        "effectList": [
+            18001020
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 0,
         "afterTime": 0,
@@ -352,12 +453,18 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2001050,
@@ -369,8 +476,10 @@
         "skillReleaseType": 1,
         "isPassiveSkill": 0,
         "skillTargetType": 0,
-        "effectList": "16001010",
-        "effectListOnGain": "",
+        "effectList": [
+            16001010
+        ],
+        "effectListOnGain": [],
         "releaseRange": 10000,
         "beforeTime": 1500,
         "afterTime": 0,
@@ -382,12 +491,22 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 1,
-        "skillDirectorProjectileParam": "15008101,1500,10000",
+        "skillDirectorProjectileParam": [
+            15008101,
+            1500,
+            10000
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": "2500005"
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": [
+            2500005
+        ]
     },
     {
         "id": 2002001,
@@ -399,8 +518,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 1,
-        "effectList": "3002001",
-        "effectListOnGain": "",
+        "effectList": [
+            3002001
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 300,
         "afterTime": 300,
@@ -412,12 +533,12 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "",
+        "skillDirectorProjectileParam": [],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "",
+        "skillReleaserDirectParam": [],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [],
+        "skillTrackList": []
     },
     {
         "id": 2002002,
@@ -429,8 +550,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 2,
-        "effectList": "13002030",
-        "effectListOnGain": "",
+        "effectList": [
+            13002030
+        ],
+        "effectListOnGain": [],
         "releaseRange": 4000,
         "beforeTime": 1500,
         "afterTime": 700,
@@ -442,12 +565,20 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": "2500010"
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": [
+            2500010
+        ]
     },
     {
         "id": 2002011,
@@ -459,8 +590,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 1,
-        "effectList": "3002011",
-        "effectListOnGain": "",
+        "effectList": [
+            3002011
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 300,
         "afterTime": 200,
@@ -472,12 +605,12 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "",
+        "skillDirectorProjectileParam": [],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "",
+        "skillReleaserDirectParam": [],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [],
+        "skillTrackList": []
     },
     {
         "id": 2002012,
@@ -489,8 +622,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 0,
-        "effectList": "3002012",
-        "effectListOnGain": "",
+        "effectList": [
+            3002012
+        ],
+        "effectListOnGain": [],
         "releaseRange": 8000,
         "beforeTime": 1000,
         "afterTime": 700,
@@ -502,12 +637,23 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 1,
-        "skillTargetDirectParam": "15008101,2000,8000,1",
-        "skillTrackList": "2500011"
+        "skillTargetDirectParam": [
+            15008101,
+            2000,
+            8000,
+            1
+        ],
+        "skillTrackList": [
+            2500011
+        ]
     },
     {
         "id": 2003001,
@@ -519,8 +665,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 1,
-        "effectList": "3003001",
-        "effectListOnGain": "",
+        "effectList": [
+            3003001
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 300,
         "afterTime": 300,
@@ -532,12 +680,12 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "",
+        "skillDirectorProjectileParam": [],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "",
+        "skillReleaserDirectParam": [],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [],
+        "skillTrackList": []
     },
     {
         "id": 2003002,
@@ -549,8 +697,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 1,
-        "effectList": "17001001",
-        "effectListOnGain": "",
+        "effectList": [
+            17001001
+        ],
+        "effectListOnGain": [],
         "releaseRange": 8000,
         "beforeTime": 600,
         "afterTime": 0,
@@ -562,12 +712,12 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "",
+        "skillDirectorProjectileParam": [],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "",
+        "skillReleaserDirectParam": [],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [],
+        "skillTrackList": []
     },
     {
         "id": 2003003,
@@ -579,8 +729,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 2,
-        "effectList": "14001005",
-        "effectListOnGain": "",
+        "effectList": [
+            14001005
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 50,
         "afterTime": 0,
@@ -592,12 +744,12 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008005,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "",
+        "skillDirectorProjectileParam": [],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "",
+        "skillReleaserDirectParam": [],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [],
+        "skillTrackList": []
     },
     {
         "id": 2003004,
@@ -609,8 +761,10 @@
         "skillReleaseType": 1,
         "isPassiveSkill": 0,
         "skillTargetType": 0,
-        "effectList": "16001001",
-        "effectListOnGain": "",
+        "effectList": [
+            16001001
+        ],
+        "effectListOnGain": [],
         "releaseRange": 8000,
         "beforeTime": 0,
         "afterTime": 0,
@@ -622,12 +776,12 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "",
+        "skillDirectorProjectileParam": [],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "",
+        "skillReleaserDirectParam": [],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [],
+        "skillTrackList": []
     },
     {
         "id": 2003050,
@@ -639,8 +793,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
         "skillTargetType": 2,
-        "effectList": "18001040",
-        "effectListOnGain": "",
+        "effectList": [
+            18001040
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 0,
         "afterTime": 0,
@@ -652,12 +808,18 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2003051,
@@ -669,8 +831,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
         "skillTargetType": 2,
-        "effectList": "18001041",
-        "effectListOnGain": "",
+        "effectList": [
+            18001041
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 0,
         "afterTime": 0,
@@ -682,12 +846,18 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     },
     {
         "id": 2003052,
@@ -699,8 +869,10 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "skillTargetType": 0,
-        "effectList": "13002041",
-        "effectListOnGain": "",
+        "effectList": [
+            13002041
+        ],
+        "effectListOnGain": [],
         "releaseRange": 0,
         "beforeTime": 1500,
         "afterTime": 700,
@@ -712,12 +884,20 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": "2500020"
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": [
+            2500020
+        ]
     },
     {
         "id": 2005001,
@@ -729,8 +909,13 @@
         "skillReleaseType": 2,
         "isPassiveSkill": 0,
         "skillTargetType": 0,
-        "effectList": "13050001,13050002",
-        "effectListOnGain": "14050002",
+        "effectList": [
+            13050001,
+            13050002
+        ],
+        "effectListOnGain": [
+            14050002
+        ],
         "releaseRange": 0,
         "beforeTime": 0,
         "afterTime": 0,
@@ -742,11 +927,17 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": "0",
+        "skillDirectorProjectileParam": [
+            0
+        ],
         "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": "0",
+        "skillReleaserDirectParam": [
+            0
+        ],
         "skillTargetDirectType": 0,
-        "skillTargetDirectParam": "0",
-        "skillTrackList": ""
+        "skillTargetDirectParam": [
+            0
+        ],
+        "skillTrackList": []
     }
 ]

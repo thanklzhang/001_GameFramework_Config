@@ -5,22 +5,34 @@
         "describe": "\u4e0a\u5b98\u7fce\u6280\u80fd2\u51fb\u6655 buff",
         "iconResId": 15003114,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "2000",
+        "abnormalStateTypeList": [
+            2000
+        ],
         "lastTime": 3000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "1,1000|3,500",
+        "lastTimeAddedGroup": [
+            [
+                1,
+                1000
+            ],
+            [
+                3,
+                500
+            ]
+        ],
         "startEffectList": [
             4001003
         ],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [],
+        "addedValueGroup": [],
         "endRemoveEffectList": [],
         "effectResId": 15008015
     },
@@ -30,20 +42,25 @@
         "describe": "\u4e0a\u5b98\u7fce\u6280\u80fd3\u4f4d\u79fb\u88ab\u52a8\u5bf9\u8303\u56f4\u5185\u5b9e\u4f53\u4f24\u5bb3\u7684buff",
         "iconResId": 0,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "",
+        "abnormalStateTypeList": [],
         "lastTime": 0,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [],
+        "addedValueGroup": [],
         "endRemoveEffectList": [],
         "effectResId": 15008009
     },
@@ -53,22 +70,27 @@
         "describe": "\u5510\u4f9d\u6280\u80fd\u6d41\u8840\u4f24\u5bb3\u7684buff",
         "iconResId": 15003218,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "",
+        "abnormalStateTypeList": [],
         "lastTime": 5000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 1000,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [
             4001005
         ],
         "endEffectList": [],
         "addedAttrGroup": [],
+        "addedValueGroup": [],
         "endRemoveEffectList": [],
         "effectResId": 15008023
     },
@@ -78,21 +100,34 @@
         "describe": "\u5510\u4f9d\u6280\u80fd\u51cf\u901f\u7684buff",
         "iconResId": 15003108,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "1005",
+        "abnormalStateTypeList": [
+            1005
+        ],
         "lastTime": 5000,
         "isCanBeClear": 1,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [
             5
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                -1400,
+                1
+            ]
         ],
         "endRemoveEffectList": [],
         "effectResId": 0
@@ -103,22 +138,27 @@
         "describe": "\u65e5\u708e",
         "iconResId": 15003224,
         "effectTargetType": 1,
-        "abnormalStateTypeList": "",
+        "abnormalStateTypeList": [],
         "lastTime": 5000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 1000,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [
             13001005
         ],
         "endEffectList": [],
         "addedAttrGroup": [],
+        "addedValueGroup": [],
         "endRemoveEffectList": [],
         "effectResId": 15008002
     },
@@ -128,20 +168,27 @@
         "describe": "\u5510\u4f9d\u653b\u51fb\u547d\u4e2d\u6ee13\u5c42\u4f24\u5bb3(\u53d7\u4f24\u5bb3\u8005)",
         "iconResId": 15003111,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "",
+        "abnormalStateTypeList": [],
         "lastTime": 5000,
         "isCanBeClear": 0,
         "maxLayerCount": 3,
         "addLayerType": 1,
         "isMaxLayerRemove": 1,
-        "maxLayerTriggerEffectList": "4002021",
+        "maxLayerTriggerEffectList": [
+            4002021
+        ],
         "maxLayerTriggerTargetType": 1,
         "intervalTime": 1000,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [],
+        "addedValueGroup": [],
         "endRemoveEffectList": [],
         "effectResId": 15008012
     },
@@ -151,21 +198,34 @@
         "describe": "\u5510\u4f9d\u653b\u51fb\u547d\u4e2d\u589e\u52a0\u79fb\u901f\u7684 buff",
         "iconResId": 15003107,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "5",
+        "abnormalStateTypeList": [
+            5
+        ],
         "lastTime": 5000,
         "isCanBeClear": 0,
         "maxLayerCount": 5,
         "addLayerType": 1,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [
             1005
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                150,
+                0
+            ]
         ],
         "endRemoveEffectList": [],
         "effectResId": 15008025
@@ -176,22 +236,27 @@
         "describe": "\u4e0a\u5b98\u552f\u4e0b\u6b21\u653b\u51fb\u7fa4\u653b\u6280\u80fd",
         "iconResId": 15003751,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "",
+        "abnormalStateTypeList": [],
         "lastTime": 6000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [
             18001003
         ],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [],
+        "addedValueGroup": [],
         "endRemoveEffectList": [
             18001003
         ],
@@ -203,21 +268,34 @@
         "describe": "\u4e0a\u5b98\u552f R \u6280\u80fd  \u51cf\u4f24  ",
         "iconResId": 15003101,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "1",
+        "abnormalStateTypeList": [
+            1
+        ],
         "lastTime": 10000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [
             10
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                -700,
+                1
+            ]
         ],
         "endRemoveEffectList": [],
         "effectResId": 15008017
@@ -228,21 +306,34 @@
         "describe": "\u4e0a\u5b98\u552f R \u6280\u80fd  \u653b\u51fb\u589e\u5f3a",
         "iconResId": 15003105,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "1010",
+        "abnormalStateTypeList": [
+            1010
+        ],
         "lastTime": 10000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [
             1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                700,
+                1
+            ]
         ],
         "endRemoveEffectList": [],
         "effectResId": 0
@@ -253,22 +344,27 @@
         "describe": "\u5510\u4f9d\u6563\u5c04buff",
         "iconResId": 15003241,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "",
+        "abnormalStateTypeList": [],
         "lastTime": 6000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [
             18001030
         ],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [],
+        "addedValueGroup": [],
         "endRemoveEffectList": [
             18001030
         ],
@@ -280,21 +376,34 @@
         "describe": "\u5510\u4f9d R \u6280\u80fd \u6613\u4f24 buff",
         "iconResId": 15003121,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "10",
+        "abnormalStateTypeList": [
+            10
+        ],
         "lastTime": 10000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [
             10
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                500,
+                1
+            ]
         ],
         "endRemoveEffectList": [],
         "effectResId": 15008024
@@ -305,21 +414,34 @@
         "describe": "\u5927\u602a 1 \u6bcf\u6b21\u653b\u51fb\u547d\u4e2d\u589e\u52a0\u653b\u901f",
         "iconResId": 15003125,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "4",
+        "abnormalStateTypeList": [
+            4
+        ],
         "lastTime": 3000,
         "isCanBeClear": 0,
         "maxLayerCount": 5,
         "addLayerType": 1,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 1,
         "intervalTime": 1000,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [
             1004
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                500,
+                0
+            ]
         ],
         "endRemoveEffectList": [],
         "effectResId": 15008026
@@ -330,20 +452,27 @@
         "describe": "\u5927\u602a 1 \u653b\u51fb\u547d\u4e2d\u6ee13\u5c42\u4f24\u5bb3(\u53d7\u4f24\u5bb3\u8005) \u7fa4\u653b",
         "iconResId": 15003216,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "",
+        "abnormalStateTypeList": [],
         "lastTime": 5000,
         "isCanBeClear": 0,
         "maxLayerCount": 3,
         "addLayerType": 1,
         "isMaxLayerRemove": 1,
-        "maxLayerTriggerEffectList": "13002040",
+        "maxLayerTriggerEffectList": [
+            13002040
+        ],
         "maxLayerTriggerTargetType": 1,
         "intervalTime": 1000,
-        "lastTimeAddedGroup": "0",
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [],
+        "addedValueGroup": [],
         "endRemoveEffectList": [],
         "effectResId": 15008012
     },
@@ -353,20 +482,28 @@
         "describe": "\u6d4b\u8bd5\u9053\u5177 \u51fb\u6655 buff",
         "iconResId": 15003114,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "2000",
+        "abnormalStateTypeList": [
+            2000
+        ],
         "lastTime": 3000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "0,1000",
+        "lastTimeAddedGroup": [
+            [
+                0,
+                1000
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [],
+        "addedValueGroup": [],
         "endRemoveEffectList": [],
         "effectResId": 15008015
     },
@@ -376,21 +513,35 @@
         "describe": "\u6d4b\u8bd5\u9053\u5177 \u589e\u52a0\u5c5e\u6027 buff",
         "iconResId": 15003114,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "5",
+        "abnormalStateTypeList": [
+            5
+        ],
         "lastTime": 999999000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "0,5000",
+        "lastTimeAddedGroup": [
+            [
+                0,
+                5000
+            ]
+        ],
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [
             5
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                2500,
+                0
+            ]
         ],
         "endRemoveEffectList": [],
         "effectResId": 15008017
@@ -401,16 +552,27 @@
         "describe": "\u4e0a\u5b98\u7fce\u6280\u80fd2\u51fb\u6655 buff",
         "iconResId": 15003114,
         "effectTargetType": 0,
-        "abnormalStateTypeList": "2000",
+        "abnormalStateTypeList": [
+            2000
+        ],
         "lastTime": 3000,
         "isCanBeClear": 0,
         "maxLayerCount": 0,
         "addLayerType": 0,
         "isMaxLayerRemove": 0,
-        "maxLayerTriggerEffectList": "",
+        "maxLayerTriggerEffectList": [],
         "maxLayerTriggerTargetType": 0,
         "intervalTime": 0,
-        "lastTimeAddedGroup": "1,1000|3,500",
+        "lastTimeAddedGroup": [
+            [
+                1,
+                1000
+            ],
+            [
+                3,
+                500
+            ]
+        ],
         "startEffectList": [
             2,
             3,
@@ -419,6 +581,7 @@
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [],
+        "addedValueGroup": [],
         "endRemoveEffectList": [],
         "effectResId": 15008015
     }

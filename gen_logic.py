@@ -8,6 +8,7 @@ import os.path
 # import re
 import sys
 import codecs
+import re 
 
 from jinja2 import Environment, FileSystemLoader
 
@@ -246,19 +247,50 @@ def get_table_data_list(input_file, output_dictionary):
                         curr_data[field_name] = ""
                     if field_type == 'int':
                         curr_data[field_name] = 0
-                    if field_type == 'List<int>':
+                    if field_type == 'bool':
+                        curr_data[field_name] = ""
+                    if 'List' in field_type:
                         curr_data[field_name] = []
                 else:
+                    #base
                     if field_type == 'string':
                         curr_data[field_name] = str(data_obj.value)
                     if field_type == 'int':
                         curr_data[field_name] = int(data_obj.value)
+                    if field_type == 'bool':
+                        curr_data[field_name] = str(data_obj.value)
+                        
+                    #List<>
                     if field_type == 'List<int>':
-                    #   curr_data[field_name] = [](data_obj.value)
                         valueStr = str(data_obj.value)
-                        #print("zxy test   : " + valueStr)
                         curr_data[field_name] = [int(item) for item in valueStr.split(',')]
-
+                    if field_type == 'List<bool>':
+                        valueStr = str(data_obj.value)
+                        curr_data[field_name] = [str(item) for item in valueStr.split(',')]
+                    if field_type == 'List<string>':
+                        valueStr = str(data_obj.value)
+                        curr_data[field_name] = [str(item) for item in valueStr.split(',')]
+                    
+                    #List<List<>>
+                    if 'List<List<' in field_type:
+                        parseType = extract_type_from_list_pattern(field_type)
+                        
+                        if parseType == None:
+                            continue
+                            
+                        valueStr = str(data_obj.value)
+                        result = []
+                        outArr = [str(item) for item in valueStr.split('|')]
+                        
+                        if parseType == 'int':
+                            for inner in outArr:
+                                result.append([int(item) for item in inner.split(',')])
+                        else:
+                            for inner in outArr:
+                                result.append([str(item) for item in inner.split(',')])
+                            
+                        curr_data[field_name] = result
+                        
             if is_gen_data:
                 json_data_list.append(curr_data)
 
@@ -266,7 +298,17 @@ def get_table_data_list(input_file, output_dictionary):
     class_name = os.path.splitext(file_name)[0]
     return json_data_list,class_name
    
-
+ 
+  
+def extract_type_from_list_pattern(s):  
+    # 正则表达式匹配 List<List<type>> 模式  
+    match = re.match(r'List<List<([^>]+)>>', s)  
+    if match:  
+        # 如果匹配成功，返回类型  
+        return match.group(1)  
+    else:  
+        # 如果匹配失败，返回 None  
+        return None  
 
 def capitalize(string, lower_rest=False):
     ''' 字符转换

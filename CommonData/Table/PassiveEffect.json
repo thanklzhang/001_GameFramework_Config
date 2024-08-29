@@ -7,8 +7,10 @@
         "triggerParam": "",
         "triggerChance": 1000,
         "triggerTargetType": 3,
-        "triggerEffectList": "14001007",
-        "afterTriggerRemoveEffectList": "",
+        "triggerEffectList": [
+            14001007
+        ],
+        "afterTriggerRemoveEffectList": [],
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -20,8 +22,10 @@
         "triggerParam": "",
         "triggerChance": 500,
         "triggerTargetType": 1,
-        "triggerEffectList": "4002022",
-        "afterTriggerRemoveEffectList": "",
+        "triggerEffectList": [
+            4002022
+        ],
+        "afterTriggerRemoveEffectList": [],
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -33,8 +37,10 @@
         "triggerParam": "",
         "triggerChance": 1000,
         "triggerTargetType": 3,
-        "triggerEffectList": "13001006",
-        "afterTriggerRemoveEffectList": "",
+        "triggerEffectList": [
+            13001006
+        ],
+        "afterTriggerRemoveEffectList": [],
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -46,8 +52,10 @@
         "triggerParam": "",
         "triggerChance": 1000,
         "triggerTargetType": 5,
-        "triggerEffectList": "4001050",
-        "afterTriggerRemoveEffectList": "",
+        "triggerEffectList": [
+            4001050
+        ],
+        "afterTriggerRemoveEffectList": [],
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -59,8 +67,10 @@
         "triggerParam": "",
         "triggerChance": 1000,
         "triggerTargetType": 5,
-        "triggerEffectList": "4001004",
-        "afterTriggerRemoveEffectList": "",
+        "triggerEffectList": [
+            4001004
+        ],
+        "afterTriggerRemoveEffectList": [],
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -72,8 +82,10 @@
         "triggerParam": "",
         "triggerChance": 1000,
         "triggerTargetType": 1,
-        "triggerEffectList": "14001008",
-        "afterTriggerRemoveEffectList": "",
+        "triggerEffectList": [
+            14001008
+        ],
+        "afterTriggerRemoveEffectList": [],
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -85,8 +97,10 @@
         "triggerParam": "",
         "triggerChance": 1000,
         "triggerTargetType": 3,
-        "triggerEffectList": "13001010",
-        "afterTriggerRemoveEffectList": "",
+        "triggerEffectList": [
+            13001010
+        ],
+        "afterTriggerRemoveEffectList": [],
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -98,8 +112,10 @@
         "triggerParam": "",
         "triggerChance": 1000,
         "triggerTargetType": 1,
-        "triggerEffectList": "14001030",
-        "afterTriggerRemoveEffectList": "",
+        "triggerEffectList": [
+            14001030
+        ],
+        "afterTriggerRemoveEffectList": [],
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -111,8 +127,10 @@
         "triggerParam": "",
         "triggerChance": 1000,
         "triggerTargetType": 3,
-        "triggerEffectList": "14001031",
-        "afterTriggerRemoveEffectList": "",
+        "triggerEffectList": [
+            14001031
+        ],
+        "afterTriggerRemoveEffectList": [],
         "triggerCD": 0,
         "triggerEffectResId": 0
     }

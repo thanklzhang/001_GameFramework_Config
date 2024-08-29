@@ -9,8 +9,22 @@
         "addType": 2,
         "isDestroyAfterUse": 1,
         "skillId": 2005001,
-        "addedAttrGroup": "1,2",
-        "addedValueGroup": "0,10000,0|0,5000,0"
+        "addedAttrGroup": [
+            1,
+            2
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                10000,
+                0
+            ],
+            [
+                0,
+                5000,
+                0
+            ]
+        ]
     },
     {
         "id": 200001,
@@ -22,8 +36,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 2001023,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 200002,
@@ -35,8 +49,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 2001024,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 201000,
@@ -48,8 +62,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 201001,
@@ -61,8 +75,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 201002,
@@ -74,8 +88,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 201003,
@@ -87,8 +101,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 201004,
@@ -100,8 +114,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 201005,
@@ -113,8 +127,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 201006,
@@ -126,8 +140,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 202000,
@@ -139,8 +153,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 202001,
@@ -152,8 +166,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 202002,
@@ -165,8 +179,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 202003,
@@ -178,8 +192,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 202004,
@@ -191,8 +205,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 202005,
@@ -204,8 +218,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 202006,
@@ -217,8 +231,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 203000,
@@ -230,8 +244,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 203001,
@@ -243,8 +257,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 203002,
@@ -256,8 +270,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 203003,
@@ -269,8 +283,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 203004,
@@ -282,8 +296,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 203005,
@@ -295,8 +309,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 204000,
@@ -308,8 +322,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 204001,
@@ -321,8 +335,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 204002,
@@ -334,8 +348,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 204003,
@@ -347,8 +361,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 204004,
@@ -360,8 +374,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 204005,
@@ -373,8 +387,8 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 500001,
@@ -386,7 +400,7 @@
         "addType": 2,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "addedAttrGroup": "",
-        "addedValueGroup": ""
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     }
 ]

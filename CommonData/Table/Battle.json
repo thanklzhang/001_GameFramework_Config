@@ -6,12 +6,51 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0,0|1,1200001|2,1200001",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1200001
+            ],
+            [
+                2,
+                1200001
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5001012,
@@ -20,12 +59,51 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0,0|1,1200001|2,1200001",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1200001
+            ],
+            [
+                2,
+                1200001
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5001013,
@@ -34,12 +112,51 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0,0|1,1200001|2,1200001",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1200001
+            ],
+            [
+                2,
+                1200001
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5001014,
@@ -48,12 +165,51 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0,0|1,1200001|2,1200001",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1200001
+            ],
+            [
+                2,
+                1200001
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5001015,
@@ -62,12 +218,51 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0,0|1,1200001|2,1200001",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0,
+                0
+            ],
+            [
+                1,
+                1200001
+            ],
+            [
+                2,
+                1200001
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5001021,
@@ -76,12 +271,39 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0|-1"
+        "teamInfo": [
+            [
+                0
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5001022,
@@ -90,12 +312,42 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5001023,
@@ -104,12 +356,42 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5001031,
@@ -118,12 +400,45 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|4,5,6,7"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                4,
+                5,
+                6,
+                7
+            ]
+        ]
     },
     {
         "id": 5001032,
@@ -132,12 +447,42 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5001033,
@@ -146,12 +491,42 @@
         "activityId": 1,
         "mapId": 7900010,
         "triggerId": 6001001,
-        "forceUseHeroList": "0",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5002001,
@@ -160,12 +535,42 @@
         "activityId": 10,
         "mapId": 7900010,
         "triggerId": 6002001,
-        "forceUseHeroList": "0",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8002001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5900001,
@@ -174,12 +579,43 @@
         "activityId": 0,
         "mapId": 7001001,
         "triggerId": 6001001,
-        "forceUseHeroList": "0,1000202",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0,
+                1000202
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5900002,
@@ -188,12 +624,51 @@
         "activityId": 0,
         "mapId": 7001001,
         "triggerId": 6001001,
-        "forceUseHeroList": "0,1200001|1,1200002|2,1200003",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0,
+                1200001
+            ],
+            [
+                1,
+                1200002
+            ],
+            [
+                2,
+                1200003
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 10000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     },
     {
         "id": 5900010,
@@ -202,11 +677,42 @@
         "activityId": 0,
         "mapId": 7900010,
         "triggerId": 6003001,
-        "forceUseHeroList": "0,1200021",
-        "initPos": "14,0,12|14,0,13|13,0,14",
+        "forceUseHeroList": [
+            [
+                0,
+                1200021
+            ]
+        ],
+        "initPos": [
+            [
+                14,
+                0,
+                12
+            ],
+            [
+                14,
+                0,
+                13
+            ],
+            [
+                13,
+                0,
+                14
+            ]
+        ],
         "bossLimitTime": 120000,
         "processId": 100,
         "battleConfigId": 8001001,
-        "teamInfo": "0,1,2,3|-1"
+        "teamInfo": [
+            [
+                0,
+                1,
+                2,
+                3
+            ],
+            [
+                -1
+            ]
+        ]
     }
 ]
