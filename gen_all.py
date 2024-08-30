@@ -32,7 +32,7 @@ pure_battle_logic_table_path = "../001_GameFramework_Battle/BattleProject/Common
 battle_config_define_cs_out_dir = "../001_GameFramework_Battle/BattleProject/BattleLogic/BattleCore/Config/ConfigDefine"
 
 # 客户端实现战斗配置接口定义 cs define 文件输出目录
-battle_config_client_impl_define_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Battle_Client/LocalBattleLogic/Executer/ConfigDefineImpl"
+battle_config_client_impl_define_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Battle_Client/LocalBattleLogic/Executer/Impl/ConfigImpl/ConfigDefineImpl"
 
 # 目前只生成一份 table 数据 前后端通用
 common_json_out_dir = "../001_GameFramework_Table/CommonData/Table"
