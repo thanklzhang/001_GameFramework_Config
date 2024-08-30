@@ -24,7 +24,13 @@ all_json_data_list = []
 
 def main(argv):
     print("")
-def gen(input,out,opType,resOutPath,battleTriggerOutPath,tableDataOutPath):
+def gen(args):
+    input = args.get('in_path')
+    out = args.get('out_path')
+    opType = args.get('op_type')
+    resOutPath = args.get('res_out_path')
+    battle_config_cs_path = args.get('battle_config_cs_path')
+    battle_config_impl_cs_path = args.get('battle_config_impl_cs_path')
     if OpType.cs == opType:
         #gen cs
         list_dirs = os.walk(input)
@@ -37,7 +43,7 @@ def gen(input,out,opType,resOutPath,battleTriggerOutPath,tableDataOutPath):
                 if ext == '.xlsx' and not '~$' in path_without_ext:
                     input_path = os.path.join(root, f)
                     # cs define files
-                    gen_cs_define_file(input_path,out)
+                    gen_cs_define_file(input_path,out,battle_config_cs_path,battle_config_impl_cs_path)
 
         print("finish cs finish! : to : " + out)
     elif OpType.json == opType:
@@ -69,7 +75,7 @@ def gen(input,out,opType,resOutPath,battleTriggerOutPath,tableDataOutPath):
 
 
 ################## 生成单个cs 定义文件
-def gen_cs_define_file(input_file,output_dictionary):
+def gen_cs_define_file(input_file,output_dictionary,battle_config_cs_path,battle_config_impl_cs_path):
     data_list,class_name = get_table_head_list(input_file)
     
     #过滤掉转表符的数据 和 id 项(因为 BaseTable 中已经有 id 的定义了)
@@ -79,17 +85,41 @@ def gen_cs_define_file(input_file,output_dictionary):
         if value.name == '#' or value.name == 'id':
             data_list.remove(value)
 
-    # for value in data_list:
-    #     print(value.name)
     env = Environment(loader=FileSystemLoader('./'))
+
+    #通用配置 cs 定义
     template = env.get_template('template/cs_template_class_define.j2')
     result = template.render( name=class_name,list=data_list)
 
     if not os.path.exists(output_dictionary):
-        os.mkdir(output_dictionary)
+        #os.mkdir(output_dictionary)
+        os.makedirs(output_dictionary, exist_ok=True)
 
     with codecs.open(f'{output_dictionary}/{class_name}.cs', "w", 'utf8') as f:
         f.write(result)
+        
+    #战斗配置定义cs
+    if battle_config_cs_path != None:
+        template = env.get_template('template/cs_template_class_define_battle_config.j2')
+        result = template.render( name=class_name,list=data_list)
+    
+        if not os.path.exists(battle_config_cs_path):
+            os.makedirs(battle_config_cs_path, exist_ok=True)
+    
+        with codecs.open(f'{battle_config_cs_path}/I{ class_name}.cs', "w", 'utf8') as f:
+            f.write(result)
+
+    #战斗配置的实现的定义cs
+    if battle_config_impl_cs_path != None:
+        template = env.get_template('template/cs_template_class_define_battle_config_client_impl.j2')
+        result = template.render( name=class_name,list=data_list)
+
+        if not os.path.exists(battle_config_impl_cs_path):
+            os.makedirs(battle_config_impl_cs_path, exist_ok=True)
+
+        with codecs.open(f'{battle_config_impl_cs_path}/{ class_name}_Impl.cs', "w", 'utf8') as f:
+            f.write(result)
+        
     print("finish generate cs_define : " + class_name + ".cs")
 
 ################## 生成单个json 文件

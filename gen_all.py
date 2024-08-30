@@ -28,6 +28,11 @@ pure_battle_logic_table_path = "../001_GameFramework_Battle/BattleProject/Common
 #纯战斗逻辑 table json 目录
 # pure_battle_logic_table_json_path = "../001_GameFramework_Battle/BattleProject/bin/Debug/netcoreapp3.1/Resource/Table"
 
+# 战斗配置接口定义 cs define 文件输出目录
+battle_config_define_cs_out_dir = "../001_GameFramework_Battle/BattleProject/BattleLogic/BattleCore/Config/ConfigDefine"
+
+# 客户端实现战斗配置接口定义 cs define 文件输出目录
+battle_config_client_impl_define_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Battle_Client/LocalBattleLogic/Executer/ConfigDefineImpl"
 
 # 目前只生成一份 table 数据 前后端通用
 common_json_out_dir = "../001_GameFramework_Table/CommonData/Table"
@@ -46,22 +51,33 @@ table_path_out_dir = "../001_GameFramework_Client/Assets/Script/Common/DefineDic
 
 def main(argv):
 
-    #这里目前用的是一样的导表 看情况前后端可以用两套导表逻辑
-
     #client
-    gen_logic.gen(table_input_dir,client_cs_out_dir,gen_logic.OpType.cs,'','','')
-    # gen_logic.gen(table_input_dir,client_json_out_dir,gen_logic.OpType.json)
+    args = {}
+    args['op_type'] = gen_logic.OpType.cs
+    args['in_path'] = table_input_dir
+    args['out_path'] = server_cs_out_dir
+    args['battle_config_cs_path'] = battle_config_define_cs_out_dir
+    args['battle_config_impl_cs_path'] = battle_config_client_impl_define_cs_out_dir
+    
+    gen_logic.gen(args)
     
     #server
-    gen_logic.gen(table_input_dir,server_cs_out_dir,gen_logic.OpType.cs,'','','')
-    # gen_logic.gen(table_input_dir,server_json_out_dir,gen_logic.OpType.json)
-   
-    # Copy(server_json_out_dir,battle_self_table_path)
+    args = {}
+    args['op_type'] = gen_logic.OpType.cs
+    args['in_path'] = table_input_dir
+    args['out_path'] = server_cs_out_dir
+    gen_logic.gen(args)
     
+    #copy
     Copy(server_cs_out_dir,pure_battle_logic_table_path)
-    # Copy(server_json_out_dir,pure_battle_logic_table_json_path)
     
-    gen_logic.gen(table_input_dir,common_json_out_dir,gen_logic.OpType.json,res_id_out_dir,battle_trigger_out_dir,table_path_out_dir)
+    #json
+    args = {}
+    args['op_type'] = gen_logic.OpType.json
+    args['in_path'] = table_input_dir
+    args['out_path'] = common_json_out_dir
+    args['res_out_path'] = res_id_out_dir
+    gen_logic.gen(args)
 
 
 def Copy(source_path,target_path):
