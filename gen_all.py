@@ -23,9 +23,9 @@ server_cs_out_dir = "../001_GameFramework_Server/GameServer/Common/Config/Table/
 #服务器端有可能在 IDE 中调试 所以在每个工程下都复制下所有 json
 # battle_self_table_path = "../001_GameFramework_Server/GameServer/BattleServer/bin/Debug/netcoreapp3.1/Resource/Table"
 
-#纯战斗逻辑 table cs define 目录
+#纯战斗逻辑 config cs define 目录
 pure_battle_logic_table_path = "../001_GameFramework_Battle/BattleProject/Common/Table"
-#纯战斗逻辑 table json 目录
+#纯战斗逻辑 config json 目录
 # pure_battle_logic_table_json_path = "../001_GameFramework_Battle/BattleProject/bin/Debug/netcoreapp3.1/Resource/Table"
 
 # 战斗配置接口定义 cs define 文件输出目录
@@ -35,7 +35,7 @@ battle_config_define_cs_out_dir = "../001_GameFramework_Battle/BattleProject/Bat
 battle_config_client_impl_define_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Battle_Client/LocalBattleLogic/Executer/Impl/ConfigImpl/ConfigDefineImpl"
 
 # 目前只生成一份 table 数据 前后端通用
-common_json_out_dir = "../001_GameFramework_Table/CommonData/Config"
+common_json_out_dir = "../001_GameFramework_Config/CommonData/Config"
 
 #资源 id 生成目录
 res_id_out_dir = "../001_GameFramework_Client/Assets/Script/Common/Define"
