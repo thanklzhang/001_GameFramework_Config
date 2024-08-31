@@ -4,17 +4,17 @@
 using System.Collections;
 using System;
 using System.Collections.Generic;
-namespace Table
+namespace Config
 {
 
-  public class TablePathDefine
+  public class ConfigPathDefine
     {
-        public static List<string> GetTablePathList()
+        public static List<string> GetConfigPathList()
         {
-            return tablePathList;
+            return configPathList;
             
         }
-		static List<string> tablePathList = new List<string>()
+		static List<string> configPathList = new List<string>()
 		{
 			{% for k in list %}
 			"{{k}}",

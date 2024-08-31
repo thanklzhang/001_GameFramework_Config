@@ -3,7 +3,7 @@
 */
 //using System.Collections;
 using System.Collections.Generic;
-using Table;
+using Config;
 namespace Battle
 {
     {# 创建变量#}
@@ -18,11 +18,11 @@ namespace Battle
  
     public class {{ name }}_Impl : I{{ name }}
     {
-        private Table.{{ name }} config;
+        private Config.{{ name }} config;
         
         public void Init(int id)
         {
-            config = TableManager.Instance.GetById<Table.{{ name }}>(id);
+            config = ConfigManager.Instance.GetById<Config.{{ name }}>(id);
         }
         
         public int Id => config.Id;

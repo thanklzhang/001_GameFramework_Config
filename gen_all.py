@@ -9,10 +9,10 @@ import shutil
 
 ################ 配置
 # table 文件输入目录
-table_input_dir = 'data_table'
+config_input_dir = 'data_config'
 
 # 客户端 cs define 文件输出目录
-client_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Config/Table"
+client_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Config/ConfigDefine"
 # 客户端 json 文件输出目录
 # client_json_out_dir = "../001_GameFramework_Client/Assets/BuildRes/TableData"
 
@@ -31,21 +31,14 @@ pure_battle_logic_table_path = "../001_GameFramework_Battle/BattleProject/Common
 # 战斗配置接口定义 cs define 文件输出目录
 battle_config_define_cs_out_dir = "../001_GameFramework_Battle/BattleProject/BattleLogic/BattleCore/Config/ConfigDefine"
 
-# 客户端实现战斗配置接口定义 cs define 文件输出目录
+# 战斗配置接口定义(客户端实现) cs define 文件输出目录
 battle_config_client_impl_define_cs_out_dir = "../001_GameFramework_Client/Assets/Script/Battle_Client/LocalBattleLogic/Executer/Impl/ConfigImpl/ConfigDefineImpl"
 
 # 目前只生成一份 table 数据 前后端通用
-common_json_out_dir = "../001_GameFramework_Table/CommonData/Table"
-
+common_json_out_dir = "../001_GameFramework_Table/CommonData/Config"
 
 #资源 id 生成目录
 res_id_out_dir = "../001_GameFramework_Client/Assets/Script/Common/Define"
-
-#战斗触发器 dic 根生成目录
-battle_trigger_out_dir = "../001_GameFramework_Client/Assets/Script/Common/DefineDic"
-
-#表格数据路径 list 生成目录
-table_path_out_dir = "../001_GameFramework_Client/Assets/Script/Common/DefineDic"
 
 #################
 
@@ -54,8 +47,8 @@ def main(argv):
     #client
     args = {}
     args['op_type'] = gen_logic.OpType.cs
-    args['in_path'] = table_input_dir
-    args['out_path'] = server_cs_out_dir
+    args['in_path'] = config_input_dir
+    args['out_path'] = client_cs_out_dir
     args['battle_config_cs_path'] = battle_config_define_cs_out_dir
     args['battle_config_impl_cs_path'] = battle_config_client_impl_define_cs_out_dir
     
@@ -64,7 +57,7 @@ def main(argv):
     #server
     args = {}
     args['op_type'] = gen_logic.OpType.cs
-    args['in_path'] = table_input_dir
+    args['in_path'] = config_input_dir
     args['out_path'] = server_cs_out_dir
     gen_logic.gen(args)
     
@@ -74,7 +67,7 @@ def main(argv):
     #json
     args = {}
     args['op_type'] = gen_logic.OpType.json
-    args['in_path'] = table_input_dir
+    args['in_path'] = config_input_dir
     args['out_path'] = common_json_out_dir
     args['res_out_path'] = res_id_out_dir
     gen_logic.gen(args)
