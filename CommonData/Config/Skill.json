@@ -23,21 +23,7 @@
         "animationSpeedScale": 2000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 1,
-        "skillReleaserDirectParam": [
-            15008102,
-            1500,
-            1500,
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 2601001,
         "skillTrackList": []
     },
     {
@@ -64,18 +50,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 0,
         "skillTrackList": []
     },
     {
@@ -102,18 +77,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 0,
         "skillTrackList": []
     },
     {
@@ -140,21 +104,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 1,
-        "skillReleaserDirectParam": [
-            15008102,
-            1500,
-            1500,
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 2601005,
         "skillTrackList": []
     },
     {
@@ -182,18 +132,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 0,
         "skillTrackList": []
     },
     {
@@ -220,18 +159,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 0,
         "skillTrackList": []
     },
     {
@@ -258,19 +186,7 @@
         "animationSpeedScale": 2667,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 2,
-        "skillReleaserDirectParam": [
-            15008102,
-            6000
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 2601021,
         "skillTrackList": []
     },
     {
@@ -297,21 +213,7 @@
         "animationSpeedScale": 267,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            15008101,
-            2000,
-            2000,
-            1
-        ],
+        "skillDirectionId": 2601022,
         "skillTrackList": []
     },
     {
@@ -338,18 +240,7 @@
         "animationSpeedScale": 2667,
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 0,
         "skillTrackList": []
     },
     {
@@ -376,18 +267,7 @@
         "animationSpeedScale": 2667,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 0,
         "skillTrackList": []
     },
     {
@@ -414,18 +294,7 @@
         "animationSpeedScale": 2667,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 0,
         "skillTrackList": []
     },
     {
@@ -452,18 +321,7 @@
         "animationSpeedScale": 2667,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 0,
         "skillTrackList": []
     },
     {
@@ -490,20 +348,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 1,
-        "skillDirectorProjectileParam": [
-            15008101,
-            1500,
-            10000
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 2601050,
         "skillTrackList": [
             2500005
         ]
@@ -532,12 +377,7 @@
         "animationSpeedScale": 1540,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [],
+        "skillDirectionId": 0,
         "skillTrackList": []
     },
     {
@@ -564,18 +404,7 @@
         "animationSpeedScale": 340,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 0,
         "skillTrackList": [
             2500010
         ]
@@ -604,12 +433,7 @@
         "animationSpeedScale": 1400,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [],
+        "skillDirectionId": 0,
         "skillTrackList": []
     },
     {
@@ -636,21 +460,7 @@
         "animationSpeedScale": 420,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 1,
-        "skillTargetDirectParam": [
-            15008101,
-            2000,
-            8000,
-            1
-        ],
+        "skillDirectionId": 2602012,
         "skillTrackList": [
             2500011
         ]
@@ -679,12 +489,7 @@
         "animationSpeedScale": 1540,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [],
+        "skillDirectionId": 2603001,
         "skillTrackList": []
     },
     {
@@ -711,12 +516,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [],
+        "skillDirectionId": 2603002,
         "skillTrackList": []
     },
     {
@@ -743,12 +543,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 15008005,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [],
+        "skillDirectionId": 2603003,
         "skillTrackList": []
     },
     {
@@ -775,12 +570,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [],
+        "skillDirectionId": 2603004,
         "skillTrackList": []
     },
     {
@@ -807,18 +597,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 2603050,
         "skillTrackList": []
     },
     {
@@ -845,18 +624,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 2603051,
         "skillTrackList": []
     },
     {
@@ -883,18 +651,7 @@
         "animationSpeedScale": 340,
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 2603052,
         "skillTrackList": [
             2500020
         ]
@@ -926,18 +683,7 @@
         "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
-        "skillDirectorProjectileType": 0,
-        "skillDirectorProjectileParam": [
-            0
-        ],
-        "skillReleaserDirectType": 0,
-        "skillReleaserDirectParam": [
-            0
-        ],
-        "skillTargetDirectType": 0,
-        "skillTargetDirectParam": [
-            0
-        ],
+        "skillDirectionId": 2605001,
         "skillTrackList": []
     }
 ]
