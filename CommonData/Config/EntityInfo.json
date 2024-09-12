@@ -254,7 +254,8 @@
         "starAttrId": 1,
         "skillIds": [
             2001021,
-            2001022
+            2001022,
+            2001008
         ],
         "level": 1,
         "star": 1,
@@ -270,5 +271,55 @@
         "isBoss": 0,
         "avatarResId": 15003503,
         "allBodyResId": 15003603
+    },
+    {
+        "id": 1200101,
+        "name": "\u53ec\u5524\u602a\u7269\u8fd1\u6218",
+        "describe": "\u602a\u72691",
+        "type": 0,
+        "modelId": 15011032,
+        "baseAttrId": 10003001,
+        "levelAttrId": 10001,
+        "starAttrId": 10001,
+        "skillIds": [
+            2002001,
+            2002002
+        ],
+        "level": 1,
+        "star": 1,
+        "skillLevels": [
+            1,
+            1
+        ],
+        "aiScript": "BaseAI",
+        "isBoss": 0,
+        "avatarResId": 15003501,
+        "allBodyResId": 15003601
+    },
+    {
+        "id": 1200102,
+        "name": "\u53ec\u5524\u602a\u7269\u8fdc\u6218",
+        "describe": "\u602a\u72692",
+        "type": 0,
+        "modelId": 15011033,
+        "baseAttrId": 10003002,
+        "levelAttrId": 10001,
+        "starAttrId": 10001,
+        "skillIds": [
+            2002011,
+            2002012
+        ],
+        "level": 1,
+        "star": 1,
+        "skillLevels": [
+            1,
+            1,
+            1,
+            1
+        ],
+        "aiScript": "BaseAI",
+        "isBoss": 0,
+        "avatarResId": 15003501,
+        "allBodyResId": 15003602
     }
 ]
