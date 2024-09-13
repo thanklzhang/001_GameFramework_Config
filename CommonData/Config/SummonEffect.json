@@ -18,6 +18,9 @@
                 500
             ]
         ],
+        "startEffectList": [
+            14050201
+        ],
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "effectResId": 0
@@ -35,6 +38,9 @@
             [
                 0
             ]
+        ],
+        "startEffectList": [
+            14050201
         ],
         "addedAttrGroup": [
             3
