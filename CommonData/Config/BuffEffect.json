@@ -607,18 +607,16 @@
                 0
             ]
         ],
-        "startEffectList": [
-            0
-        ],
+        "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
         "addedAttrGroup": [
-            3
+            1
         ],
         "addedValueGroup": [
             [
                 3,
-                500,
+                50,
                 0
             ]
         ],

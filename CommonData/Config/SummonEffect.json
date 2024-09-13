@@ -5,9 +5,9 @@
         "describe": "\u53ec\u5524 3 \u4e2a\u6253\u624b",
         "summonConfigId": 1200101,
         "summonBornPosType": 1,
-        "summonCount": 3,
+        "summonCount": 1,
         "maxSummonCount": 5,
-        "lastTime": 5000,
+        "lastTime": 0,
         "lastTimeAddedGroup": [
             [
                 1,
@@ -31,8 +31,8 @@
         "describe": "\u53ec\u5524 3 \u4e2a\u8fdc\u7a0b\u6253\u624b",
         "summonConfigId": 1200102,
         "summonBornPosType": 1,
-        "summonCount": 3,
-        "maxSummonCount": 0,
+        "summonCount": 1,
+        "maxSummonCount": 1,
         "lastTime": 0,
         "lastTimeAddedGroup": [
             [
