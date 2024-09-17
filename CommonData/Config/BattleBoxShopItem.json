@@ -1,0 +1,72 @@
+[
+    {
+        "id": 10001,
+        "name": "\u6d4b\u8bd5\u7eff\u8272\u54c1\u8d28\u9879",
+        "describe": "\u6d4b\u8bd5\u7eff\u8272\u54c1\u8d28\u9879",
+        "boxIdList": [
+            100
+        ],
+        "boxWeightList": [
+            1
+        ],
+        "minCount": 5,
+        "maxCount": 8,
+        "chance": 500
+    },
+    {
+        "id": 10002,
+        "name": "\u6d4b\u8bd5\u84dd\u8272\u54c1\u8d28\u9879",
+        "describe": "\u6d4b\u8bd5\u84dd\u8272\u54c1\u8d28\u9879",
+        "boxIdList": [
+            101
+        ],
+        "boxWeightList": [
+            1
+        ],
+        "minCount": 3,
+        "maxCount": 5,
+        "chance": 500
+    },
+    {
+        "id": 10003,
+        "name": "\u6d4b\u8bd5\u7d2b\u8272\u54c1\u8d28\u9879",
+        "describe": "\u6d4b\u8bd5\u7d2b\u8272\u54c1\u8d28\u9879",
+        "boxIdList": [
+            102
+        ],
+        "boxWeightList": [
+            1
+        ],
+        "minCount": 2,
+        "maxCount": 3,
+        "chance": 500
+    },
+    {
+        "id": 10004,
+        "name": "\u6d4b\u8bd5\u6a59\u8272\u54c1\u8d28\u9879",
+        "describe": "\u6d4b\u8bd5\u6a59\u8272\u54c1\u8d28\u9879",
+        "boxIdList": [
+            103
+        ],
+        "boxWeightList": [
+            1
+        ],
+        "minCount": 1,
+        "maxCount": 2,
+        "chance": 250
+    },
+    {
+        "id": 10005,
+        "name": "\u6d4b\u8bd5\u7ea2\u8272\u54c1\u8d28\u9879",
+        "describe": "\u6d4b\u8bd5\u7ea2\u8272\u54c1\u8d28\u9879",
+        "boxIdList": [
+            104
+        ],
+        "boxWeightList": [
+            1
+        ],
+        "minCount": 0,
+        "maxCount": 1,
+        "chance": 100
+    }
+]

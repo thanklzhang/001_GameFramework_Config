@@ -4,6 +4,43 @@
         "name": "\u6d4b\u8bd5\u6280\u80fd\u5b9d\u7bb11\uff08\u7b49\u7ea7\uff09",
         "describe": "\u6d4b\u8bd5\u6280\u80fd\u5b9d\u7bb11\u4ecb\u7ecd",
         "iconResId": 15002001,
+        "quality": 0,
+        "selectionCount": 3,
+        "poolId": 1000
+    },
+    {
+        "id": 101,
+        "name": "\u6d4b\u8bd5\u6280\u80fd\u5b9d\u7bb12\uff08\u7b49\u7ea7\uff09",
+        "describe": "\u6d4b\u8bd5\u6280\u80fd\u5b9d\u7bb12\u4ecb\u7ecd",
+        "iconResId": 15002001,
+        "quality": 1,
+        "selectionCount": 3,
+        "poolId": 1000
+    },
+    {
+        "id": 102,
+        "name": "\u6d4b\u8bd5\u6280\u80fd\u5b9d\u7bb13\uff08\u7b49\u7ea7\uff09",
+        "describe": "\u6d4b\u8bd5\u6280\u80fd\u5b9d\u7bb13\u4ecb\u7ecd",
+        "iconResId": 15002001,
+        "quality": 2,
+        "selectionCount": 3,
+        "poolId": 1000
+    },
+    {
+        "id": 103,
+        "name": "\u6d4b\u8bd5\u6280\u80fd\u5b9d\u7bb14\uff08\u7b49\u7ea7\uff09",
+        "describe": "\u6d4b\u8bd5\u6280\u80fd\u5b9d\u7bb14\u4ecb\u7ecd",
+        "iconResId": 15002001,
+        "quality": 3,
+        "selectionCount": 3,
+        "poolId": 1000
+    },
+    {
+        "id": 104,
+        "name": "\u6d4b\u8bd5\u6280\u80fd\u5b9d\u7bb15\uff08\u7b49\u7ea7\uff09",
+        "describe": "\u6d4b\u8bd5\u6280\u80fd\u5b9d\u7bb15\u4ecb\u7ecd",
+        "iconResId": 15002001,
+        "quality": 4,
         "selectionCount": 3,
         "poolId": 1000
     }
