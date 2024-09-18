@@ -3,6 +3,7 @@
         "id": 10001,
         "name": "\u6d4b\u8bd5\u7eff\u8272\u54c1\u8d28\u9879",
         "describe": "\u6d4b\u8bd5\u7eff\u8272\u54c1\u8d28\u9879",
+        "quality": 0,
         "boxIdList": [
             100
         ],
@@ -17,6 +18,7 @@
         "id": 10002,
         "name": "\u6d4b\u8bd5\u84dd\u8272\u54c1\u8d28\u9879",
         "describe": "\u6d4b\u8bd5\u84dd\u8272\u54c1\u8d28\u9879",
+        "quality": 1,
         "boxIdList": [
             101
         ],
@@ -31,6 +33,7 @@
         "id": 10003,
         "name": "\u6d4b\u8bd5\u7d2b\u8272\u54c1\u8d28\u9879",
         "describe": "\u6d4b\u8bd5\u7d2b\u8272\u54c1\u8d28\u9879",
+        "quality": 2,
         "boxIdList": [
             102
         ],
@@ -45,6 +48,7 @@
         "id": 10004,
         "name": "\u6d4b\u8bd5\u6a59\u8272\u54c1\u8d28\u9879",
         "describe": "\u6d4b\u8bd5\u6a59\u8272\u54c1\u8d28\u9879",
+        "quality": 3,
         "boxIdList": [
             103
         ],
@@ -59,6 +63,7 @@
         "id": 10005,
         "name": "\u6d4b\u8bd5\u7ea2\u8272\u54c1\u8d28\u9879",
         "describe": "\u6d4b\u8bd5\u7ea2\u8272\u54c1\u8d28\u9879",
+        "quality": 4,
         "boxIdList": [
             104
         ],
