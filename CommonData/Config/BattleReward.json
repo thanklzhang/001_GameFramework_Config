@@ -55,5 +55,22 @@
         ],
         "count": 1,
         "makeSureRewardOccasion": 0
+    },
+    {
+        "id": 40000,
+        "name": "\u83b7\u5f97\u4e00\u4e2a\u961f\u53cb",
+        "describe": "\u83b7\u5f97\u4e00\u4e2a\u961f\u53cb",
+        "iconResId": 15003753,
+        "type": 400,
+        "valueList": [
+            1200101,
+            1200102
+        ],
+        "weightList": [
+            50,
+            50
+        ],
+        "count": 1,
+        "makeSureRewardOccasion": 0
     }
 ]
