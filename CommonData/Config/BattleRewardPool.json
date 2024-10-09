@@ -24,5 +24,17 @@
         "rewardWeightList": [
             50
         ]
+    },
+    {
+        "id": 4001,
+        "name": "\u961f\u53cb\u5c5e\u6027\u6c60\u5b50",
+        "describe": "\u961f\u53cb\u5c5e\u6027\u6c60\u5b50",
+        "fixedRewardList": [],
+        "rewardIdList": [
+            40001
+        ],
+        "rewardWeightList": [
+            50
+        ]
     }
 ]
