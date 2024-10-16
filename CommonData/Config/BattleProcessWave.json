@@ -9,8 +9,8 @@
             1001
         ],
         "waveType": 0,
-        "readyTime": 1000,
-        "limitTime": 20000,
+        "readyTime": 15000,
+        "limitTime": 60000,
         "passType": 0
     },
     {
@@ -23,8 +23,8 @@
             1003
         ],
         "waveType": 0,
-        "readyTime": 10000000,
-        "limitTime": 20000,
+        "readyTime": 15000,
+        "limitTime": 60000,
         "passType": 0
     },
     {
@@ -36,8 +36,8 @@
             1004
         ],
         "waveType": 2,
-        "readyTime": 10000000,
-        "limitTime": 20000,
+        "readyTime": 15000,
+        "limitTime": 60000,
         "passType": 0
     }
 ]
