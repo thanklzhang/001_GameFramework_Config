@@ -1,0 +1,80 @@
+[
+    {
+        "id": 10001,
+        "describe": "\u7b2c 1 \u6ce2\u901a\u8fc7\u5956\u52b1",
+        "itemIdList": [
+            500001
+        ],
+        "itemCountList": [
+            300
+        ],
+        "fixedBoxIdList": [
+            100101
+        ],
+        "fixedBoxCountList": [
+            1,
+            1
+        ],
+        "randBoxIdList": [
+            401,
+            402
+        ],
+        "randBoxWeightList": [
+            1,
+            1
+        ],
+        "randBoxCount": 2
+    },
+    {
+        "id": 10002,
+        "describe": "\u7b2c 2 \u6ce2\u901a\u8fc7\u5956\u52b1",
+        "itemIdList": [
+            500001
+        ],
+        "itemCountList": [
+            600
+        ],
+        "fixedBoxIdList": [
+            100101
+        ],
+        "fixedBoxCountList": [
+            2,
+            2
+        ],
+        "randBoxIdList": [
+            401,
+            402
+        ],
+        "randBoxWeightList": [
+            1,
+            1
+        ],
+        "randBoxCount": 3
+    },
+    {
+        "id": 10003,
+        "describe": "\u7b2c 3 \u6ce2\u901a\u8fc7\u5956\u52b1",
+        "itemIdList": [
+            500001
+        ],
+        "itemCountList": [
+            900
+        ],
+        "fixedBoxIdList": [
+            100101
+        ],
+        "fixedBoxCountList": [
+            3,
+            3
+        ],
+        "randBoxIdList": [
+            401,
+            402
+        ],
+        "randBoxWeightList": [
+            1,
+            1
+        ],
+        "randBoxCount": 4
+    }
+]

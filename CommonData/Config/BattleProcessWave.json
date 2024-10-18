@@ -11,7 +11,8 @@
         "waveType": 0,
         "readyTime": 15000,
         "limitTime": 60000,
-        "passType": 0
+        "passType": 0,
+        "passReward": 10001
     },
     {
         "id": 101,
@@ -25,7 +26,8 @@
         "waveType": 0,
         "readyTime": 15000,
         "limitTime": 60000,
-        "passType": 0
+        "passType": 0,
+        "passReward": 10002
     },
     {
         "id": 102,
@@ -38,6 +40,7 @@
         "waveType": 2,
         "readyTime": 15000,
         "limitTime": 60000,
-        "passType": 0
+        "passType": 0,
+        "passReward": 10003
     }
 ]
