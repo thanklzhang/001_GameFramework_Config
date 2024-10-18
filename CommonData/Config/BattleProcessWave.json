@@ -12,7 +12,7 @@
         "readyTime": 15000,
         "limitTime": 60000,
         "passType": 0,
-        "passReward": 10001
+        "passRewardId": 10001
     },
     {
         "id": 101,
@@ -27,7 +27,7 @@
         "readyTime": 15000,
         "limitTime": 60000,
         "passType": 0,
-        "passReward": 10002
+        "passRewardId": 10002
     },
     {
         "id": 102,
@@ -41,6 +41,6 @@
         "readyTime": 15000,
         "limitTime": 60000,
         "passType": 0,
-        "passReward": 10003
+        "passRewardId": 10003
     }
 ]
