@@ -9,7 +9,7 @@
             1001
         ],
         "waveType": 0,
-        "readyTime": 15000,
+        "readyTime": 3000,
         "limitTime": 60000,
         "passType": 0,
         "passRewardId": 10001
@@ -24,7 +24,7 @@
             1003
         ],
         "waveType": 0,
-        "readyTime": 15000,
+        "readyTime": 3000,
         "limitTime": 60000,
         "passType": 0,
         "passRewardId": 10002
@@ -38,7 +38,7 @@
             1004
         ],
         "waveType": 2,
-        "readyTime": 15000,
+        "readyTime": 3000,
         "limitTime": 60000,
         "passType": 0,
         "passRewardId": 10003

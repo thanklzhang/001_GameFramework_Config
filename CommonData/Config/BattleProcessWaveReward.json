@@ -9,7 +9,8 @@
             300
         ],
         "fixedBoxIdList": [
-            100101
+            100,
+            101
         ],
         "fixedBoxCountList": [
             1,
@@ -35,7 +36,8 @@
             600
         ],
         "fixedBoxIdList": [
-            100101
+            100,
+            101
         ],
         "fixedBoxCountList": [
             2,
@@ -61,7 +63,8 @@
             900
         ],
         "fixedBoxIdList": [
-            100101
+            100,
+            101
         ],
         "fixedBoxCountList": [
             3,
