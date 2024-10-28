@@ -6,9 +6,9 @@
         "isEndNode": 0,
         "delayTime": 200,
         "intervalTime": 1000,
-        "triggerCount": 1,
+        "triggerCount": 10,
         "entityConfigId": 1000201,
-        "entityCount": 1,
+        "entityCount": 3,
         "posType": 0
     },
     {
@@ -16,7 +16,7 @@
         "describe": "\u7eaf\u672c\u5730\u6218\u6597\u6d4b\u8bd5\uff1a\u7b2c 1 \u6ce2 \u5934\u76ee1",
         "index": 1,
         "isEndNode": 1,
-        "delayTime": 1000,
+        "delayTime": 9999999,
         "intervalTime": 1000,
         "triggerCount": 1,
         "entityConfigId": 1000210,
