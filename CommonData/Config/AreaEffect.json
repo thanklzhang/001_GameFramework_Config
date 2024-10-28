@@ -1,5 +1,90 @@
 [
     {
+        "id": 13100101,
+        "name": "\u5468\u56f4\u51fb\u9000\u533a\u57df\u9009\u62e9lv1",
+        "describe": "\u5468\u56f4\u51fb\u9000\u533a\u57df\u9009\u62e9lv1",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            6000
+        ],
+        "selectEntityType": 2,
+        "effectList": [
+            16100101
+        ],
+        "effectResId": 15008014
+    },
+    {
+        "id": 13100102,
+        "name": "\u5468\u56f4\u51fb\u9000\u533a\u57df\u9009\u62e9lv2",
+        "describe": "\u5468\u56f4\u51fb\u9000\u533a\u57df\u9009\u62e9lv2",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            6000
+        ],
+        "selectEntityType": 2,
+        "effectList": [
+            16100102
+        ],
+        "effectResId": 15008014
+    },
+    {
+        "id": 13100103,
+        "name": "\u5468\u56f4\u51fb\u9000\u533a\u57df\u9009\u62e9lv3",
+        "describe": "\u5468\u56f4\u51fb\u9000\u533a\u57df\u9009\u62e9lv3",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            6000
+        ],
+        "selectEntityType": 2,
+        "effectList": [
+            16100103
+        ],
+        "effectResId": 15008014
+    },
+    {
+        "id": 13100104,
+        "name": "\u5468\u56f4\u51fb\u9000\u533a\u57df\u9009\u62e9lv4",
+        "describe": "\u5468\u56f4\u51fb\u9000\u533a\u57df\u9009\u62e9lv4",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            6000
+        ],
+        "selectEntityType": 2,
+        "effectList": [
+            16100104
+        ],
+        "effectResId": 15008014
+    },
+    {
+        "id": 13100105,
+        "name": "\u5468\u56f4\u51fb\u9000\u533a\u57df\u9009\u62e9lv5",
+        "describe": "\u5468\u56f4\u51fb\u9000\u533a\u57df\u9009\u62e9lv5",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            6000
+        ],
+        "selectEntityType": 2,
+        "effectList": [
+            16100105
+        ],
+        "effectResId": 15008014
+    },
+    {
         "id": 13001003,
         "name": "\u4e0a\u5b98\u7fce\u6280\u80fd2\u533a\u57df\u9009\u62e9",
         "describe": "\u4e0a\u5b98\u7fce\u6280\u80fd2\u533a\u57df\u9009\u62e9",
