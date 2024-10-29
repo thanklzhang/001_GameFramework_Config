@@ -26,9 +26,9 @@
     {
         "id": 10001003,
         "describe": "\u5510\u4f9d",
-        "attack": 380,
+        "attack": 100,
         "defence": 40,
-        "health": 1000000,
+        "health": 1000,
         "magic": 125,
         "attackSpeed": 1000,
         "moveSpeed": 6000,

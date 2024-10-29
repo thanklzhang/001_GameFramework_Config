@@ -1,5 +1,37 @@
 [
     {
+        "id": 14100101,
+        "name": "\u6b8b\u8840\u7206\u53d1\u589e\u52a0\u653b\u51fblv1",
+        "describe": "\u6b8b\u8840\u7206\u53d1\uff08\u88ab\u52a8\uff09lv1",
+        "iconResId": 15003218,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [],
+        "lastTime": 999999000,
+        "isCanBeClear": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                30,
+                2000,
+                1
+            ]
+        ],
+        "endRemoveEffectList": [],
+        "effectResId": 15008017
+    },
+    {
         "id": 14001001,
         "name": "\u4e0a\u5b98\u7fce\u6280\u80fd2\u51fb\u6655 buff",
         "describe": "\u4e0a\u5b98\u7fce\u6280\u80fd2\u51fb\u6655 buff",
