@@ -11,7 +11,88 @@
             14100101
         ],
         "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
         "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18100102,
+        "name": "\u6b8b\u8840\u7206\u53d1\uff08\u88ab\u52a8\uff09lv2",
+        "describe": "\u6b8b\u8840\u7206\u53d1\uff08\u88ab\u52a8\uff09lv2",
+        "triggerTimeType": 8,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [
+            14100101
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18100103,
+        "name": "\u6b8b\u8840\u7206\u53d1\uff08\u88ab\u52a8\uff09lv3",
+        "describe": "\u6b8b\u8840\u7206\u53d1\uff08\u88ab\u52a8\uff09lv3",
+        "triggerTimeType": 8,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [
+            14100101
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18100104,
+        "name": "\u6b8b\u8840\u7206\u53d1\uff08\u88ab\u52a8\uff09lv4",
+        "describe": "\u6b8b\u8840\u7206\u53d1\uff08\u88ab\u52a8\uff09lv4",
+        "triggerTimeType": 8,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [
+            14100101
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18100105,
+        "name": "\u6b8b\u8840\u7206\u53d1\uff08\u88ab\u52a8\uff09lv5",
+        "describe": "\u6b8b\u8840\u7206\u53d1\uff08\u88ab\u52a8\uff09lv5",
+        "triggerTimeType": 8,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [
+            14100101
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18100201,
+        "name": "\u4e1d\u8840\u65e0\u654c\uff08\u88ab\u52a8\uff09lv1",
+        "describe": "\u4e1d\u8840\u65e0\u654c\uff08\u88ab\u52a8\uff09lv1",
+        "triggerTimeType": 9,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [
+            14100201
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 7000,
         "triggerEffectResId": 0
     },
     {
@@ -26,6 +107,7 @@
             14001007
         ],
         "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -41,6 +123,7 @@
             4002022
         ],
         "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -56,6 +139,7 @@
             13001006
         ],
         "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -71,6 +155,7 @@
             4001050
         ],
         "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -86,6 +171,7 @@
             4001004
         ],
         "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -101,6 +187,7 @@
             14001008
         ],
         "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -116,6 +203,7 @@
             13001010
         ],
         "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -131,6 +219,7 @@
             14001030
         ],
         "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
     },
@@ -146,6 +235,7 @@
             14001031
         ],
         "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
     }
