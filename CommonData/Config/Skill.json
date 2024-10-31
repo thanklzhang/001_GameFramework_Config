@@ -677,7 +677,7 @@
         "skillReleaseTargeType": 2,
         "skillReleaseType": 1,
         "isPassiveSkill": 0,
-        "skillTargetType": 0,
+        "skillTargetType": 2,
         "effectList": [
             16001001
         ],
