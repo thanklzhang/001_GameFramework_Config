@@ -143,8 +143,7 @@
         "levelAttrId": 10001,
         "starAttrId": 10001,
         "skillIds": [
-            2002001,
-            2002002
+            2002001
         ],
         "level": 1,
         "star": 1,
@@ -254,8 +253,7 @@
         "starAttrId": 1,
         "skillIds": [
             2002101,
-            2100305,
-            2001004
+            2100403
         ],
         "level": 1,
         "star": 1,
