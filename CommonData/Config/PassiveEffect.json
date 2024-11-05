@@ -11,6 +11,8 @@
             14100101
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -27,6 +29,8 @@
             14100101
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -43,6 +47,8 @@
             14100101
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -59,6 +65,8 @@
             14100101
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -75,6 +83,8 @@
             14100101
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -91,6 +101,30 @@
             14100201
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 7000,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18100301,
+        "name": "\u8eb2\u907f\u6295\u63b7\u7269\u51cf\u5c11\u5c42\u6570lv1",
+        "describe": "\u8eb2\u907f\u6295\u63b7\u7269\u51cf\u5c11\u5c42\u6570lv1",
+        "triggerTimeType": 11,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [],
+        "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [
+            15
+        ],
+        "triggerEventParamList": [
+            "0",
+            "14100401",
+            "-1"
+        ],
         "maxTriggerCount": 0,
         "triggerCD": 7000,
         "triggerEffectResId": 0
@@ -107,6 +141,8 @@
             14001007
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -123,6 +159,8 @@
             4002022
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -139,6 +177,8 @@
             13001006
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -155,6 +195,8 @@
             4001050
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -171,6 +213,8 @@
             4001004
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -187,6 +231,8 @@
             14001008
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -203,6 +249,8 @@
             13001010
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -219,6 +267,8 @@
             14001030
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
@@ -235,6 +285,8 @@
             14001031
         ],
         "afterTriggerRemoveEffectList": [],
+        "triggerEventTypeList": [],
+        "triggerEventParamList": [],
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0

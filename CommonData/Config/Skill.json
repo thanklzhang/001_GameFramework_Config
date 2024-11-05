@@ -677,7 +677,8 @@
         "isPassiveSkill": 0,
         "skillTargetType": 2,
         "effectList": [
-            14100401
+            14100401,
+            18100301
         ],
         "effectListOnGain": [],
         "releaseRange": 0,
