@@ -1,0 +1,13 @@
+[
+    {
+        "id": 27000101,
+        "name": "\u6539\u53d8 buff \u7684\u5c42\u6570lv1",
+        "describe": "\u6539\u53d8 buff \u7684\u5c42\u6570lv1",
+        "triggerEventType": 5,
+        "triggerTargetType": 0,
+        "triggerParamList": [
+            "14100401",
+            "-1"
+        ]
+    }
+]
