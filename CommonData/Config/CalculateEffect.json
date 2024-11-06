@@ -15,7 +15,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4100102,
@@ -33,7 +34,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4100103,
@@ -51,7 +53,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4100104,
@@ -69,7 +72,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4100105,
@@ -87,7 +91,21 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4100205,
+        "name": "\u9a71\u6563\u6240\u6709buff\uff08\u53ea\u662f\u663e\u793a\uff09 lv1",
+        "describe": "\u9a71\u6563\u6240\u6709buff\uff08\u53ea\u662f\u663e\u793a\uff09 lv1",
+        "effectTargetType": 0,
+        "addedValueGroup": [],
+        "finalEffectType": 1,
+        "effectResId": 15008006,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 1
     },
     {
         "id": 4001001,
@@ -105,7 +123,8 @@
         "effectResId": 15008027,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4001002,
@@ -123,7 +142,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4001003,
@@ -141,7 +161,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4001050,
@@ -159,7 +180,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4001004,
@@ -177,7 +199,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4001005,
@@ -195,7 +218,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4001006,
@@ -213,7 +237,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4001007,
@@ -231,7 +256,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4001008,
@@ -249,7 +275,8 @@
         "effectResId": 15008019,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002001,
@@ -267,7 +294,8 @@
         "effectResId": 15008028,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002002,
@@ -290,7 +318,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002004,
@@ -308,7 +337,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002006,
@@ -326,7 +356,8 @@
         "effectResId": 15008028,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002007,
@@ -344,7 +375,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002010,
@@ -362,7 +394,8 @@
         "effectResId": 15008028,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002011,
@@ -380,7 +413,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002020,
@@ -398,7 +432,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002021,
@@ -416,7 +451,8 @@
         "effectResId": 15008006,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002022,
@@ -434,7 +470,8 @@
         "effectResId": 15008013,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002023,
@@ -452,7 +489,8 @@
         "effectResId": 15008020,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002030,
@@ -470,7 +508,8 @@
         "effectResId": 15008020,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4002031,
@@ -488,7 +527,8 @@
         "effectResId": 15008020,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     },
     {
         "id": 4005001,
@@ -506,6 +546,7 @@
         "effectResId": 15008013,
         "effectPosType": 0,
         "isEffectFollowTarget": 1,
-        "effectPosName": "hit_pos"
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     }
 ]

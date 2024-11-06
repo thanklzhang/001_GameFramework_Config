@@ -85,6 +85,24 @@
         "effectResId": 15008014
     },
     {
+        "id": 13100201,
+        "name": "\u533a\u57df\u9a71\u6563\u6240\u6709\u8d1f\u9762buff lv1",
+        "describe": "\u533a\u57df\u9a71\u6563\u6240\u6709\u8d1f\u9762buff lv1",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            6000
+        ],
+        "selectEntityType": 2,
+        "effectList": [
+            27000201,
+            4100205
+        ],
+        "effectResId": 15008014
+    },
+    {
         "id": 13001003,
         "name": "\u4e0a\u5b98\u7fce\u6280\u80fd2\u533a\u57df\u9009\u62e9",
         "describe": "\u4e0a\u5b98\u7fce\u6280\u80fd2\u533a\u57df\u9009\u62e9",

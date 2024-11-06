@@ -108,7 +108,7 @@
         ],
         "afterTriggerRemoveEffectList": [],
         "maxTriggerCount": 0,
-        "triggerCD": 7000,
+        "triggerCD": 0,
         "triggerEffectResId": 0
     },
     {
