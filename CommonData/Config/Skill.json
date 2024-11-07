@@ -703,7 +703,7 @@
         "skillReleaseTargeType": 2,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "skillTargetType": 1,
+        "skillTargetType": 11,
         "effectList": [
             13100201
         ],
@@ -730,7 +730,7 @@
         "skillReleaseTargeType": 2,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "skillTargetType": 1,
+        "skillTargetType": 11,
         "effectList": [
             13100201
         ],
@@ -757,7 +757,7 @@
         "skillReleaseTargeType": 2,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "skillTargetType": 1,
+        "skillTargetType": 11,
         "effectList": [
             13100201
         ],
@@ -784,7 +784,7 @@
         "skillReleaseTargeType": 2,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "skillTargetType": 1,
+        "skillTargetType": 11,
         "effectList": [
             13100201
         ],
@@ -811,7 +811,7 @@
         "skillReleaseTargeType": 2,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "skillTargetType": 1,
+        "skillTargetType": 11,
         "effectList": [
             13100201
         ],
