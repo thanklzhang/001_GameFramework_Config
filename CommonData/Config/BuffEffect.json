@@ -31,7 +31,8 @@
             ]
         ],
         "endRemoveEffectList": [],
-        "effectResId": 15008017
+        "effectResId": 15008017,
+        "showType": 0
     },
     {
         "id": 14100201,
@@ -59,7 +60,8 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008017
+        "effectResId": 15008017,
+        "showType": 0
     },
     {
         "id": 14100301,
@@ -87,7 +89,8 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008017
+        "effectResId": 15008017,
+        "showType": 0
     },
     {
         "id": 14100401,
@@ -115,7 +118,35 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008017
+        "effectResId": 15008017,
+        "showType": 0
+    },
+    {
+        "id": 14100501,
+        "name": "\u4f24\u5bb3\u5747\u644a\u94fe\u63a5lv1",
+        "describe": "\u4f24\u5bb3\u5747\u644a\u94fe\u63a5lv1",
+        "iconResId": 15003218,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [],
+        "lastTime": 10000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "addedAttrGroup": [],
+        "addedValueGroup": [],
+        "endRemoveEffectList": [],
+        "effectResId": 15008017,
+        "showType": 0
     },
     {
         "id": 14001001,
@@ -154,7 +185,8 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008015
+        "effectResId": 15008015,
+        "showType": 0
     },
     {
         "id": 14001002,
@@ -184,7 +216,8 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008009
+        "effectResId": 15008009,
+        "showType": 0
     },
     {
         "id": 14001003,
@@ -216,7 +249,8 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008023
+        "effectResId": 15008023,
+        "showType": 0
     },
     {
         "id": 14001004,
@@ -256,7 +290,8 @@
             ]
         ],
         "endRemoveEffectList": [],
-        "effectResId": 0
+        "effectResId": 0,
+        "showType": 0
     },
     {
         "id": 14001005,
@@ -288,7 +323,8 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008002
+        "effectResId": 15008002,
+        "showType": 0
     },
     {
         "id": 14001007,
@@ -320,7 +356,8 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008012
+        "effectResId": 15008012,
+        "showType": 0
     },
     {
         "id": 14001008,
@@ -360,7 +397,8 @@
             ]
         ],
         "endRemoveEffectList": [],
-        "effectResId": 15008025
+        "effectResId": 15008025,
+        "showType": 0
     },
     {
         "id": 14001010,
@@ -394,7 +432,8 @@
         "endRemoveEffectList": [
             18001003
         ],
-        "effectResId": 15008018
+        "effectResId": 15008018,
+        "showType": 0
     },
     {
         "id": 14001011,
@@ -434,7 +473,8 @@
             ]
         ],
         "endRemoveEffectList": [],
-        "effectResId": 15008017
+        "effectResId": 15008017,
+        "showType": 0
     },
     {
         "id": 14001012,
@@ -474,7 +514,8 @@
             ]
         ],
         "endRemoveEffectList": [],
-        "effectResId": 0
+        "effectResId": 0,
+        "showType": 0
     },
     {
         "id": 14001020,
@@ -508,7 +549,8 @@
         "endRemoveEffectList": [
             18001030
         ],
-        "effectResId": 15008022
+        "effectResId": 15008022,
+        "showType": 0
     },
     {
         "id": 14001021,
@@ -548,7 +590,8 @@
             ]
         ],
         "endRemoveEffectList": [],
-        "effectResId": 15008024
+        "effectResId": 15008024,
+        "showType": 0
     },
     {
         "id": 14001030,
@@ -588,7 +631,8 @@
             ]
         ],
         "endRemoveEffectList": [],
-        "effectResId": 15008026
+        "effectResId": 15008026,
+        "showType": 0
     },
     {
         "id": 14001031,
@@ -620,7 +664,8 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008012
+        "effectResId": 15008012,
+        "showType": 0
     },
     {
         "id": 14050001,
@@ -653,7 +698,8 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008015
+        "effectResId": 15008015,
+        "showType": 0
     },
     {
         "id": 14050002,
@@ -694,7 +740,8 @@
             ]
         ],
         "endRemoveEffectList": [],
-        "effectResId": 15008017
+        "effectResId": 15008017,
+        "showType": 0
     },
     {
         "id": 14050100,
@@ -735,7 +782,8 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008015
+        "effectResId": 15008015,
+        "showType": 0
     },
     {
         "id": 14050201,
@@ -775,7 +823,8 @@
             ]
         ],
         "endRemoveEffectList": [],
-        "effectResId": 0
+        "effectResId": 0,
+        "showType": 0
     },
     {
         "id": 14050301,
@@ -815,6 +864,7 @@
             ]
         ],
         "endRemoveEffectList": [],
-        "effectResId": 0
+        "effectResId": 0,
+        "showType": 0
     }
 ]
