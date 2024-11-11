@@ -4,13 +4,13 @@
         "name": "\u5206\u644a\u4f24\u5bb3lv1",
         "describe": "\u5206\u644a\u4f24\u5bb3lv1",
         "linkType": 0,
-        "lastTime": 6000,
+        "lastTime": 10000,
         "effectType": 0,
         "effectParam": [
             "-1"
         ],
-        "maxLinkEntityCount": 4,
-        "isAddReleaser": 1,
+        "maxLinkEntityCount": 5,
+        "isAddReleaser": 0,
         "startEffectList": [
             14100501
         ]

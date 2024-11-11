@@ -14,6 +14,7 @@
         "effectList": [
             16100101
         ],
+        "groupEffectList": [],
         "effectResId": 15008014
     },
     {
@@ -31,6 +32,7 @@
         "effectList": [
             16100102
         ],
+        "groupEffectList": [],
         "effectResId": 15008014
     },
     {
@@ -48,6 +50,7 @@
         "effectList": [
             16100103
         ],
+        "groupEffectList": [],
         "effectResId": 15008014
     },
     {
@@ -65,6 +68,7 @@
         "effectList": [
             16100104
         ],
+        "groupEffectList": [],
         "effectResId": 15008014
     },
     {
@@ -82,6 +86,7 @@
         "effectList": [
             16100105
         ],
+        "groupEffectList": [],
         "effectResId": 15008014
     },
     {
@@ -100,6 +105,25 @@
             27000201,
             4100205
         ],
+        "groupEffectList": [],
+        "effectResId": 15008014
+    },
+    {
+        "id": 13100301,
+        "name": "\u5206\u644a\u4f24\u5bb3\u533a\u57df\u9009\u62e9 lv1",
+        "describe": "\u5206\u644a\u4f24\u5bb3\u533a\u57df\u9009\u62e9 lv1",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            6000
+        ],
+        "selectEntityType": 2,
+        "effectList": [],
+        "groupEffectList": [
+            28100101
+        ],
         "effectResId": 15008014
     },
     {
@@ -117,6 +141,7 @@
         "effectList": [
             14001001
         ],
+        "groupEffectList": [],
         "effectResId": 15008014
     },
     {
@@ -134,6 +159,7 @@
         "effectList": [
             4002020
         ],
+        "groupEffectList": [],
         "effectResId": 0
     },
     {
@@ -151,6 +177,7 @@
         "effectList": [
             4002023
         ],
+        "groupEffectList": [],
         "effectResId": 15008019
     },
     {
@@ -168,6 +195,7 @@
         "effectList": [
             3001013
         ],
+        "groupEffectList": [],
         "effectResId": 0
     },
     {
@@ -186,6 +214,7 @@
             14001003,
             14001004
         ],
+        "groupEffectList": [],
         "effectResId": 15008029
     },
     {
@@ -204,6 +233,7 @@
             4001008,
             14001021
         ],
+        "groupEffectList": [],
         "effectResId": 0
     },
     {
@@ -222,6 +252,7 @@
         "effectList": [
             4002004
         ],
+        "groupEffectList": [],
         "effectResId": 15008030
     },
     {
@@ -239,6 +270,7 @@
         "effectList": [
             4002030
         ],
+        "groupEffectList": [],
         "effectResId": 0
     },
     {
@@ -256,6 +288,7 @@
         "effectList": [
             4002031
         ],
+        "groupEffectList": [],
         "effectResId": 15008031
     },
     {
@@ -273,6 +306,7 @@
         "effectList": [
             14050001
         ],
+        "groupEffectList": [],
         "effectResId": 15008014
     },
     {
@@ -290,6 +324,7 @@
         "effectList": [
             4005001
         ],
+        "groupEffectList": [],
         "effectResId": 0
     }
 ]
