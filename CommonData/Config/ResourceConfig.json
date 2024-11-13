@@ -1575,6 +1575,15 @@
         "tag": ""
     },
     {
+        "id": 15008032,
+        "name": "eft_buff_link_001",
+        "des": "",
+        "path": "Effects/Prefabs",
+        "ext": "prefab",
+        "type": 4,
+        "tag": ""
+    },
+    {
         "id": 15008101,
         "name": "eft_skill_director_001",
         "des": "",

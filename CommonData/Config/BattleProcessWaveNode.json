@@ -6,9 +6,9 @@
         "isEndNode": 0,
         "delayTime": 200,
         "intervalTime": 1000,
-        "triggerCount": 3,
+        "triggerCount": 1,
         "entityConfigId": 1000201,
-        "entityCount": 5,
+        "entityCount": 4,
         "posType": 0
     },
     {

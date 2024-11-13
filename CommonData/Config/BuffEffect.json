@@ -128,7 +128,7 @@
         "iconResId": 15003218,
         "effectTargetType": 0,
         "abnormalStateTypeList": [],
-        "lastTime": 10000,
+        "lastTime": 10000000,
         "isCanBeClear": 0,
         "affectType": 1,
         "initLayerCount": 0,
@@ -145,7 +145,7 @@
         "addedAttrGroup": [],
         "addedValueGroup": [],
         "endRemoveEffectList": [],
-        "effectResId": 15008017,
+        "effectResId": 15008032,
         "showType": 0
     },
     {
