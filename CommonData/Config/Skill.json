@@ -857,6 +857,34 @@
         "skillTrackList": []
     },
     {
+        "id": 2100701,
+        "name": "\u653b\u51fb\u529b\u548c\u62a4\u7532\u7684\u589e\u52a0lv1",
+        "describe": "\u653b\u51fb\u529b\u548c\u62a4\u7532\u7684\u589e\u52a0lv1",
+        "level": 1,
+        "iconResId": 15003752,
+        "skillReleaseTargeType": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "skillTargetType": 2,
+        "effectList": [
+            14100601,
+            14100602
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 466,
+        "afterTime": 200,
+        "cdTime": 3000,
+        "isNormalAttack": 0,
+        "isBigSkill": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 1000,
+        "animationTriggerName": "",
+        "releaserEffectResId": 15008014,
+        "skillDirectionId": 0,
+        "skillTrackList": []
+    },
+    {
         "id": 2500001,
         "name": "\u9053\u5177\u6280\u80fd\uff08\u5f85\u5b9a\uff09",
         "describe": "",
