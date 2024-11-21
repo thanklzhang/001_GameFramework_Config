@@ -230,6 +230,82 @@
         "showType": 0
     },
     {
+        "id": 14100603,
+        "name": "\u6d4b\u8bd5 buff \uff08\u63d0\u9ad8\u653b\u51fb\u529b\uff09",
+        "describe": "\u6d4b\u8bd5 buff \uff08\u653b\u51fb\u529b\u63d0\u9ad8\u62a4\u7532\uff09",
+        "iconResId": 15003218,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [],
+        "lastTime": 10000000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "addedAttrGroup": [
+            1
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                50,
+                0
+            ]
+        ],
+        "isAddedAttrGroupContinuous": [
+            0
+        ],
+        "endRemoveEffectList": [],
+        "effectResId": 15008017,
+        "showType": 0
+    },
+    {
+        "id": 14100604,
+        "name": "\u6d4b\u8bd5 buff \uff08\u63d0\u9ad8\u62a4\u7532\uff09",
+        "describe": "\u6d4b\u8bd5 buff \u5faa\u73af\u6d4b\u8bd5\uff08\u62a4\u7532\u63d0\u9ad8\u653b\u51fb\u529b\uff09",
+        "iconResId": 15003218,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [],
+        "lastTime": 10000000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "addedAttrGroup": [
+            2
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                60,
+                0
+            ]
+        ],
+        "isAddedAttrGroupContinuous": [
+            0
+        ],
+        "endRemoveEffectList": [],
+        "effectResId": 15008017,
+        "showType": 0
+    },
+    {
         "id": 14001001,
         "name": "\u4e0a\u5b98\u7fce\u6280\u80fd2\u51fb\u6655 buff",
         "describe": "\u4e0a\u5b98\u7fce\u6280\u80fd2\u51fb\u6655 buff",
