@@ -30,6 +30,7 @@
                 1
             ]
         ],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -59,6 +60,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -88,6 +90,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -117,6 +120,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -144,6 +148,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008032,
         "showType": 0
@@ -179,6 +184,9 @@
                 0
             ]
         ],
+        "isAddedAttrGroupContinuous": [
+            1
+        ],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -213,6 +221,9 @@
                 1000,
                 0
             ]
+        ],
+        "isAddedAttrGroupContinuous": [
+            1
         ],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
@@ -254,6 +265,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008015,
         "showType": 0
@@ -285,6 +297,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008009,
         "showType": 0
@@ -318,6 +331,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008023,
         "showType": 0
@@ -359,6 +373,7 @@
                 1
             ]
         ],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 0,
         "showType": 0
@@ -392,6 +407,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008002,
         "showType": 0
@@ -425,6 +441,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008012,
         "showType": 0
@@ -466,6 +483,7 @@
                 0
             ]
         ],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008025,
         "showType": 0
@@ -499,6 +517,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [
             18001003
         ],
@@ -542,6 +561,7 @@
                 1
             ]
         ],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -583,6 +603,7 @@
                 1
             ]
         ],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 0,
         "showType": 0
@@ -616,6 +637,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [
             18001030
         ],
@@ -659,6 +681,7 @@
                 1
             ]
         ],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008024,
         "showType": 0
@@ -700,6 +723,7 @@
                 0
             ]
         ],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008026,
         "showType": 0
@@ -733,6 +757,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008012,
         "showType": 0
@@ -767,6 +792,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008015,
         "showType": 0
@@ -809,6 +835,7 @@
                 0
             ]
         ],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -851,6 +878,7 @@
         "endEffectList": [],
         "addedAttrGroup": [],
         "addedValueGroup": [],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 15008015,
         "showType": 0
@@ -892,6 +920,7 @@
                 0
             ]
         ],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 0,
         "showType": 0
@@ -933,6 +962,7 @@
                 10
             ]
         ],
+        "isAddedAttrGroupContinuous": [],
         "endRemoveEffectList": [],
         "effectResId": 0,
         "showType": 0
