@@ -1,0 +1,19 @@
+[
+    {
+        "id": 1,
+        "upgradeExpPerLevel": [
+            0,
+            2,
+            4,
+            8,
+            16
+        ],
+        "decomoseExpPerLevel": [
+            1,
+            2,
+            4,
+            8,
+            16
+        ]
+    }
+]
