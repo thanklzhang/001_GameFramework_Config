@@ -80,7 +80,53 @@
         "iconResId": 15003753,
         "type": 401,
         "valueList": [
-            14050301
+            50601
+        ],
+        "weightList": [
+            100
+        ],
+        "count": 1,
+        "makeSureRewardOccasion": 0
+    },
+    {
+        "id": 40010,
+        "name": "\u968f\u673a\u4e00\u4e2a\u961f\u53cb\u83b7\u5f97\u4e00\u9879\u968f\u673a\u5c5e\u6027\u5f3a\u5316",
+        "describe": "\u968f\u673a\u4e00\u4e2a\u961f\u53cb\u83b7\u5f97\u4e00\u9879\u968f\u673a\u5c5e\u6027\u5f3a\u5316",
+        "iconResId": 15003753,
+        "type": 401,
+        "valueList": [
+            50601
+        ],
+        "weightList": [
+            50,
+            50
+        ],
+        "count": 1,
+        "makeSureRewardOccasion": 0
+    },
+    {
+        "id": 40011,
+        "name": "\u6240\u6709\u961f\u53cb\u83b7\u5f97\u4e00\u9879\u968f\u673a\u5c5e\u6027\u5f3a\u5316",
+        "describe": "\u6240\u6709\u961f\u53cb\u83b7\u5f97\u4e00\u9879\u968f\u673a\u5c5e\u6027\u5f3a\u5316",
+        "iconResId": 15003753,
+        "type": 402,
+        "valueList": [
+            50601
+        ],
+        "weightList": [
+            100
+        ],
+        "count": 1,
+        "makeSureRewardOccasion": 0
+    },
+    {
+        "id": 50000,
+        "name": "\u961f\u957f\u83b7\u5f97\u4e00\u9879\u968f\u673a\u5c5e\u6027\u5f3a\u5316",
+        "describe": "\u961f\u957f\u83b7\u5f97\u4e00\u9879\u968f\u673a\u5c5e\u6027\u5f3a\u5316",
+        "iconResId": 15003753,
+        "type": 500,
+        "valueList": [
+            50601
         ],
         "weightList": [
             100

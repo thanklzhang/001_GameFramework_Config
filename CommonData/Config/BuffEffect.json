@@ -20,17 +20,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 101,
+        "addedAttrGroup2": [
             1001
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 30,
                 2000,
                 1
             ]
         ],
-        "isAddedAttrGroupContinuous": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -58,9 +60,11 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 201,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -88,9 +92,11 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 301,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -118,9 +124,11 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 401,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -146,9 +154,11 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 501,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008032,
         "showType": 0
@@ -174,17 +184,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 100601,
+        "addedAttrGroup2": [
             2
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 1,
                 1000,
                 0
             ]
         ],
-        "isAddedAttrGroupContinuous": [
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [
             1
         ],
         "endRemoveEffectList": [],
@@ -212,17 +224,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 100602,
+        "addedAttrGroup2": [
             1
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 4,
                 1000,
                 0
             ]
         ],
-        "isAddedAttrGroupContinuous": [
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [
             1
         ],
         "endRemoveEffectList": [],
@@ -250,17 +264,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 100603,
+        "addedAttrGroup2": [
             1
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 0,
                 50,
                 0
             ]
         ],
-        "isAddedAttrGroupContinuous": [
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [
             0
         ],
         "endRemoveEffectList": [],
@@ -288,17 +304,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 100604,
+        "addedAttrGroup2": [
             2
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 0,
                 60,
                 0
             ]
         ],
-        "isAddedAttrGroupContinuous": [
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [
             0
         ],
         "endRemoveEffectList": [],
@@ -339,9 +357,11 @@
         ],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 1001,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008015,
         "showType": 0
@@ -371,9 +391,11 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 1002,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008009,
         "showType": 0
@@ -405,9 +427,11 @@
             4001005
         ],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 1003,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008023,
         "showType": 0
@@ -439,17 +463,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 1004,
+        "addedAttrGroup2": [
             5
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 0,
                 -1400,
                 1
             ]
         ],
-        "isAddedAttrGroupContinuous": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 0,
         "showType": 0
@@ -481,9 +507,11 @@
             13001005
         ],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 1005,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008002,
         "showType": 0
@@ -515,9 +543,11 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 1007,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008012,
         "showType": 0
@@ -549,17 +579,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 1008,
+        "addedAttrGroup2": [
             1005
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 0,
                 150,
                 0
             ]
         ],
-        "isAddedAttrGroupContinuous": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008025,
         "showType": 0
@@ -591,9 +623,11 @@
         ],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 1010,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [
             18001003
         ],
@@ -627,17 +661,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 1011,
+        "addedAttrGroup2": [
             10
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 0,
                 -700,
                 1
             ]
         ],
-        "isAddedAttrGroupContinuous": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -669,17 +705,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 1012,
+        "addedAttrGroup2": [
             1001
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 0,
                 700,
                 1
             ]
         ],
-        "isAddedAttrGroupContinuous": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 0,
         "showType": 0
@@ -711,9 +749,11 @@
         ],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 1020,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [
             18001030
         ],
@@ -747,17 +787,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 1021,
+        "addedAttrGroup2": [
             10
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 0,
                 500,
                 1
             ]
         ],
-        "isAddedAttrGroupContinuous": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008024,
         "showType": 0
@@ -789,17 +831,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 1030,
+        "addedAttrGroup2": [
             1004
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 0,
                 500,
                 0
             ]
         ],
-        "isAddedAttrGroupContinuous": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008026,
         "showType": 0
@@ -831,9 +875,11 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 1031,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008012,
         "showType": 0
@@ -866,9 +912,11 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 50001,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008015,
         "showType": 0
@@ -901,17 +949,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 50002,
+        "addedAttrGroup2": [
             5
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 0,
                 2500,
                 0
             ]
         ],
-        "isAddedAttrGroupContinuous": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
@@ -952,9 +1002,11 @@
         ],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
-        "isAddedAttrGroupContinuous": [],
+        "attrGroupConfigId": 50100,
+        "addedAttrGroup2": [],
+        "addedValueGroup2": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 15008015,
         "showType": 0
@@ -986,17 +1038,19 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 50201,
+        "addedAttrGroup2": [
             1
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 3,
                 0,
                 0
             ]
         ],
-        "isAddedAttrGroupContinuous": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 0,
         "showType": 0
@@ -1028,17 +1082,215 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "addedAttrGroup": [
+        "attrGroupConfigId": 50301,
+        "addedAttrGroup2": [
             1
         ],
-        "addedValueGroup": [
+        "addedValueGroup2": [
             [
                 3,
                 50,
                 10
             ]
         ],
-        "isAddedAttrGroupContinuous": [],
+        "addedValueRand2": [],
+        "isAddedAttrGroupContinuous2": [],
+        "endRemoveEffectList": [],
+        "effectResId": 0,
+        "showType": 0
+    },
+    {
+        "id": 14050401,
+        "name": "\u5c5e\u6027\u52a0\u6210\u653b\u51fb\u529b 50~100",
+        "describe": "\u5c5e\u6027\u52a0\u6210\u653b\u51fb\u529b 50~100",
+        "iconResId": 15003114,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            0
+        ],
+        "lastTime": 999999000,
+        "isCanBeClear": 1,
+        "affectType": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 50401,
+        "addedAttrGroup2": [
+            1
+        ],
+        "addedValueGroup2": [
+            [
+                0,
+                0,
+                1
+            ]
+        ],
+        "addedValueRand2": [
+            [
+                50,
+                100
+            ]
+        ],
+        "isAddedAttrGroupContinuous2": [],
+        "endRemoveEffectList": [],
+        "effectResId": 0,
+        "showType": 0
+    },
+    {
+        "id": 14050402,
+        "name": "\u5c5e\u6027\u52a0\u6210\u62a4\u7532 100%~200%",
+        "describe": "\u5c5e\u6027\u52a0\u6210\u62a4\u7532 100%~200%",
+        "iconResId": 15003114,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            0
+        ],
+        "lastTime": 999999000,
+        "isCanBeClear": 1,
+        "affectType": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 50402,
+        "addedAttrGroup2": [
+            1002
+        ],
+        "addedValueGroup2": [
+            [
+                0,
+                0,
+                1
+            ]
+        ],
+        "addedValueRand2": [
+            [
+                1000,
+                2000
+            ]
+        ],
+        "isAddedAttrGroupContinuous2": [],
+        "endRemoveEffectList": [],
+        "effectResId": 0,
+        "showType": 0
+    },
+    {
+        "id": 14050501,
+        "name": "\u5c5e\u6027\u52a0\u6210\u653b\u51fb\u529b 10~40",
+        "describe": "\u5c5e\u6027\u52a0\u6210\u653b\u51fb\u529b 10~40",
+        "iconResId": 15003114,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            0
+        ],
+        "lastTime": 999999000,
+        "isCanBeClear": 1,
+        "affectType": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 50501,
+        "addedAttrGroup2": [
+            1
+        ],
+        "addedValueGroup2": [
+            [
+                0,
+                0,
+                1
+            ]
+        ],
+        "addedValueRand2": [
+            [
+                10,
+                40
+            ]
+        ],
+        "isAddedAttrGroupContinuous2": [],
+        "endRemoveEffectList": [],
+        "effectResId": 0,
+        "showType": 0
+    },
+    {
+        "id": 14050601,
+        "name": "\u5c5e\u6027\u52a0\u6210\u653b\u51fb\u529b 75~150",
+        "describe": "\u5c5e\u6027\u52a0\u6210\u653b\u51fb\u529b 75~150",
+        "iconResId": 15003114,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            0
+        ],
+        "lastTime": 999999000,
+        "isCanBeClear": 1,
+        "affectType": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 50601,
+        "addedAttrGroup2": [
+            1
+        ],
+        "addedValueGroup2": [
+            [
+                0,
+                0,
+                1
+            ]
+        ],
+        "addedValueRand2": [
+            [
+                75,
+                150
+            ]
+        ],
+        "isAddedAttrGroupContinuous2": [],
         "endRemoveEffectList": [],
         "effectResId": 0,
         "showType": 0

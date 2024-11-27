@@ -31,7 +31,19 @@
         "describe": "\u961f\u53cb\u5c5e\u6027\u6c60\u5b50",
         "fixedRewardList": [],
         "rewardIdList": [
-            40001
+            40011
+        ],
+        "rewardWeightList": [
+            50
+        ]
+    },
+    {
+        "id": 5000,
+        "name": "\u961f\u957f\u5c5e\u6027\u6c60\u5b50",
+        "describe": "\u961f\u957f\u5c5e\u6027\u6c60\u5b50",
+        "fixedRewardList": [],
+        "rewardIdList": [
+            50000
         ],
         "rewardWeightList": [
             50
