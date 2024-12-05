@@ -72,6 +72,15 @@
         "poolId": 5000
     },
     {
+        "id": 601,
+        "name": "\u6d4b\u8bd5\u6218\u94f6\u5b9d\u7bb1",
+        "describe": "\u6d4b\u8bd5\u6218\u94f6\u5b9d\u7bb1",
+        "iconResId": 15002001,
+        "quality": 0,
+        "selectionCount": 3,
+        "poolId": 6001
+    },
+    {
         "id": 901,
         "name": "\u5347\u7ea7\u6d4b\u8bd5\u5b9d\u7bb1",
         "describe": "\u5347\u7ea7\u6d4b\u8bd5\u5b9d\u7bb1",
