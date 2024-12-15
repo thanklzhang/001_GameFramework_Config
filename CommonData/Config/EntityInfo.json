@@ -17,6 +17,7 @@
             2001006
         ],
         "level": 0,
+        "quality": 0,
         "star": 0,
         "skillLevels": [],
         "aiScript": "BaseAI",
@@ -38,6 +39,7 @@
             2001002
         ],
         "level": 0,
+        "quality": 0,
         "star": 0,
         "skillLevels": [],
         "aiScript": "BaseAI",
@@ -63,6 +65,7 @@
             2001026
         ],
         "level": 0,
+        "quality": 0,
         "star": 0,
         "skillLevels": [],
         "aiScript": "BaseAI",
@@ -84,6 +87,7 @@
             2001002
         ],
         "level": 0,
+        "quality": 0,
         "star": 0,
         "skillLevels": [],
         "aiScript": "BaseAI",
@@ -105,6 +109,7 @@
             2001002
         ],
         "level": 0,
+        "quality": 0,
         "star": 0,
         "skillLevels": [],
         "aiScript": "BaseAI",
@@ -126,6 +131,7 @@
             2001002
         ],
         "level": 0,
+        "quality": 0,
         "star": 0,
         "skillLevels": [],
         "aiScript": "BaseAI",
@@ -146,6 +152,7 @@
             2002001
         ],
         "level": 1,
+        "quality": 0,
         "star": 1,
         "skillLevels": [
             1,
@@ -170,6 +177,7 @@
             2002012
         ],
         "level": 1,
+        "quality": 0,
         "star": 1,
         "skillLevels": [
             1,
@@ -198,6 +206,7 @@
             2003052
         ],
         "level": 1,
+        "quality": 0,
         "star": 1,
         "skillLevels": [
             1,
@@ -228,6 +237,7 @@
             2001006
         ],
         "level": 1,
+        "quality": 0,
         "star": 1,
         "skillLevels": [
             1,
@@ -259,6 +269,7 @@
             2201201
         ],
         "level": 1,
+        "quality": 0,
         "star": 1,
         "skillLevels": [
             1,
@@ -287,6 +298,7 @@
             2002002
         ],
         "level": 1,
+        "quality": 0,
         "star": 1,
         "skillLevels": [
             1,
@@ -311,6 +323,7 @@
             2002012
         ],
         "level": 1,
+        "quality": 0,
         "star": 1,
         "skillLevels": [
             1,
