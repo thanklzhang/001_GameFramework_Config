@@ -88,5 +88,14 @@
         "quality": 0,
         "selectionCount": 3,
         "poolId": 9001
+    },
+    {
+        "id": 902,
+        "name": "\u4e13\u5c5e\u6280\u80fd\u6d4b\u8bd5\u5b9d\u7bb1",
+        "describe": "\u4e13\u5c5e\u6280\u80fd\u6d4b\u8bd5\u5b9d\u7bb1",
+        "iconResId": 15002001,
+        "quality": 0,
+        "selectionCount": 3,
+        "poolId": 9002
     }
 ]
