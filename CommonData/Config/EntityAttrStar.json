@@ -258,5 +258,70 @@
         "attackSpeed": 58,
         "moveSpeed": 508,
         "attackRange": 0
+    },
+    {
+        "id": 12100001,
+        "templateId": 101,
+        "starLevel": 1,
+        "describe": "\u6d4b\u8bd5\u6a21\u677f",
+        "attack": 50,
+        "defence": 50,
+        "health": 200,
+        "magic": 0,
+        "attackSpeed": 200,
+        "moveSpeed": 100,
+        "attackRange": 0
+    },
+    {
+        "id": 12100002,
+        "templateId": 101,
+        "starLevel": 2,
+        "describe": "\u6d4b\u8bd5\u6a21\u677f",
+        "attack": 100,
+        "defence": 100,
+        "health": 400,
+        "magic": 0,
+        "attackSpeed": 400,
+        "moveSpeed": 200,
+        "attackRange": 0
+    },
+    {
+        "id": 12100003,
+        "templateId": 101,
+        "starLevel": 3,
+        "describe": "\u6d4b\u8bd5\u6a21\u677f",
+        "attack": 200,
+        "defence": 200,
+        "health": 800,
+        "magic": 0,
+        "attackSpeed": 600,
+        "moveSpeed": 300,
+        "attackRange": 0
+    },
+    {
+        "id": 12100004,
+        "templateId": 101,
+        "starLevel": 4,
+        "describe": "\u6d4b\u8bd5\u6a21\u677f",
+        "attack": 400,
+        "defence": 400,
+        "health": 1600,
+        "magic": 0,
+        "attackSpeed": 800,
+        "moveSpeed": 400,
+        "attackRange": 0
+    },
+    {
+        "id": 12100005,
+        "templateId": 101,
+        "starLevel": 5,
+        "describe": "\u6d4b\u8bd5\u6a21\u677f",
+        "attack": 800,
+        "defence": 800,
+        "health": 3200,
+        "magic": 0,
+        "attackSpeed": 1000,
+        "moveSpeed": 500,
+        "attackRange": 0
     }
 ]

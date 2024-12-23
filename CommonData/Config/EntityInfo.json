@@ -292,7 +292,7 @@
         "modelId": 15011032,
         "baseAttrId": 10003001,
         "levelAttrId": 10001,
-        "starAttrId": 10001,
+        "starAttrId": 101,
         "skillIds": [
             2002001,
             2002002
@@ -317,7 +317,7 @@
         "modelId": 15011033,
         "baseAttrId": 10003002,
         "levelAttrId": 10001,
-        "starAttrId": 10001,
+        "starAttrId": 101,
         "skillIds": [
             2002011,
             2002012
