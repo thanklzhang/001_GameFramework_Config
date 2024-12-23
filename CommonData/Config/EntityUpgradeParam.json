@@ -3,12 +3,12 @@
         "id": 1,
         "upgradeExpPerStarLevel": [
             0,
+            1,
             2,
             4,
-            8,
-            16
+            8
         ],
-        "decomoseExpPerStarLevel": [
+        "decomposeExpPerStarLevel": [
             1,
             2,
             4,
