@@ -16,6 +16,7 @@
             2001005,
             2001006
         ],
+        "ultimateSkillId": 0,
         "level": 0,
         "quality": 0,
         "star": 0,
@@ -38,6 +39,7 @@
             2001001,
             2001002
         ],
+        "ultimateSkillId": 0,
         "level": 0,
         "quality": 0,
         "star": 0,
@@ -64,6 +66,7 @@
             2001025,
             2001026
         ],
+        "ultimateSkillId": 0,
         "level": 0,
         "quality": 0,
         "star": 0,
@@ -86,6 +89,7 @@
             2001001,
             2001002
         ],
+        "ultimateSkillId": 0,
         "level": 0,
         "quality": 0,
         "star": 0,
@@ -108,6 +112,7 @@
             2001001,
             2001002
         ],
+        "ultimateSkillId": 0,
         "level": 0,
         "quality": 0,
         "star": 0,
@@ -130,6 +135,7 @@
             2001001,
             2001002
         ],
+        "ultimateSkillId": 0,
         "level": 0,
         "quality": 0,
         "star": 0,
@@ -151,6 +157,7 @@
         "skillIds": [
             2002001
         ],
+        "ultimateSkillId": 0,
         "level": 1,
         "quality": 0,
         "star": 1,
@@ -176,6 +183,7 @@
             2002011,
             2002012
         ],
+        "ultimateSkillId": 0,
         "level": 1,
         "quality": 0,
         "star": 1,
@@ -205,6 +213,7 @@
             2003051,
             2003052
         ],
+        "ultimateSkillId": 0,
         "level": 1,
         "quality": 0,
         "star": 1,
@@ -236,6 +245,7 @@
             2001005,
             2001006
         ],
+        "ultimateSkillId": 0,
         "level": 1,
         "quality": 0,
         "star": 1,
@@ -264,8 +274,10 @@
         "skillIds": [
             2002101,
             2003201,
-            2003301
+            2003401,
+            2003501
         ],
+        "ultimateSkillId": 2003301,
         "level": 1,
         "quality": 0,
         "star": 1,
@@ -295,6 +307,7 @@
             2002001,
             2002002
         ],
+        "ultimateSkillId": 0,
         "level": 1,
         "quality": 0,
         "star": 1,
@@ -320,6 +333,7 @@
             2002011,
             2002012
         ],
+        "ultimateSkillId": 0,
         "level": 1,
         "quality": 0,
         "star": 1,
