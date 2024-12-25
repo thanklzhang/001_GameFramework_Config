@@ -84,5 +84,17 @@
         "rewardWeightList": [
             50
         ]
+    },
+    {
+        "id": 9008,
+        "name": "\u6280\u80fd\u5347\u7ea7\u6d4b\u8bd5\u6c60\u5b50",
+        "describe": "\u6280\u80fd\u5347\u7ea7\u6d4b\u8bd5\u6c60\u5b50",
+        "fixedRewardList": [],
+        "rewardIdList": [
+            10010
+        ],
+        "rewardWeightList": [
+            50
+        ]
     }
 ]
