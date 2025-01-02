@@ -10,7 +10,12 @@
         "magic": 0,
         "attackSpeed": 0,
         "moveSpeed": 0,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12001002,
@@ -23,7 +28,12 @@
         "magic": 20,
         "attackSpeed": 50,
         "moveSpeed": 500,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12001003,
@@ -36,7 +46,12 @@
         "magic": 21,
         "attackSpeed": 51,
         "moveSpeed": 501,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12001004,
@@ -49,7 +64,12 @@
         "magic": 22,
         "attackSpeed": 52,
         "moveSpeed": 502,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12001005,
@@ -62,7 +82,12 @@
         "magic": 23,
         "attackSpeed": 53,
         "moveSpeed": 503,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12001006,
@@ -75,7 +100,12 @@
         "magic": 24,
         "attackSpeed": 54,
         "moveSpeed": 504,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12001007,
@@ -88,7 +118,12 @@
         "magic": 25,
         "attackSpeed": 55,
         "moveSpeed": 505,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12001008,
@@ -101,7 +136,12 @@
         "magic": 26,
         "attackSpeed": 56,
         "moveSpeed": 506,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12001009,
@@ -114,7 +154,12 @@
         "magic": 27,
         "attackSpeed": 57,
         "moveSpeed": 507,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12001010,
@@ -127,7 +172,12 @@
         "magic": 28,
         "attackSpeed": 58,
         "moveSpeed": 508,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12002001,
@@ -140,7 +190,12 @@
         "magic": 0,
         "attackSpeed": 0,
         "moveSpeed": 0,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12002002,
@@ -153,7 +208,12 @@
         "magic": 226,
         "attackSpeed": 50,
         "moveSpeed": 500,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12002003,
@@ -166,7 +226,12 @@
         "magic": 227,
         "attackSpeed": 51,
         "moveSpeed": 501,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12002004,
@@ -179,7 +244,12 @@
         "magic": 228,
         "attackSpeed": 52,
         "moveSpeed": 502,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12002005,
@@ -192,7 +262,12 @@
         "magic": 229,
         "attackSpeed": 53,
         "moveSpeed": 503,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12002006,
@@ -205,7 +280,12 @@
         "magic": 230,
         "attackSpeed": 54,
         "moveSpeed": 504,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12002007,
@@ -218,7 +298,12 @@
         "magic": 231,
         "attackSpeed": 55,
         "moveSpeed": 505,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12002008,
@@ -231,7 +316,12 @@
         "magic": 232,
         "attackSpeed": 56,
         "moveSpeed": 506,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12002009,
@@ -244,7 +334,12 @@
         "magic": 233,
         "attackSpeed": 57,
         "moveSpeed": 507,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12002010,
@@ -257,7 +352,12 @@
         "magic": 234,
         "attackSpeed": 58,
         "moveSpeed": 508,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12100001,
@@ -270,7 +370,12 @@
         "magic": 0,
         "attackSpeed": 200,
         "moveSpeed": 100,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12100002,
@@ -283,7 +388,12 @@
         "magic": 0,
         "attackSpeed": 400,
         "moveSpeed": 200,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12100003,
@@ -296,7 +406,12 @@
         "magic": 0,
         "attackSpeed": 600,
         "moveSpeed": 300,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12100004,
@@ -309,7 +424,12 @@
         "magic": 0,
         "attackSpeed": 800,
         "moveSpeed": 400,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     },
     {
         "id": 12100005,
@@ -322,6 +442,11 @@
         "magic": 0,
         "attackSpeed": 1000,
         "moveSpeed": 500,
-        "attackRange": 0
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0
     }
 ]

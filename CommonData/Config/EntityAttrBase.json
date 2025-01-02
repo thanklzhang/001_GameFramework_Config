@@ -9,7 +9,11 @@
         "attackSpeed": 1400,
         "moveSpeed": 3500,
         "attackRange": 1500,
-        "inputDamageRate": 1000
+        "inputDamageRate": 1000,
+        "outputDamageRate": 1000,
+        "critRate": 0,
+        "critDamage": 3000,
+        "skillCD": 0
     },
     {
         "id": 10001002,
@@ -21,7 +25,11 @@
         "attackSpeed": 3000,
         "moveSpeed": 4000,
         "attackRange": 7000,
-        "inputDamageRate": 1000
+        "inputDamageRate": 1000,
+        "outputDamageRate": 1000,
+        "critRate": 0,
+        "critDamage": 3000,
+        "skillCD": 0
     },
     {
         "id": 10001003,
@@ -33,7 +41,11 @@
         "attackSpeed": 1000,
         "moveSpeed": 6000,
         "attackRange": 7000,
-        "inputDamageRate": 1000
+        "inputDamageRate": 1000,
+        "outputDamageRate": 1000,
+        "critRate": 0,
+        "critDamage": 3000,
+        "skillCD": 0
     },
     {
         "id": 10003001,
@@ -45,7 +57,11 @@
         "attackSpeed": 600,
         "moveSpeed": 1250,
         "attackRange": 1500,
-        "inputDamageRate": 1000
+        "inputDamageRate": 1000,
+        "outputDamageRate": 1000,
+        "critRate": 0,
+        "critDamage": 3000,
+        "skillCD": 0
     },
     {
         "id": 10003002,
@@ -57,7 +73,11 @@
         "attackSpeed": 900,
         "moveSpeed": 1250,
         "attackRange": 5000,
-        "inputDamageRate": 1000
+        "inputDamageRate": 1000,
+        "outputDamageRate": 1000,
+        "critRate": 0,
+        "critDamage": 3000,
+        "skillCD": 0
     },
     {
         "id": 10003031,
@@ -69,6 +89,10 @@
         "attackSpeed": 1000,
         "moveSpeed": 3000,
         "attackRange": 1500,
-        "inputDamageRate": 1000
+        "inputDamageRate": 1000,
+        "outputDamageRate": 1000,
+        "critRate": 0,
+        "critDamage": 3000,
+        "skillCD": 0
     }
 ]
