@@ -1,7 +1,7 @@
 [
     {
         "id": 100001,
-        "name": "\u6d4b\u8bd5\u9053\u5177 1",
+        "name": "\u9053\u5177",
         "describe": "\u4e3b\u52a8\u91ca\u653e\uff1a\u52a0\u8840\uff0c\u5468\u56f4\u51fb\u6655 \u88ab\u52a8\u6280\u80fd\uff1a\u589e\u52a0\u79fb\u52a8\u901f\u5ea6   \u5c5e\u6027\uff1a\u589e\u52a0100\u653b\u51fb\u548c100\u70b9\u9632\u5fa1",
         "iconResId": 15004001,
         "itemType": 1,
@@ -25,6 +25,45 @@
                 0
             ]
         ]
+    },
+    {
+        "id": 100101,
+        "name": "\u6d4b\u8bd5\u9053\u5177 1",
+        "describe": "\u6d4b\u8bd5\u9053\u5177 1 \u4ecb\u7ecd",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "addedAttrGroup": [],
+        "addedValueGroup": []
+    },
+    {
+        "id": 100102,
+        "name": "\u6d4b\u8bd5\u9053\u5177 2",
+        "describe": "\u6d4b\u8bd5\u9053\u5177 2 \u4ecb\u7ecd",
+        "iconResId": 15004002,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "addedAttrGroup": [],
+        "addedValueGroup": []
+    },
+    {
+        "id": 100103,
+        "name": "\u6d4b\u8bd5\u9053\u5177 3",
+        "describe": "\u6d4b\u8bd5\u9053\u5177 3 \u4ecb\u7ecd",
+        "iconResId": 15004003,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "addedAttrGroup": [],
+        "addedValueGroup": []
     },
     {
         "id": 200001,
