@@ -9,6 +9,7 @@
         "addType": 2,
         "isDestroyAfterUse": 1,
         "skillId": 2005001,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [
             1,
             2
@@ -36,6 +37,7 @@
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
+        "attrGroupConfigId": 100603,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -49,6 +51,7 @@
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
+        "attrGroupConfigId": 100604,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -62,6 +65,7 @@
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
+        "attrGroupConfigId": 100603,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -75,6 +79,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 2001023,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -88,6 +93,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 2001024,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -101,6 +107,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -114,6 +121,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -127,6 +135,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -140,6 +149,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -153,6 +163,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -166,6 +177,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -179,6 +191,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -192,6 +205,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -205,6 +219,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -218,6 +233,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -231,6 +247,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -244,6 +261,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -257,6 +275,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -270,6 +289,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -283,6 +303,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -296,6 +317,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -309,6 +331,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -322,6 +345,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -335,6 +359,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -348,6 +373,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -361,6 +387,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -374,6 +401,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -387,6 +415,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -400,6 +429,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -413,6 +443,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -426,6 +457,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     },
@@ -439,6 +471,7 @@
         "addType": 2,
         "isDestroyAfterUse": 0,
         "skillId": 0,
+        "attrGroupConfigId": 0,
         "addedAttrGroup": [],
         "addedValueGroup": []
     }
