@@ -9,7 +9,7 @@
             1001
         ],
         "waveType": 0,
-        "readyTime": 1000,
+        "readyTime": 999999999,
         "limitTime": 999999999,
         "passType": 0,
         "passRewardId": 10001

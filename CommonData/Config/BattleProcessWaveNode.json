@@ -4,7 +4,7 @@
         "describe": "\u7eaf\u672c\u5730\u6218\u6597\u6d4b\u8bd5\uff1a\u7b2c 1 \u6ce2 \u602a\u72691",
         "index": 1,
         "isEndNode": 0,
-        "delayTime": 200,
+        "delayTime": 999999,
         "intervalTime": 1000,
         "triggerCount": 1,
         "entityConfigId": 1000201,
