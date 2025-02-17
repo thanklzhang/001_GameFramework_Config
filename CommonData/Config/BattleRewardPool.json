@@ -14,6 +14,18 @@
         ]
     },
     {
+        "id": 3000,
+        "name": "\u9053\u5177\u6c60\u5b50",
+        "describe": "\u9053\u5177\u6c60\u5b50",
+        "fixedRewardList": [],
+        "rewardIdList": [
+            30000
+        ],
+        "rewardWeightList": [
+            50
+        ]
+    },
+    {
         "id": 4000,
         "name": "\u961f\u53cb\u6c60\u5b50",
         "describe": "\u961f\u53cb\u6c60\u5b50",
