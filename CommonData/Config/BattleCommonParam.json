@@ -6,6 +6,8 @@
         "entityItemBarCellUnlockStarLevel": [
             2,
             4
-        ]
+        ],
+        "initPlayerWarhouseCellUnlockCount": 20,
+        "maxPlayerWarhouseCellCount": 50
     }
 ]
