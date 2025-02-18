@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "initEntityItemBarCellUnlockCount": 1,
+        "maxEntityItemBarCellCount": 3,
+        "entityItemBarCellUnlockStarLevel": [
+            2,
+            4
+        ]
+    }
+]
