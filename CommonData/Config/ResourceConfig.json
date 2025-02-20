@@ -136,7 +136,7 @@
     },
     {
         "id": 15000501,
-        "name": "BattleReplaceHeroUI",
+        "name": "BattleReplaceSkillUI",
         "des": "",
         "path": "UI/Prefabs",
         "ext": "prefab",
