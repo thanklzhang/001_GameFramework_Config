@@ -144,6 +144,15 @@
         "tag": ""
     },
     {
+        "id": 15000502,
+        "name": "BattleReplaceHeroUI",
+        "des": "",
+        "path": "UI/Prefabs",
+        "ext": "prefab",
+        "type": 1,
+        "tag": ""
+    },
+    {
         "id": 15001001,
         "name": "hero_100",
         "des": "",

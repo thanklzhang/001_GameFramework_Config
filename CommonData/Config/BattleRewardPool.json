@@ -38,6 +38,18 @@
         ]
     },
     {
+        "id": 4002,
+        "name": "\u6d4b\u8bd5\u961f\u53cb\u6570\u76ee\u4e0a\u9650\u6c60\u5b50",
+        "describe": "\u6d4b\u8bd5\u961f\u53cb\u6570\u76ee\u4e0a\u9650\u6c60\u5b50",
+        "fixedRewardList": [],
+        "rewardIdList": [
+            40002
+        ],
+        "rewardWeightList": [
+            50
+        ]
+    },
+    {
         "id": 4001,
         "name": "\u961f\u53cb\u5c5e\u6027\u6c60\u5b50",
         "describe": "\u961f\u53cb\u5c5e\u6027\u6c60\u5b50",
