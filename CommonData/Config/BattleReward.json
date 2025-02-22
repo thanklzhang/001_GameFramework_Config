@@ -225,6 +225,19 @@
         "makeSureRewardOccasion": 1
     },
     {
+        "id": 60002,
+        "name": "\u589e\u52a0 1 \u4eba\u53e3",
+        "describe": "\u589e\u52a0 1 \u4eba\u53e3",
+        "iconResId": 15003753,
+        "type": 601,
+        "valueList": [
+            1
+        ],
+        "weightList": [],
+        "count": 0,
+        "makeSureRewardOccasion": 1
+    },
+    {
         "id": 90001,
         "name": "\u83b7\u5f97\u6280\u80fd \u968f\u673a\uff08\u5347\u7ea7\u6d4b\u8bd5\uff09",
         "describe": "\u83b7\u5f97\u6280\u80fd \u968f\u673a\uff08\u5347\u7ea7\u6d4b\u8bd5\uff09",
