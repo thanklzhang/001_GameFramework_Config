@@ -4,9 +4,9 @@
         "describe": "\u7eaf\u672c\u5730\u6218\u6597\u6d4b\u8bd5\uff1a\u7b2c 1 \u6ce2 \u602a\u72691",
         "index": 1,
         "isEndNode": 0,
-        "delayTime": 999999,
+        "delayTime": 200,
         "intervalTime": 1000,
-        "triggerCount": 1,
+        "triggerCount": 3,
         "entityConfigId": 1000201,
         "entityCount": 4,
         "posType": 0
@@ -16,11 +16,11 @@
         "describe": "\u7eaf\u672c\u5730\u6218\u6597\u6d4b\u8bd5\uff1a\u7b2c 1 \u6ce2 \u5934\u76ee1",
         "index": 1,
         "isEndNode": 1,
-        "delayTime": 9999999,
-        "intervalTime": 1000,
-        "triggerCount": 1,
-        "entityConfigId": 1000210,
-        "entityCount": 1,
+        "delayTime": 5000,
+        "intervalTime": 2000,
+        "triggerCount": 3,
+        "entityConfigId": 1200102,
+        "entityCount": 4,
         "posType": 0
     },
     {
@@ -43,7 +43,7 @@
         "delayTime": 200,
         "intervalTime": 1000,
         "triggerCount": 1,
-        "entityConfigId": 1000210,
+        "entityConfigId": 1200102,
         "entityCount": 1,
         "posType": 0
     },
