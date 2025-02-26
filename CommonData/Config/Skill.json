@@ -1436,7 +1436,7 @@
         "skillTrackList": []
     },
     {
-        "id": 2201101,
+        "id": 2001003,
         "name": "\u5251\u6c14\u6f29\u6da1(W)",
         "describe": "\u5251\u5149\u5982\u95ea\u7535\u822c\u77ac\u95f4\u51fa\u73b0\uff0c\u8fc5\u901f\u653b\u51fb\u654c\u4eba\u5e76\u9644\u5e26\u7535\u51fb\u6548\u679c\uff0c\u9020\u6210\u4f24\u5bb3(80% \u653b\u51fb\u529b)\u5e76\u51fb\u6655 3 \u79d2\u3002\u51b7\u5374\u65f6\u95f4: 8 \u79d2",
         "level": 1,
@@ -1646,7 +1646,7 @@
         "skillTrackList": []
     },
     {
-        "id": 2201201,
+        "id": 2001024,
         "name": "\u8840\u8680\u9635\u75d5(E)",
         "describe": "\u5c06\u76ee\u6807\u533a\u57df\u5185\u7684\u654c\u4eba\u56f0\u6270\u5728\u8840\u6c60\u4e4b\u4e2d\uff0c\u8ba9\u4ed6\u4eec\u7684\u79fb\u52a8\u901f\u5ea6\u964d\u4f4e 1.4 \uff08\u56fa\u5b9a\u503c\uff09\uff0c\u5e76\u6301\u7eed\u53d7\u5230\u6d41\u8840\u4f24\u5bb3(\u6bcf\u79d2 30% \u653b\u51fb\u529b \u7684\u4f24\u5bb3)\u3002\u51b7\u5374\u65f6\u95f4\uff1a15 \u79d2.",
         "level": 1,
@@ -1752,7 +1752,7 @@
         ]
     },
     {
-        "id": 2002001,
+        "id": 2201101,
         "name": "\u602a\u72691 \u666e\u901a\u653b\u51fb",
         "describe": "\u602a\u72691 \u666e\u901a\u653b\u51fb",
         "level": 0,
@@ -1778,7 +1778,7 @@
         "skillTrackList": []
     },
     {
-        "id": 2002002,
+        "id": 2201201,
         "name": "\u602a\u72691 \u6280\u80fd1",
         "describe": "\u602a\u72691 \u6280\u80fd 1 \u4ecb\u7ecd \u5411\u4e00\u4e2a\u533a\u57df\u8fdb\u884c\u653b\u51fb",
         "level": 0,
@@ -1806,7 +1806,7 @@
         ]
     },
     {
-        "id": 2002011,
+        "id": 2202101,
         "name": "\u602a\u72692 \u666e\u901a\u653b\u51fb",
         "describe": "\u602a\u72692 \u666e\u901a\u653b\u51fb",
         "level": 0,
@@ -1832,7 +1832,7 @@
         "skillTrackList": []
     },
     {
-        "id": 2002012,
+        "id": 2202201,
         "name": "\u602a\u72692 \u7a7f\u900f\u6295\u63b7\u653b\u51fb",
         "describe": "\u602a\u72692 \u7a7f\u900f\u6295\u63b7\u653b\u51fb",
         "level": 0,

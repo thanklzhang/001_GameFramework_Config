@@ -34,7 +34,7 @@
     {
         "id": 10001003,
         "describe": "\u5510\u4f9d",
-        "attack": 200000,
+        "attack": 10,
         "defence": 40,
         "health": 1000000,
         "magic": 125,
@@ -68,7 +68,7 @@
         "describe": "\u602a\u72692 \u8fdc\u7a0b",
         "attack": 25,
         "defence": 50,
-        "health": 500,
+        "health": 5000000,
         "magic": 125,
         "attackSpeed": 1500,
         "moveSpeed": 1250,
