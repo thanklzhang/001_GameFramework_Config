@@ -6,8 +6,10 @@
         "level": 0,
         "iconResId": 0,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -30,8 +32,10 @@
         "level": 1,
         "iconResId": 0,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -54,8 +58,10 @@
         "level": 0,
         "iconResId": 0,
         "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 1,
         "effectList": [
             3000101
@@ -80,8 +86,10 @@
         "level": 1,
         "iconResId": 0,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -104,8 +112,10 @@
         "level": 0,
         "iconResId": 0,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -128,8 +138,10 @@
         "level": 1,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -152,8 +164,10 @@
         "level": 2,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -176,8 +190,10 @@
         "level": 3,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -200,8 +216,10 @@
         "level": 4,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -224,8 +242,10 @@
         "level": 5,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -248,8 +268,10 @@
         "level": 1,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -272,8 +294,10 @@
         "level": 2,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -296,8 +320,10 @@
         "level": 1,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -320,8 +346,10 @@
         "level": 2,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -344,8 +372,10 @@
         "level": 3,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -368,8 +398,10 @@
         "level": 4,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -392,8 +424,10 @@
         "level": 5,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -416,8 +450,10 @@
         "level": 1,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -440,8 +476,10 @@
         "level": 2,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -464,8 +502,10 @@
         "level": 3,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -488,8 +528,10 @@
         "level": 4,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -512,8 +554,10 @@
         "level": 5,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -536,8 +580,10 @@
         "level": 1,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -560,8 +606,10 @@
         "level": 1,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -584,8 +632,10 @@
         "level": 1,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -608,8 +658,10 @@
         "level": 1,
         "iconResId": 15003751,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             3100101
@@ -634,8 +686,10 @@
         "level": 2,
         "iconResId": 15003751,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             3100102
@@ -660,8 +714,10 @@
         "level": 3,
         "iconResId": 15003751,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             3100103
@@ -686,8 +742,10 @@
         "level": 4,
         "iconResId": 15003751,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             3100104
@@ -712,8 +770,10 @@
         "level": 5,
         "iconResId": 15003751,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             3100105
@@ -738,8 +798,10 @@
         "level": 1,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             13100101
@@ -764,8 +826,10 @@
         "level": 2,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             13100102
@@ -790,8 +854,10 @@
         "level": 3,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             13100103
@@ -816,8 +882,10 @@
         "level": 4,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             13100104
@@ -842,8 +910,10 @@
         "level": 5,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             13100105
@@ -868,8 +938,10 @@
         "level": 1,
         "iconResId": 15003755,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             18100101,
@@ -895,8 +967,10 @@
         "level": 2,
         "iconResId": 15003755,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             18100102,
@@ -922,8 +996,10 @@
         "level": 3,
         "iconResId": 15003755,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             18100103,
@@ -949,8 +1025,10 @@
         "level": 4,
         "iconResId": 15003755,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             18100104,
@@ -976,8 +1054,10 @@
         "level": 5,
         "iconResId": 15003755,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             18100105,
@@ -1004,8 +1084,10 @@
         "level": 1,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [],
         "effectListOnGain": [],
@@ -1028,8 +1110,10 @@
         "level": 2,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [],
         "effectListOnGain": [],
@@ -1052,8 +1136,10 @@
         "level": 3,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             14100301
@@ -1078,8 +1164,10 @@
         "level": 4,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             14100301
@@ -1104,8 +1192,10 @@
         "level": 5,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             14100401,
@@ -1131,8 +1221,10 @@
         "level": 1,
         "iconResId": 15003753,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 11,
         "effectList": [
             13100201
@@ -1157,8 +1249,10 @@
         "level": 2,
         "iconResId": 15003753,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 11,
         "effectList": [
             13100201
@@ -1183,8 +1277,10 @@
         "level": 3,
         "iconResId": 15003753,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 11,
         "effectList": [
             13100201
@@ -1209,8 +1305,10 @@
         "level": 4,
         "iconResId": 15003753,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 11,
         "effectList": [
             13100201
@@ -1235,8 +1333,10 @@
         "level": 5,
         "iconResId": 15003753,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 11,
         "effectList": [
             13100201
@@ -1261,8 +1361,10 @@
         "level": 1,
         "iconResId": 15003753,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 11,
         "effectList": [
             13100301
@@ -1287,8 +1389,10 @@
         "level": 1,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             14100601,
@@ -1314,8 +1418,10 @@
         "level": 1,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             14100603
@@ -1340,8 +1446,10 @@
         "level": 1,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             14100604
@@ -1366,8 +1474,10 @@
         "level": 1,
         "iconResId": 0,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [],
         "effectListOnGain": [],
@@ -1390,8 +1500,10 @@
         "level": 0,
         "iconResId": 0,
         "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 1,
         "effectList": [
             3001001
@@ -1416,8 +1528,10 @@
         "level": 1,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             14001010
@@ -1442,8 +1556,10 @@
         "level": 1,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             13001003
@@ -1468,8 +1584,10 @@
         "level": 1,
         "iconResId": 15003753,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 1,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             16001001
@@ -1494,8 +1612,10 @@
         "level": 1,
         "iconResId": 15003754,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             14001011,
@@ -1521,8 +1641,10 @@
         "level": 1,
         "iconResId": 15003755,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             18001002
@@ -1547,8 +1669,10 @@
         "level": 0,
         "iconResId": 15003755,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             26001001,
@@ -1574,8 +1698,10 @@
         "level": 0,
         "iconResId": 0,
         "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 1,
         "effectList": [
             3001011
@@ -1600,8 +1726,10 @@
         "level": 1,
         "iconResId": 15003751,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             3001012
@@ -1626,8 +1754,10 @@
         "level": 1,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             14001020
@@ -1652,8 +1782,10 @@
         "level": 1,
         "iconResId": 15003753,
         "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 1,
         "effectList": [
             13001011
@@ -1678,8 +1810,10 @@
         "level": 1,
         "iconResId": 15003754,
         "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 1,
         "effectList": [
             3001014
@@ -1704,8 +1838,10 @@
         "level": 1,
         "iconResId": 15003755,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             18001020
@@ -1730,8 +1866,10 @@
         "level": 0,
         "iconResId": 15003753,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 1,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             16001010
@@ -1758,8 +1896,10 @@
         "level": 0,
         "iconResId": 0,
         "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 1,
         "effectList": [
             3002001
@@ -1784,8 +1924,10 @@
         "level": 0,
         "iconResId": 15003753,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             13002030
@@ -1812,8 +1954,10 @@
         "level": 0,
         "iconResId": 0,
         "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 1,
         "effectList": [
             3002011
@@ -1838,8 +1982,10 @@
         "level": 0,
         "iconResId": 15003751,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             3002012
@@ -1866,8 +2012,10 @@
         "level": 0,
         "iconResId": 0,
         "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 1,
         "effectList": [
             3003001
@@ -1892,8 +2040,10 @@
         "level": 0,
         "iconResId": 15003751,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 1,
         "effectList": [
             17001001
@@ -1918,8 +2068,10 @@
         "level": 0,
         "iconResId": 15003753,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             14001005
@@ -1944,8 +2096,10 @@
         "level": 0,
         "iconResId": 15003754,
         "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
         "skillReleaseType": 1,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             16001001
@@ -1970,8 +2124,10 @@
         "level": 1,
         "iconResId": 15003751,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             18001040
@@ -1996,8 +2152,10 @@
         "level": 1,
         "iconResId": 15003752,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 1,
+        "selectEntityType": 0,
         "skillTargetType": 2,
         "effectList": [
             18001041
@@ -2022,8 +2180,10 @@
         "level": 1,
         "iconResId": 15003753,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             13002041
@@ -2050,8 +2210,10 @@
         "level": 0,
         "iconResId": 15003753,
         "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
         "skillReleaseType": 2,
         "isPassiveSkill": 0,
+        "selectEntityType": 0,
         "skillTargetType": 0,
         "effectList": [
             13050001,
