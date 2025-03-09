@@ -10,7 +10,7 @@
         "rangeParam": [
             6000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             16100101
         ],
@@ -28,7 +28,7 @@
         "rangeParam": [
             6000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             16100102
         ],
@@ -46,7 +46,7 @@
         "rangeParam": [
             6000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             16100103
         ],
@@ -64,7 +64,7 @@
         "rangeParam": [
             6000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             16100104
         ],
@@ -82,7 +82,7 @@
         "rangeParam": [
             6000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             16100105
         ],
@@ -100,7 +100,7 @@
         "rangeParam": [
             6000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             27000201,
             4100205
@@ -119,7 +119,7 @@
         "rangeParam": [
             6000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [],
         "groupEffectList": [
             28100101
@@ -137,7 +137,7 @@
         "rangeParam": [
             4000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             14001001
         ],
@@ -155,7 +155,7 @@
         "rangeParam": [
             4000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             4002020
         ],
@@ -173,7 +173,7 @@
         "rangeParam": [
             4000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             4002023
         ],
@@ -191,7 +191,7 @@
         "rangeParam": [
             6000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             3001013
         ],
@@ -209,7 +209,7 @@
         "rangeParam": [
             6000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             14001003,
             14001004
@@ -228,7 +228,7 @@
         "rangeParam": [
             6000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             4001008,
             14001021
@@ -248,7 +248,7 @@
             4000,
             2000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             4002004
         ],
@@ -266,7 +266,7 @@
         "rangeParam": [
             4000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             4002030
         ],
@@ -284,7 +284,7 @@
         "rangeParam": [
             8000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             4002031
         ],
@@ -302,7 +302,7 @@
         "rangeParam": [
             4000
         ],
-        "selectEntityType": 2,
+        "selectEntityType": 0,
         "effectList": [
             14050001
         ],

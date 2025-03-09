@@ -23,7 +23,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001201,
@@ -49,7 +50,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2002101,
@@ -77,7 +79,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601021,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2002201,
@@ -103,7 +106,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003101,
@@ -129,7 +133,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003201,
@@ -155,7 +160,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003202,
@@ -181,7 +187,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003203,
@@ -207,7 +214,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003204,
@@ -233,7 +241,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003205,
@@ -259,7 +268,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003301,
@@ -285,7 +295,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003302,
@@ -311,7 +322,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003401,
@@ -337,7 +349,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003402,
@@ -363,7 +376,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003403,
@@ -389,7 +403,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003404,
@@ -415,7 +430,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003405,
@@ -441,7 +457,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003501,
@@ -467,7 +484,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003502,
@@ -493,7 +511,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003503,
@@ -519,7 +538,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003504,
@@ -545,7 +565,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003505,
@@ -571,7 +592,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003601,
@@ -597,7 +619,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003701,
@@ -623,7 +646,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003801,
@@ -649,7 +673,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100101,
@@ -677,7 +702,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601022,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100102,
@@ -705,7 +731,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601022,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100103,
@@ -733,7 +760,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601022,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100104,
@@ -761,7 +789,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601022,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100105,
@@ -789,7 +818,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601022,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100201,
@@ -817,7 +847,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100202,
@@ -845,7 +876,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100203,
@@ -873,7 +905,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100204,
@@ -901,7 +934,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100205,
@@ -929,7 +963,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100301,
@@ -958,7 +993,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100302,
@@ -987,7 +1023,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100303,
@@ -1016,7 +1053,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100304,
@@ -1045,7 +1083,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100305,
@@ -1075,7 +1114,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100401,
@@ -1101,7 +1141,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100402,
@@ -1127,7 +1168,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100403,
@@ -1155,7 +1197,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100404,
@@ -1183,7 +1226,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100405,
@@ -1212,7 +1256,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100501,
@@ -1240,7 +1285,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601024,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100502,
@@ -1268,7 +1314,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601024,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100503,
@@ -1296,7 +1343,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601024,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100504,
@@ -1324,7 +1372,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601024,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100505,
@@ -1352,7 +1401,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601024,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100601,
@@ -1380,7 +1430,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601024,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100701,
@@ -1409,7 +1460,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100801,
@@ -1437,7 +1489,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2100901,
@@ -1465,7 +1518,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2500001,
@@ -1491,7 +1545,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001001,
@@ -1519,7 +1574,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601001,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001002,
@@ -1547,7 +1603,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001003,
@@ -1575,7 +1632,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001004,
@@ -1603,7 +1661,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601005,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001005,
@@ -1632,7 +1691,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001006,
@@ -1660,7 +1720,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001008,
@@ -1689,7 +1750,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001021,
@@ -1717,7 +1779,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601021,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001022,
@@ -1745,7 +1808,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601022,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001023,
@@ -1773,7 +1837,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001024,
@@ -1801,7 +1866,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2601024,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001025,
@@ -1829,7 +1895,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001026,
@@ -1857,7 +1924,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2001050,
@@ -1887,7 +1955,8 @@
         "skillDirectionId": 2601050,
         "skillTrackList": [
             2500005
-        ]
+        ],
+        "tagList": []
     },
     {
         "id": 2201101,
@@ -1915,7 +1984,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2201201,
@@ -1945,7 +2015,8 @@
         "skillDirectionId": 0,
         "skillTrackList": [
             2500010
-        ]
+        ],
+        "tagList": []
     },
     {
         "id": 2202101,
@@ -1973,7 +2044,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 0,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2202201,
@@ -2003,7 +2075,8 @@
         "skillDirectionId": 2602012,
         "skillTrackList": [
             2500011
-        ]
+        ],
+        "tagList": []
     },
     {
         "id": 2003001,
@@ -2031,7 +2104,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2603001,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003002,
@@ -2059,7 +2133,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2603002,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003003,
@@ -2087,7 +2162,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008005,
         "skillDirectionId": 2603003,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003004,
@@ -2115,7 +2191,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2603004,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003050,
@@ -2143,7 +2220,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2603050,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003051,
@@ -2171,7 +2249,8 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2603051,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
     },
     {
         "id": 2003052,
@@ -2201,7 +2280,8 @@
         "skillDirectionId": 2603052,
         "skillTrackList": [
             2500020
-        ]
+        ],
+        "tagList": []
     },
     {
         "id": 2005001,
@@ -2232,6 +2312,185 @@
         "animationTriggerName": "",
         "releaserEffectResId": 15008014,
         "skillDirectionId": 2605001,
-        "skillTrackList": []
+        "skillTrackList": [],
+        "tagList": []
+    },
+    {
+        "id": 2601101,
+        "name": "ai \u8fd1\u6218\u5175 \u666e\u901a\u653b\u51fb",
+        "describe": "ai \u8fd1\u6218\u5175 \u666e\u901a\u653b\u51fb",
+        "level": 0,
+        "iconResId": 0,
+        "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "selectEntityType": 0,
+        "skillEffectTargetType": 1,
+        "effectList": [
+            3061101
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 300,
+        "afterTime": 300,
+        "cdTime": 0,
+        "skillCategory": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 1540,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": [
+            0
+        ]
+    },
+    {
+        "id": 2601202,
+        "name": "ai \u8fd1\u6218\u5175 \u7ed9\u81ea\u5df1\u52a0\u653b\u51fb\u529b",
+        "describe": "ai \u8fd1\u6218\u5175 \u7ed9\u81ea\u5df1\u52a0\u653b\u51fb\u529b",
+        "level": 0,
+        "iconResId": 0,
+        "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "selectEntityType": 0,
+        "skillEffectTargetType": 0,
+        "effectList": [],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 0,
+        "afterTime": 0,
+        "cdTime": 0,
+        "skillCategory": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 0,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": [
+            101
+        ]
+    },
+    {
+        "id": 2601302,
+        "name": "ai \u8fd1\u6218\u5175 \u5355\u4f53\u76ee\u6807\u6280\u80fd\u4f24\u5bb3",
+        "describe": "ai \u8fd1\u6218\u5175 \u5355\u4f53\u76ee\u6807\u6280\u80fd\u4f24\u5bb3",
+        "level": 0,
+        "iconResId": 0,
+        "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "selectEntityType": 0,
+        "skillEffectTargetType": 0,
+        "effectList": [],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 0,
+        "afterTime": 0,
+        "cdTime": 0,
+        "skillCategory": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 0,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": [
+            0
+        ]
+    },
+    {
+        "id": 2602101,
+        "name": "ai \u8fdc\u7a0b\u5175 \u666e\u901a\u653b\u51fb",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u666e\u901a\u653b\u51fb",
+        "level": 0,
+        "iconResId": 0,
+        "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "selectEntityType": 0,
+        "skillEffectTargetType": 1,
+        "effectList": [
+            3062101
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 300,
+        "afterTime": 200,
+        "cdTime": 0,
+        "skillCategory": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 1400,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": [
+            0
+        ]
+    },
+    {
+        "id": 2602201,
+        "name": "ai \u8fdc\u7a0b\u5175 \u7fa4\u4f24\u6280\u80fd\u4f24\u5bb3",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u7fa4\u4f24\u6280\u80fd\u4f24\u5bb3",
+        "level": 0,
+        "iconResId": 0,
+        "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "selectEntityType": 0,
+        "skillEffectTargetType": 0,
+        "effectList": [],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 0,
+        "afterTime": 0,
+        "cdTime": 0,
+        "skillCategory": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 0,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": [
+            0
+        ]
+    },
+    {
+        "id": 2602301,
+        "name": "ai \u8fdc\u7a0b\u5175 \u4f4d\u79fb\uff08\u70b9\uff09",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u4f4d\u79fb\uff08\u70b9\uff09",
+        "level": 0,
+        "iconResId": 0,
+        "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "selectEntityType": 0,
+        "skillEffectTargetType": 0,
+        "effectList": [],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 0,
+        "afterTime": 0,
+        "cdTime": 0,
+        "skillCategory": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 0,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": [
+            4
+        ]
     }
 ]

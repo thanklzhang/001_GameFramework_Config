@@ -376,5 +376,59 @@
         "endRedirectParam": "",
         "endRedirectLastTime": 9999999,
         "effectResId": 15008008
+    },
+    {
+        "id": 3061101,
+        "name": "ai \u8fd1\u6218\u5175 \u666e\u901a\u653b\u51fb",
+        "describe": "\u602a\u72691\u666e\u901a\u653b\u51fb",
+        "effectTargetType": 0,
+        "isFollow": 1,
+        "projectileType": 1,
+        "lastTime": 99999999,
+        "deflectionAngle": 0,
+        "speed": 99999999,
+        "collisionRadius": 1500,
+        "isThrough": 1,
+        "isFlyMaxRange": 0,
+        "startEffectList": [],
+        "collisionEffectList": [],
+        "collisionDamageChange": 0,
+        "collisionDamageChangeLimit": 0,
+        "endEffectList": [
+            4002001
+        ],
+        "collisionEffectEntityType": 0,
+        "endRedirectCount": 0,
+        "endRedirectType": 0,
+        "endRedirectParam": "",
+        "endRedirectLastTime": 0,
+        "effectResId": 0
+    },
+    {
+        "id": 3062101,
+        "name": "ai \u8fdc\u7a0b\u5175 \u666e\u901a\u653b\u51fb",
+        "describe": "\u602a\u72692\u666e\u901a\u653b\u51fb",
+        "effectTargetType": 0,
+        "isFollow": 1,
+        "projectileType": 0,
+        "lastTime": 99999999,
+        "deflectionAngle": 0,
+        "speed": 8000,
+        "collisionRadius": 1500,
+        "isThrough": 1,
+        "isFlyMaxRange": 0,
+        "startEffectList": [],
+        "collisionEffectList": [],
+        "collisionDamageChange": 0,
+        "collisionDamageChangeLimit": 0,
+        "endEffectList": [
+            4002006
+        ],
+        "collisionEffectEntityType": 0,
+        "endRedirectCount": 0,
+        "endRedirectType": 0,
+        "endRedirectParam": "",
+        "endRedirectLastTime": 0,
+        "effectResId": 15008007
     }
 ]
