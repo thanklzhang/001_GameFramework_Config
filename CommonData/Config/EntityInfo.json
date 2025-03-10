@@ -273,7 +273,7 @@
         "starAttrId": 1,
         "skillIds": [
             2002101,
-            2003201
+            2602301
         ],
         "ultimateSkillId": 2003301,
         "level": 1,
@@ -381,7 +381,8 @@
         "levelAttrId": 10001,
         "starAttrId": 10001,
         "skillIds": [
-            2602101
+            2602101,
+            2602301
         ],
         "ultimateSkillId": 0,
         "level": 1,

@@ -25,7 +25,7 @@
         "endEffectList": [],
         "endRemoveEffectList": [],
         "isThisEndForSkillEnd": 0,
-        "effectResId": 15008010
+        "effectResId": 15008009
     },
     {
         "id": 16100103,
@@ -39,7 +39,7 @@
         "endEffectList": [],
         "endRemoveEffectList": [],
         "isThisEndForSkillEnd": 0,
-        "effectResId": 15008011
+        "effectResId": 15008009
     },
     {
         "id": 16100104,
@@ -53,7 +53,7 @@
         "endEffectList": [],
         "endRemoveEffectList": [],
         "isThisEndForSkillEnd": 0,
-        "effectResId": 15008012
+        "effectResId": 15008009
     },
     {
         "id": 16100105,
@@ -67,7 +67,7 @@
         "endEffectList": [],
         "endRemoveEffectList": [],
         "isThisEndForSkillEnd": 0,
-        "effectResId": 15008013
+        "effectResId": 15008009
     },
     {
         "id": 16001001,
@@ -102,6 +102,20 @@
         "endRemoveEffectList": [
             18001010
         ],
+        "isThisEndForSkillEnd": 1,
+        "effectResId": 15008009
+    },
+    {
+        "id": 16010101,
+        "name": "ai \u8fdc\u7a0b\u5175 \u4f4d\u79fb\u6280\u80fd",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u4f4d\u79fb\u6280\u80fd",
+        "moveSpeed": 20000,
+        "moveTargetPosType": 0,
+        "endPosType": 1,
+        "lastTime": 40,
+        "startEffectList": [],
+        "endEffectList": [],
+        "endRemoveEffectList": [],
         "isThisEndForSkillEnd": 1,
         "effectResId": 15008009
     }
