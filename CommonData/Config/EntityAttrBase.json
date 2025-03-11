@@ -68,7 +68,7 @@
         "describe": "\u602a\u72692 \u8fdc\u7a0b",
         "attack": 20,
         "defence": 50,
-        "health": 750,
+        "health": 7500000,
         "magic": 125,
         "attackSpeed": 1500,
         "moveSpeed": 1250,

@@ -2439,26 +2439,28 @@
         "id": 2602201,
         "name": "ai \u8fdc\u7a0b\u5175 \u7fa4\u4f24\u6280\u80fd\u4f24\u5bb3",
         "describe": "ai \u8fdc\u7a0b\u5175 \u7fa4\u4f24\u6280\u80fd\u4f24\u5bb3",
-        "level": 0,
-        "iconResId": 0,
-        "skillReleaseTargeType": 0,
+        "level": 1,
+        "iconResId": 15003751,
+        "skillReleaseTargeType": 2,
         "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "selectEntityType": 0,
-        "skillEffectTargetType": 0,
-        "effectList": [],
+        "skillEffectTargetType": 11,
+        "effectList": [
+            13060101
+        ],
         "effectListOnGain": [],
-        "releaseRange": 0,
-        "beforeTime": 0,
-        "afterTime": 0,
-        "cdTime": 0,
-        "skillCategory": 0,
+        "releaseRange": 8000,
+        "beforeTime": 150,
+        "afterTime": 100,
+        "cdTime": 2000,
+        "skillCategory": 1,
         "isNoBreak": 0,
-        "animationSpeedScale": 0,
+        "animationSpeedScale": 1000,
         "animationTriggerName": "",
         "releaserEffectResId": 0,
-        "skillDirectionId": 0,
+        "skillDirectionId": 2601005,
         "skillTrackList": [],
         "tagList": [
             0
@@ -2483,7 +2485,7 @@
         "releaseRange": 5000,
         "beforeTime": 50,
         "afterTime": 50,
-        "cdTime": 5000,
+        "cdTime": 1000,
         "skillCategory": 1,
         "isNoBreak": 0,
         "animationSpeedScale": 1000,
@@ -2493,6 +2495,37 @@
         "skillTrackList": [],
         "tagList": [
             4
+        ]
+    },
+    {
+        "id": 2602401,
+        "name": "ai \u8fdc\u7a0b\u5175 \u5355\u4f53\u6280\u80fd",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u5355\u4f53\u6280\u80fd",
+        "level": 1,
+        "iconResId": 15003751,
+        "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "selectEntityType": 0,
+        "skillEffectTargetType": 1,
+        "effectList": [
+            4006101
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 10000,
+        "beforeTime": 50,
+        "afterTime": 50,
+        "cdTime": 1500,
+        "skillCategory": 1,
+        "isNoBreak": 0,
+        "animationSpeedScale": 1000,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 2601005,
+        "skillTrackList": [],
+        "tagList": [
+            0
         ]
     }
 ]

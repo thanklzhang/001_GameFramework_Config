@@ -548,5 +548,43 @@
         "isEffectFollowTarget": 1,
         "effectPosName": "hit_pos",
         "isForShow": 0
+    },
+    {
+        "id": 4006101,
+        "name": "ai \u8fdc\u7a0b\u5175 \u5355\u4f53\u4f24\u5bb3",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u5355\u4f53\u4f24\u5bb3",
+        "effectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                4000,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008006,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "",
+        "isForShow": 0
+    },
+    {
+        "id": 4006201,
+        "name": "ai \u8fdc\u7a0b\u5175 \u533a\u57df\u4f24\u5bb3",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u533a\u57df\u4f24\u5bb3",
+        "effectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                1200,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008006,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "",
+        "isForShow": 0
     }
 ]

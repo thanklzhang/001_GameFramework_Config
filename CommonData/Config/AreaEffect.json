@@ -326,5 +326,23 @@
         ],
         "groupEffectList": [],
         "effectResId": 0
+    },
+    {
+        "id": 13060101,
+        "name": "ai \u8fdc\u7a0b\u5175 \u533a\u57df\u653b\u51fb\u6d4b\u8bd5",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u533a\u57df\u653b\u51fb\u6d4b\u8bd5",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            4000
+        ],
+        "selectEntityType": 0,
+        "effectList": [
+            4006201
+        ],
+        "groupEffectList": [],
+        "effectResId": 15008014
     }
 ]
