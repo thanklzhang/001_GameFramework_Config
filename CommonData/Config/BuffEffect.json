@@ -1294,5 +1294,54 @@
         "endRemoveEffectList": [],
         "effectResId": 0,
         "showType": 0
+    },
+    {
+        "id": 14060101,
+        "name": "ai \u8fdc\u7a0b\u5175 \u6d4b\u8bd5 +\u62a4\u7532",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u6d4b\u8bd5 +\u62a4\u7532",
+        "iconResId": 15003114,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            0
+        ],
+        "lastTime": 3000,
+        "isCanBeClear": 1,
+        "affectType": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 80101,
+        "addedAttrGroup2": [
+            1002
+        ],
+        "addedValueGroup2": [
+            [
+                0,
+                0,
+                1
+            ]
+        ],
+        "addedValueRand2": [
+            [
+                1000,
+                2000
+            ]
+        ],
+        "isAddedAttrGroupContinuous2": [],
+        "endRemoveEffectList": [],
+        "effectResId": 0,
+        "showType": 0
     }
 ]

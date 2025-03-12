@@ -458,5 +458,24 @@
             ]
         ],
         "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 80101,
+        "name": "ai \u8fdc\u7a0b\u5175 \u6d4b\u8bd5 +\u62a4\u7532",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u6d4b\u8bd5 +\u62a4\u7532",
+        "addedAttrGroup": [
+            2
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                300,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": [
+            0
+        ]
     }
 ]
