@@ -2558,5 +2558,36 @@
         "tagList": [
             3
         ]
+    },
+    {
+        "id": 2602601,
+        "name": "ai \u8fdc\u7a0b\u5175 \u7ed9\u961f\u53cb\u52a0\u8840",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u7ed9\u961f\u53cb\u52a0\u8840",
+        "level": 1,
+        "iconResId": 15003751,
+        "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "selectEntityType": 3,
+        "skillEffectTargetType": 1,
+        "effectList": [
+            4006301
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 10000,
+        "beforeTime": 50,
+        "afterTime": 50,
+        "cdTime": 2000,
+        "skillCategory": 1,
+        "isNoBreak": 0,
+        "animationSpeedScale": 1000,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": [
+            1
+        ]
     }
 ]

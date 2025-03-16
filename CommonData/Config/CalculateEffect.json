@@ -586,5 +586,24 @@
         "isEffectFollowTarget": 1,
         "effectPosName": "",
         "isForShow": 0
+    },
+    {
+        "id": 4006301,
+        "name": "ai \u8fdc\u7a0b\u5175 \u6d4b\u8bd5 \u5355\u4f53\u52a0\u8840",
+        "describe": "ai \u8fdc\u7a0b\u5175 \u6d4b\u8bd5 \u5355\u4f53\u52a0\u8840",
+        "effectTargetType": 0,
+        "addedValueGroup": [
+            [
+                0,
+                -150,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008013,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "",
+        "isForShow": 0
     }
 ]
