@@ -1,5 +1,23 @@
 [
     {
+        "id": 2003101,
+        "name": "\u5510\u4f9d \u666e\u901a\u653b\u51fb",
+        "describe": "\u5510\u4f9d \u666e\u901a\u653b\u51fb",
+        "skillReleaserDirectType": 2,
+        "skillReleaserDirectParam": [
+            15008102,
+            6000
+        ],
+        "skillDirectorProjectileType": 0,
+        "skillDirectorProjectileParam": [
+            0
+        ],
+        "skillTargetDirectType": 0,
+        "skillTargetDirectParam": [
+            0
+        ]
+    },
+    {
         "id": 2601001,
         "name": "\u4e0a\u5b98\u552f \u666e\u901a\u653b\u51fb",
         "describe": "\u4e0a\u5b98\u552f \u666e\u901a\u653b\u51fb",
