@@ -2,7 +2,7 @@
     {
         "id": 1003101,
         "name": "\u5510\u4f9d\u653b\u51fb\u547d\u4e2d\u589e\u52a0\u79fb\u901f\u7684 buff",
-        "describe": "",
+        "describe": "\u5510\u4f9d\u653b\u51fb\u547d\u4e2d\u589e\u52a0\u79fb\u901f\u7684 buff",
         "addedAttrGroup": [
             1005
         ],
@@ -10,6 +10,29 @@
             [
                 0,
                 150,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1003201,
+        "name": "\u5510\u4f9d\u5927\u62db\u589e\u52a0\u653b\u51fbbuff",
+        "describe": "\u5510\u4f9d\u5927\u62db\u589e\u52a0\u653b\u51fbbuff",
+        "addedAttrGroup": [
+            1,
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                150,
+                1
+            ],
+            [
+                0,
+                500,
                 1
             ]
         ],

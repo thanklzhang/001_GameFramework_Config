@@ -7,7 +7,9 @@
         "moveTargetPosType": 0,
         "endPosType": 4,
         "lastTime": 320,
-        "startEffectList": [],
+        "startEffectList": [
+            14003201
+        ],
         "endEffectList": [],
         "endRemoveEffectList": [],
         "isThisEndForSkillEnd": 1,

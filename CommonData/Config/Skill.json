@@ -60,6 +60,35 @@
         "tagList": []
     },
     {
+        "id": 2003301,
+        "name": "\u51e4\u7d2b\u5915 \u5927\u62db lv1",
+        "describe": "\u51e4\u7d2b\u5915 \u5927\u62db lv1",
+        "level": 1,
+        "iconResId": 15003751,
+        "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "selectEntityType": 0,
+        "skillEffectTargetType": 2,
+        "effectList": [
+            14003301
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 50,
+        "afterTime": 50,
+        "cdTime": 6500,
+        "skillCategory": 3,
+        "isNoBreak": 0,
+        "animationSpeedScale": 2667,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": []
+    },
+    {
         "id": 2101101,
         "name": "\u602a\u72691 \u666e\u901a\u653b\u51fb",
         "describe": "\u602a\u72691 \u666e\u901a\u653b\u51fb",
