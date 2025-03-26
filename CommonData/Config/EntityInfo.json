@@ -30,6 +30,36 @@
         "allBodyResId": 15003603
     },
     {
+        "id": 1000004,
+        "name": "\u591c\u9b42",
+        "describe": "\u591c\u9b42",
+        "type": 0,
+        "modelId": 15011030,
+        "baseAttrId": 10004,
+        "levelAttrId": 2,
+        "starAttrId": 2,
+        "skillIds": [
+            2004101,
+            2004201
+        ],
+        "ultimateSkillId": 0,
+        "level": 0,
+        "quality": 0,
+        "star": 0,
+        "skillLevels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "aiScript": "BaseAI",
+        "isBoss": 0,
+        "avatarResId": 15003503,
+        "allBodyResId": 15003603
+    },
+    {
         "id": 1100001,
         "name": "\u602a\u72691",
         "describe": "\u602a\u72691",

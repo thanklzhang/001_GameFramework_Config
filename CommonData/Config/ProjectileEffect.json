@@ -81,6 +81,33 @@
         "effectResId": 15008007
     },
     {
+        "id": 3004101,
+        "name": "\u591c\u9b42\u666e\u901a\u653b\u51fb",
+        "describe": "\u591c\u9b42\u666e\u901a\u653b\u51fb",
+        "effectTargetType": 0,
+        "isFollow": 1,
+        "projectileType": 1,
+        "lastTime": 99999999,
+        "deflectionAngle": 0,
+        "speed": 99999999,
+        "collisionRadius": 1500,
+        "isThrough": 1,
+        "isFlyMaxRange": 0,
+        "startEffectList": [],
+        "collisionEffectList": [],
+        "collisionDamageChange": 0,
+        "collisionDamageChangeLimit": 0,
+        "endEffectList": [
+            4101101
+        ],
+        "collisionEffectEntityType": 0,
+        "endRedirectCount": 0,
+        "endRedirectType": 0,
+        "endRedirectParam": "",
+        "endRedirectLastTime": 0,
+        "effectResId": 0
+    },
+    {
         "id": 3101101,
         "name": "\u602a\u72691\u666e\u901a\u653b\u51fb",
         "describe": "\u602a\u72691\u666e\u901a\u653b\u51fb",

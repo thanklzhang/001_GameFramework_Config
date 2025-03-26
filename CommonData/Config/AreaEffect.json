@@ -16,5 +16,23 @@
         ],
         "groupEffectList": [],
         "effectResId": 0
+    },
+    {
+        "id": 13004101,
+        "name": "\u591c\u9b42q\u88ab\u52a8\u7fa4\u653b\u533a\u57df\u9009\u62e9",
+        "describe": "\u591c\u9b42q\u88ab\u52a8\u7fa4\u653b\u533a\u57df\u9009\u62e9",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            5000
+        ],
+        "selectEntityType": 0,
+        "effectList": [
+            4004201
+        ],
+        "groupEffectList": [],
+        "effectResId": 0
     }
 ]

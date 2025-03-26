@@ -57,6 +57,44 @@
         "isForShow": 0
     },
     {
+        "id": 4004101,
+        "name": "\u591c\u9b42\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
+        "describe": "\u591c\u9b42\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
+        "effectTargetType": 2,
+        "addedValueGroup": [
+            [
+                1,
+                1000,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008028,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4004201,
+        "name": "\u591c\u9b42q\u88ab\u52a8\u533a\u57df\u6548\u679c\u8ba1\u7b97",
+        "describe": "\u591c\u9b42q\u88ab\u52a8\u533a\u57df\u6548\u679c\u8ba1\u7b97",
+        "effectTargetType": 2,
+        "addedValueGroup": [
+            [
+                2,
+                1000,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008027,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
         "id": 4101101,
         "name": "\u602a\u72691\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
         "describe": "\u602a\u72691\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
