@@ -10,7 +10,9 @@
         "operate": "==",
         "opIntValue": 1,
         "actionType": 1,
-        "actionParam": "4005201"
+        "actionParamIntList": [
+            4005201
+        ]
     },
     {
         "id": 2905201,
@@ -23,6 +25,8 @@
         "operate": "==",
         "opIntValue": 2,
         "actionType": 1,
-        "actionParam": "4005301"
+        "actionParamIntList": [
+            4005301
+        ]
     }
 ]
