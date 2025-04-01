@@ -32,6 +32,22 @@
         "skillCD": 0
     },
     {
+        "id": 10005,
+        "describe": "\u8427\u7389",
+        "attack": 65,
+        "defence": 45,
+        "health": 100000,
+        "magic": 20,
+        "attackSpeed": 1000,
+        "moveSpeed": 3000,
+        "attackRange": 5500,
+        "inputDamageRate": 1000,
+        "outputDamageRate": 1000,
+        "critRate": 0,
+        "critDamage": 2000,
+        "skillCD": 0
+    },
+    {
         "id": 20001,
         "describe": "\u602a\u72691 \u8fd1\u6218",
         "attack": 40,

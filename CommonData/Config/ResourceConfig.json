@@ -1719,7 +1719,7 @@
         "tag": ""
     },
     {
-        "id": 15011030,
+        "id": 15011031,
         "name": "role_001",
         "des": "",
         "path": "Models/Role/Prefabs",
@@ -1728,7 +1728,7 @@
         "tag": ""
     },
     {
-        "id": 15011031,
+        "id": 15011032,
         "name": "role_002",
         "des": "",
         "path": "Models/Role/Prefabs",
@@ -1737,17 +1737,8 @@
         "tag": ""
     },
     {
-        "id": 15011032,
-        "name": "monster_001",
-        "des": "",
-        "path": "Models/Role/Prefabs",
-        "ext": "prefab",
-        "type": 6,
-        "tag": ""
-    },
-    {
         "id": 15011033,
-        "name": "monster_002",
+        "name": "role_003",
         "des": "",
         "path": "Models/Role/Prefabs",
         "ext": "prefab",
@@ -1756,6 +1747,42 @@
     },
     {
         "id": 15011034,
+        "name": "role_004",
+        "des": "",
+        "path": "Models/Role/Prefabs",
+        "ext": "prefab",
+        "type": 6,
+        "tag": ""
+    },
+    {
+        "id": 15011035,
+        "name": "role_005",
+        "des": "",
+        "path": "Models/Role/Prefabs",
+        "ext": "prefab",
+        "type": 6,
+        "tag": ""
+    },
+    {
+        "id": 15011101,
+        "name": "monster_001",
+        "des": "",
+        "path": "Models/Role/Prefabs",
+        "ext": "prefab",
+        "type": 6,
+        "tag": ""
+    },
+    {
+        "id": 15011102,
+        "name": "monster_002",
+        "des": "",
+        "path": "Models/Role/Prefabs",
+        "ext": "prefab",
+        "type": 6,
+        "tag": ""
+    },
+    {
+        "id": 15011103,
         "name": "monster_boss_101",
         "des": "",
         "path": "Models/Role/Prefabs",

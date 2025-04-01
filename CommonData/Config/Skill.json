@@ -160,7 +160,7 @@
         "selectEntityType": 0,
         "skillEffectTargetType": 1,
         "effectList": [
-            4005101
+            3005101
         ],
         "effectListOnGain": [],
         "releaseRange": 0,
@@ -187,16 +187,16 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "selectEntityType": 1,
-        "skillEffectTargetType": 2,
+        "skillEffectTargetType": 1,
         "effectList": [
-            2905101,
-            2905201
+            29005101,
+            29005201
         ],
         "effectListOnGain": [],
-        "releaseRange": 0,
+        "releaseRange": 5000,
         "beforeTime": 180,
         "afterTime": 100,
-        "cdTime": 0,
+        "cdTime": 1500,
         "skillCategory": 1,
         "isNoBreak": 0,
         "animationSpeedScale": 2667,
