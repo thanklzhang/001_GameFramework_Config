@@ -14,5 +14,22 @@
         "endRemoveEffectList": [],
         "isThisEndForSkillEnd": 1,
         "effectResId": 15008009
+    },
+    {
+        "id": 16004101,
+        "name": "\u591c\u9b42 \u5927\u62db \u4f4d\u79fb",
+        "describe": "\u591c\u9b42 \u5927\u62db \u4f4d\u79fb",
+        "moveSpeed": 10000,
+        "moveTargetPosType": 0,
+        "endPosType": 1,
+        "lastTime": 320,
+        "startEffectList": [],
+        "endEffectList": [
+            14004601,
+            13004201
+        ],
+        "endRemoveEffectList": [],
+        "isThisEndForSkillEnd": 1,
+        "effectResId": 15008009
     }
 ]

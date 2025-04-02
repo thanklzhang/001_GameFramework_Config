@@ -119,7 +119,7 @@
     },
     {
         "id": 2004201,
-        "name": "\u591c\u9b42 q lv1",
+        "name": "\u591c\u9b42 q \u6280\u80fdlv1",
         "describe": "\u591c\u9b42 q lv1",
         "level": 0,
         "iconResId": 15003751,
@@ -128,8 +128,11 @@
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
         "selectEntityType": 0,
-        "skillEffectTargetType": 1,
-        "effectList": [],
+        "skillEffectTargetType": 2,
+        "effectList": [
+            14004301,
+            14004401
+        ],
         "effectListOnGain": [
             18004101,
             14004101
@@ -137,8 +140,37 @@
         "releaseRange": 0,
         "beforeTime": 180,
         "afterTime": 100,
-        "cdTime": 0,
+        "cdTime": 7000,
         "skillCategory": 1,
+        "isNoBreak": 0,
+        "animationSpeedScale": 2667,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 2003101,
+        "skillTrackList": [],
+        "tagList": []
+    },
+    {
+        "id": 2004301,
+        "name": "\u591c\u9b42\u5927\u62db lv1",
+        "describe": "\u591c\u9b42\u5927\u62db lv1",
+        "level": 1,
+        "iconResId": 15003751,
+        "skillReleaseTargeType": 2,
+        "areaEffectId": 0,
+        "skillReleaseType": 1,
+        "isPassiveSkill": 0,
+        "selectEntityType": 0,
+        "skillEffectTargetType": 2,
+        "effectList": [
+            16004101
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 180,
+        "afterTime": 180,
+        "cdTime": 2000,
+        "skillCategory": 3,
         "isNoBreak": 0,
         "animationSpeedScale": 2667,
         "animationTriggerName": "",
