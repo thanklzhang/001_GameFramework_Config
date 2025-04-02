@@ -1,19 +1,8 @@
 [
     {
-        "id": 27000101,
-        "name": "\u6539\u53d8 buff \u7684\u5c42\u6570lv1",
-        "describe": "\u6539\u53d8 buff \u7684\u5c42\u6570lv1",
-        "triggerEventType": 5,
-        "triggerParamList": [
-            "14100401",
-            "-1"
-        ],
-        "triggerTargetType": 0
-    },
-    {
-        "id": 27000201,
-        "name": "\u9a71\u6563\u6240\u6709\u8d1f\u9762\u6548\u679clv1",
-        "describe": "\u9a71\u6563\u6240\u6709\u8d1f\u9762\u6548\u679clv1",
+        "id": 27005101,
+        "name": "\u8427\u7389 \u5927\u62db \u9a71\u6563\u6240\u6709\u8d1f\u9762\u6548\u679clv1",
+        "describe": "\u8427\u7389 \u5927\u62db \u9a71\u6563\u6240\u6709\u8d1f\u9762\u6548\u679clv1",
         "triggerEventType": 11,
         "triggerParamList": [],
         "triggerTargetType": 0

@@ -61,12 +61,46 @@
         "name": "\u591c\u9b42 q \u589e\u52a0\u62a4\u7532",
         "describe": "\u591c\u9b42 q \u589e\u52a0\u62a4\u7532",
         "addedAttrGroup": [
-            3
+            2
         ],
         "addedValueGroup": [
             [
                 0,
                 100,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1004301,
+        "name": "\u591c\u9b42 \u5927\u62db \u589e\u52a0\u51cf\u4f24",
+        "describe": "\u591c\u9b42 q \u589e\u52a0\u51cf\u4f24",
+        "addedAttrGroup": [
+            10
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                -500,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1005101,
+        "name": "\u8427\u7389 \u5927\u62db \u589e\u52a0\u62a4\u7532",
+        "describe": "\u8427\u7389 \u5927\u62db \u589e\u52a0\u62a4\u7532",
+        "addedAttrGroup": [
+            2
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                200,
                 1
             ]
         ],

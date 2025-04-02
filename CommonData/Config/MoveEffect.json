@@ -10,7 +10,7 @@
         "startEffectList": [
             14003201
         ],
-        "endEffectList": [],
+        "reachEffectList": [],
         "endRemoveEffectList": [],
         "isThisEndForSkillEnd": 1,
         "effectResId": 15008009
@@ -24,7 +24,7 @@
         "endPosType": 1,
         "lastTime": 320,
         "startEffectList": [],
-        "endEffectList": [
+        "reachEffectList": [
             14004601,
             13004201
         ],
