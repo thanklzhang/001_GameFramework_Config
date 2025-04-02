@@ -9,7 +9,7 @@
         "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
         "skillEffectTargetType": 1,
         "effectList": [
             3003101
@@ -38,7 +38,7 @@
         "areaEffectId": 0,
         "skillReleaseType": 1,
         "isPassiveSkill": 0,
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
         "skillEffectTargetType": 2,
         "effectList": [
             16003101
@@ -69,7 +69,7 @@
         "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
         "skillEffectTargetType": 2,
         "effectList": [
             14003301
@@ -98,7 +98,7 @@
         "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
         "skillEffectTargetType": 1,
         "effectList": [
             3004101
@@ -127,7 +127,7 @@
         "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
         "skillEffectTargetType": 2,
         "effectList": [
             14004301,
@@ -160,7 +160,7 @@
         "areaEffectId": 0,
         "skillReleaseType": 1,
         "isPassiveSkill": 0,
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
         "skillEffectTargetType": 2,
         "effectList": [
             16004101
@@ -189,7 +189,7 @@
         "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
         "skillEffectTargetType": 1,
         "effectList": [
             3005101
@@ -218,13 +218,15 @@
         "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "selectEntityType": 1,
+        "entityRelationFilterType": 1,
         "skillEffectTargetType": 1,
         "effectList": [
             29005101,
             29005201
         ],
-        "effectListOnGain": [],
+        "effectListOnGain": [
+            18005101
+        ],
         "releaseRange": 5000,
         "beforeTime": 180,
         "afterTime": 100,
@@ -248,7 +250,7 @@
         "areaEffectId": 0,
         "skillReleaseType": 0,
         "isPassiveSkill": 0,
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
         "skillEffectTargetType": 1,
         "effectList": [
             3101101

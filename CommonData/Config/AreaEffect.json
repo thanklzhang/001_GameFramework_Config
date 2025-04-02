@@ -10,7 +10,9 @@
         "rangeParam": [
             5000
         ],
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
+        "filterEntityType": 0,
+        "randSelectCount": 0,
         "effectList": [
             3003301
         ],
@@ -28,7 +30,9 @@
         "rangeParam": [
             5000
         ],
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
+        "filterEntityType": 0,
+        "randSelectCount": 0,
         "effectList": [
             4004201
         ],
@@ -46,7 +50,30 @@
         "rangeParam": [
             5000
         ],
-        "selectEntityType": 0,
+        "entityRelationFilterType": 0,
+        "filterEntityType": 0,
+        "randSelectCount": 0,
+        "effectList": [
+            14004501,
+            4004401
+        ],
+        "groupEffectList": [],
+        "effectResId": 0
+    },
+    {
+        "id": 13005101,
+        "name": "\u8427\u7389q \u88ab\u52a8\u653b\u51fb\u6cbb\u7597\u968f\u673a\u533a\u57df\u9009\u62e9",
+        "describe": "\u8427\u7389q \u88ab\u52a8\u653b\u51fb\u6cbb\u7597\u968f\u673a\u533a\u57df\u9009\u62e9",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            5000
+        ],
+        "entityRelationFilterType": 3,
+        "filterEntityType": 0,
+        "randSelectCount": 1,
         "effectList": [
             14004501,
             4004401

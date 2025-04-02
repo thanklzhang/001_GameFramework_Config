@@ -82,5 +82,21 @@
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
+    },
+    {
+        "id": 18005101,
+        "name": "\u8427\u7389q\u88ab\u52a8\u653b\u51fb\u6cbb\u7597",
+        "describe": "\u8427\u7389q\u88ab\u52a8\u653b\u51fb\u6cbb\u7597",
+        "triggerTimeType": 3,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 3,
+        "triggerEffectList": [
+            4005401
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
     }
 ]
