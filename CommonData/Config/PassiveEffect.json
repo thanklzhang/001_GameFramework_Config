@@ -92,7 +92,7 @@
         "triggerChance": 1000,
         "triggerTargetType": 3,
         "triggerEffectList": [
-            4005401
+            13005101
         ],
         "afterTriggerRemoveEffectList": [],
         "maxTriggerCount": 0,

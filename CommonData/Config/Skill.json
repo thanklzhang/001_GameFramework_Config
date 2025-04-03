@@ -252,7 +252,9 @@
         "isPassiveSkill": 0,
         "entityRelationFilterType": 4,
         "skillEffectTargetType": 11,
-        "effectList": [],
+        "effectList": [
+            13005201
+        ],
         "effectListOnGain": [],
         "releaseRange": 5000,
         "beforeTime": 180,
