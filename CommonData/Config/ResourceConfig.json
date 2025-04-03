@@ -1791,6 +1791,24 @@
         "tag": ""
     },
     {
+        "id": 15011104,
+        "name": "monster_201",
+        "des": "",
+        "path": "Models/Role/Prefabs",
+        "ext": "prefab",
+        "type": 6,
+        "tag": ""
+    },
+    {
+        "id": 15011105,
+        "name": "monster_202",
+        "des": "",
+        "path": "Models/Role/Prefabs",
+        "ext": "prefab",
+        "type": 6,
+        "tag": ""
+    },
+    {
         "id": 15012001,
         "name": "monster1_battle",
         "des": "",
