@@ -189,9 +189,36 @@
         "effectResId": 0
     },
     {
-        "id": 3502101,
+        "id": 3501101,
         "name": "\u627f\u7075 q \u53ec\u5524\u7269\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269",
-        "describe": "\u602a\u72691\u666e\u901a\u653b\u51fb",
+        "describe": "\u627f\u7075 q \u53ec\u5524\u7269\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269",
+        "effectTargetType": 0,
+        "isFollow": 1,
+        "projectileType": 1,
+        "lastTime": 99999999,
+        "deflectionAngle": 0,
+        "speed": 99999999,
+        "collisionRadius": 1500,
+        "isThrough": 1,
+        "isFlyMaxRange": 0,
+        "startEffectList": [],
+        "collisionEffectList": [],
+        "collisionDamageChange": 0,
+        "collisionDamageChangeLimit": 0,
+        "endEffectList": [
+            4501101
+        ],
+        "collisionEffectEntityType": 0,
+        "endRedirectCount": 0,
+        "endRedirectType": 0,
+        "endRedirectParam": "",
+        "endRedirectLastTime": 0,
+        "effectResId": 0
+    },
+    {
+        "id": 3502101,
+        "name": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269",
+        "describe": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269",
         "effectTargetType": 0,
         "isFollow": 1,
         "projectileType": 1,

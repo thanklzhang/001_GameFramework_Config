@@ -179,7 +179,9 @@
         "levelAttrId": 10001,
         "starAttrId": 10001,
         "skillIds": [
-            2502101
+            2502101,
+            2502201,
+            2502301
         ],
         "ultimateSkillId": 0,
         "level": 1,

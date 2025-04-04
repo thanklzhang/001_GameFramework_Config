@@ -98,5 +98,41 @@
         "maxTriggerCount": 0,
         "triggerCD": 0,
         "triggerEffectResId": 0
+    },
+    {
+        "id": 18506101,
+        "name": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u7684\u7fa4\u653b\u88ab\u52a8",
+        "describe": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u7684\u7fa4\u653b\u88ab\u52a8",
+        "triggerTimeType": 1,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 3,
+        "triggerEffectList": [
+            13501101
+        ],
+        "afterTriggerRemoveEffectList": [
+            0
+        ],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18506201,
+        "name": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u7684\u653b\u901f\u53e0\u52a0\u589e\u52a0\u88ab\u52a8",
+        "describe": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u7684\u653b\u901f\u53e0\u52a0\u589e\u52a0\u88ab\u52a8",
+        "triggerTimeType": 3,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [
+            14501101
+        ],
+        "afterTriggerRemoveEffectList": [
+            0
+        ],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
     }
 ]

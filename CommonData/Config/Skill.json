@@ -442,5 +442,63 @@
         "skillDirectionId": 0,
         "skillTrackList": [],
         "tagList": []
+    },
+    {
+        "id": 2502201,
+        "name": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269 \u7fa4\u653b\u88ab\u52a8",
+        "describe": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269 \u7fa4\u653b\u88ab\u52a8",
+        "level": 0,
+        "iconResId": 0,
+        "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 1,
+        "entityRelationFilterType": 0,
+        "skillEffectTargetType": 0,
+        "effectList": [],
+        "effectListOnGain": [
+            18506101
+        ],
+        "releaseRange": 0,
+        "beforeTime": 0,
+        "afterTime": 0,
+        "cdTime": 0,
+        "skillCategory": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 1540,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": []
+    },
+    {
+        "id": 2502301,
+        "name": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269 \u653b\u901f\u53e0\u52a0\u589e\u5feb\u88ab\u52a8",
+        "describe": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269 \u653b\u901f\u53e0\u52a0\u589e\u5feb\u88ab\u52a8",
+        "level": 0,
+        "iconResId": 0,
+        "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 1,
+        "entityRelationFilterType": 0,
+        "skillEffectTargetType": 0,
+        "effectList": [],
+        "effectListOnGain": [
+            18506201
+        ],
+        "releaseRange": 0,
+        "beforeTime": 0,
+        "afterTime": 0,
+        "cdTime": 0,
+        "skillCategory": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 1540,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": []
     }
 ]
