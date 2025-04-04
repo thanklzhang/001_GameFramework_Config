@@ -107,6 +107,27 @@
         "effectResId": 0
     },
     {
+        "id": 13006101,
+        "name": "\u627f\u7075 q \u6280\u80fd\u88ab\u52a8 \u9020\u6210\u4f24\u5bb3\u7ed9\u53ec\u5524\u517d\u52a0\u8840\u7684\u533a\u57df\u9009\u62e9",
+        "describe": "\u627f\u7075 q \u6280\u80fd\u88ab\u52a8 \u9020\u6210\u4f24\u5bb3\u7ed9\u53ec\u5524\u517d\u52a0\u8840\u7684\u533a\u57df\u9009\u62e9",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            5000
+        ],
+        "entityRelationFilterType": 6,
+        "filterEntityType": 0,
+        "excludeEntityType": 0,
+        "randSelectCount": 0,
+        "effectList": [
+            4006301
+        ],
+        "groupEffectList": [],
+        "effectResId": 0
+    },
+    {
         "id": 13501101,
         "name": "\u627f\u7075\u5927\u62db\u53ec\u5524\u7269\u7684\u653b\u51fb\u88ab\u52a8\u533a\u57df\u9009\u62e9",
         "describe": "\u627f\u7075\u5927\u62db\u53ec\u5524\u7269\u7684\u653b\u51fb\u88ab\u52a8\u533a\u57df\u9009\u62e9",

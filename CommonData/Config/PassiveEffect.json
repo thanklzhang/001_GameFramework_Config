@@ -100,7 +100,39 @@
         "triggerEffectResId": 0
     },
     {
-        "id": 18506101,
+        "id": 18006101,
+        "name": "\u627f\u7075 q \u88ab\u52a8 \u53ec\u5524\u517d\u9020\u6210\u4f24\u5bb3 \u81ea\u5df1\u56de\u8840 ",
+        "describe": "\u627f\u7075 q \u88ab\u52a8 \u53ec\u5524\u517d\u9020\u6210\u4f24\u5bb3 \u81ea\u5df1\u56de\u8840 ",
+        "triggerTimeType": 30,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [
+            4006201
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18006201,
+        "name": "\u627f\u7075 q \u88ab\u52a8 \u81ea\u5df1\u9020\u6210\u4f24\u5bb3 \u76ee\u6807\u5468\u56f4\u53ec\u5524\u517d\u56de\u8840 ",
+        "describe": "\u627f\u7075 q \u88ab\u52a8 \u81ea\u5df1\u9020\u6210\u4f24\u5bb3 \u81ea\u5df1\u5468\u56f4\u53ec\u5524\u517d\u56de\u8840 ",
+        "triggerTimeType": 5,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [
+            13006101
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18501101,
         "name": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u7684\u7fa4\u653b\u88ab\u52a8",
         "describe": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u7684\u7fa4\u653b\u88ab\u52a8",
         "triggerTimeType": 1,
@@ -118,7 +150,7 @@
         "triggerEffectResId": 0
     },
     {
-        "id": 18506201,
+        "id": 18502101,
         "name": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u7684\u653b\u901f\u53e0\u52a0\u589e\u52a0\u88ab\u52a8",
         "describe": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u7684\u653b\u901f\u53e0\u52a0\u589e\u52a0\u88ab\u52a8",
         "triggerTimeType": 3,

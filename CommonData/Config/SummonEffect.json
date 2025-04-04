@@ -24,7 +24,7 @@
         "summonBornPosType": 1,
         "summonCount": 1,
         "maxSummonCount": 1,
-        "lastTime": 0,
+        "lastTime": 20000,
         "lastTimeAddedGroup": [],
         "startEffectList": [
             14006101

@@ -313,7 +313,10 @@
         "effectList": [
             26006101
         ],
-        "effectListOnGain": [],
+        "effectListOnGain": [
+            18006101,
+            18006201
+        ],
         "releaseRange": 0,
         "beforeTime": 466,
         "afterTime": 200,
@@ -457,7 +460,7 @@
         "skillEffectTargetType": 0,
         "effectList": [],
         "effectListOnGain": [
-            18506101
+            18501101
         ],
         "releaseRange": 0,
         "beforeTime": 0,
@@ -486,7 +489,7 @@
         "skillEffectTargetType": 0,
         "effectList": [],
         "effectListOnGain": [
-            18506201
+            18502101
         ],
         "releaseRange": 0,
         "beforeTime": 0,

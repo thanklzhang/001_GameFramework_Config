@@ -50,7 +50,7 @@
     {
         "id": 10006,
         "describe": "\u627f\u7075",
-        "attack": 70,
+        "attack": 300,
         "defence": 40,
         "health": 100000,
         "magic": 20,
