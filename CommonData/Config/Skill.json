@@ -328,6 +328,35 @@
         "tagList": []
     },
     {
+        "id": 2006301,
+        "name": "\u627f\u7075 \u5927\u62db \u53ec\u5524",
+        "describe": "\u627f\u7075 q \u53ec\u5524",
+        "level": 1,
+        "iconResId": 15003755,
+        "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "entityRelationFilterType": 0,
+        "skillEffectTargetType": 0,
+        "effectList": [
+            26006201
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 466,
+        "afterTime": 200,
+        "cdTime": 2500,
+        "skillCategory": 3,
+        "isNoBreak": 0,
+        "animationSpeedScale": 1000,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": []
+    },
+    {
         "id": 2101101,
         "name": "\u602a\u72691 \u666e\u901a\u653b\u51fb",
         "describe": "\u602a\u72691 \u666e\u901a\u653b\u51fb",
@@ -370,6 +399,35 @@
         "skillEffectTargetType": 1,
         "effectList": [
             3501101
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 180,
+        "afterTime": 100,
+        "cdTime": 0,
+        "skillCategory": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 1540,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": []
+    },
+    {
+        "id": 2502101,
+        "name": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269 \u666e\u901a\u653b\u51fb",
+        "describe": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269 \u666e\u901a\u653b\u51fb",
+        "level": 0,
+        "iconResId": 0,
+        "skillReleaseTargeType": 1,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "entityRelationFilterType": 0,
+        "skillEffectTargetType": 1,
+        "effectList": [
+            3502101
         ],
         "effectListOnGain": [],
         "releaseRange": 0,

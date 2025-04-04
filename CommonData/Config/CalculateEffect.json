@@ -283,5 +283,24 @@
         "isEffectFollowTarget": 1,
         "effectPosName": "hit_pos",
         "isForShow": 0
+    },
+    {
+        "id": 4502101,
+        "name": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269 \u666e\u901a\u653b\u51fb\u6548\u679c\u8ba1\u7b97",
+        "describe": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269 \u666e\u901a\u653b\u51fb\u6548\u679c\u8ba1\u7b97",
+        "effectTargetType": 2,
+        "addedValueGroup": [
+            [
+                1,
+                1000,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008028,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     }
 ]

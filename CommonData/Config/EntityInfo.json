@@ -102,7 +102,7 @@
             2006101,
             2006201
         ],
-        "ultimateSkillId": 0,
+        "ultimateSkillId": 2006301,
         "level": 1,
         "quality": 0,
         "star": 1,
@@ -146,8 +146,8 @@
     },
     {
         "id": 1000501,
-        "name": "\u517d\u7075",
-        "describe": "\u627f\u7075 q \u53ec\u5524\u7269",
+        "name": "\u517d\u7075\uff08\u627f\u7075\u53ec\u5524\u7269\uff09",
+        "describe": "\u517d\u7075\uff08\u627f\u7075\u53ec\u5524\u7269\uff09",
         "type": 0,
         "modelId": 15011104,
         "baseAttrId": 20501,
@@ -155,6 +155,31 @@
         "starAttrId": 10001,
         "skillIds": [
             2501101
+        ],
+        "ultimateSkillId": 0,
+        "level": 1,
+        "quality": 0,
+        "star": 1,
+        "skillLevels": [
+            1,
+            1
+        ],
+        "aiScript": "BaseAI",
+        "isBoss": 0,
+        "avatarResId": 15003501,
+        "allBodyResId": 15003601
+    },
+    {
+        "id": 1000502,
+        "name": "\u5c06\u7075\uff08\u627f\u7075\u53ec\u5524\u7269\uff09",
+        "describe": "\u5c06\u7075\uff08\u627f\u7075\u53ec\u5524\u7269\uff09",
+        "type": 0,
+        "modelId": 15011105,
+        "baseAttrId": 20502,
+        "levelAttrId": 10001,
+        "starAttrId": 10001,
+        "skillIds": [
+            2502101
         ],
         "ultimateSkillId": 0,
         "level": 1,

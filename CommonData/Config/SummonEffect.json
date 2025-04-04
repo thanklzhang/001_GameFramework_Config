@@ -17,6 +17,23 @@
         "effectResId": 0
     },
     {
+        "id": 26006201,
+        "name": "\u627f\u7075 \u5927\u62db \u53ec\u5524",
+        "describe": "\u627f\u7075 \u5927\u62db \u53ec\u5524",
+        "summonConfigId": 1000502,
+        "summonBornPosType": 1,
+        "summonCount": 1,
+        "maxSummonCount": 1,
+        "lastTime": 0,
+        "lastTimeAddedGroup": [],
+        "startEffectList": [
+            14006101
+        ],
+        "addedAttrGroup": [],
+        "addedValueGroup": [],
+        "effectResId": 0
+    },
+    {
         "id": 26001001,
         "name": "\u53ec\u5524 3 \u4e2a\u8fd1\u6218\u6253\u624b",
         "describe": "\u53ec\u5524 3 \u4e2a\u6253\u624b",
