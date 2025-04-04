@@ -136,7 +136,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1004101,
         "endRemoveEffectList": [],
-        "effectResId": 15008025,
+        "effectResId": 0,
         "showType": 0
     },
     {
@@ -184,7 +184,7 @@
             2
         ],
         "lastTime": 5000,
-        "isCanBeClear": 0,
+        "isCanBeClear": 1,
         "affectType": 1,
         "isDeleteOnDead": 1,
         "initLayerCount": 0,
@@ -318,7 +318,7 @@
             2
         ],
         "lastTime": 5000,
-        "isCanBeClear": 0,
+        "isCanBeClear": 1,
         "affectType": 1,
         "isDeleteOnDead": 1,
         "initLayerCount": 0,
@@ -339,6 +339,39 @@
         "attrGroupConfigId": 1004201,
         "endRemoveEffectList": [],
         "effectResId": 15008025,
+        "showType": 0
+    },
+    {
+        "id": 14006101,
+        "name": "\u627f\u7075 q \u53ec\u5524\u7269\u5c5e\u6027\u52a0\u6210",
+        "describe": "\u627f\u7075 q \u53ec\u5524\u7269\u5c5e\u6027\u52a0\u6210",
+        "iconResId": 15003114,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            0
+        ],
+        "lastTime": 999999000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 1006101,
+        "endRemoveEffectList": [],
+        "effectResId": 0,
         "showType": 0
     }
 ]
