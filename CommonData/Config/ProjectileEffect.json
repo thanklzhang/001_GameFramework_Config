@@ -22,8 +22,9 @@
         "collisionEffectEntityType": 0,
         "endRedirectCount": 0,
         "endRedirectType": 0,
-        "endRedirectParam": "",
+        "endRedirectIntListParam": [],
         "endRedirectLastTime": 0,
+        "isEndRedirectReserveCollisionInfo": 0,
         "effectResId": 15008007
     },
     {
@@ -49,8 +50,9 @@
         "collisionEffectEntityType": 0,
         "endRedirectCount": 0,
         "endRedirectType": 0,
-        "endRedirectParam": "",
+        "endRedirectIntListParam": [],
         "endRedirectLastTime": 0,
+        "isEndRedirectReserveCollisionInfo": 0,
         "effectResId": 15008003
     },
     {
@@ -76,8 +78,9 @@
         "collisionEffectEntityType": 0,
         "endRedirectCount": 0,
         "endRedirectType": 0,
-        "endRedirectParam": "",
+        "endRedirectIntListParam": [],
         "endRedirectLastTime": 0,
+        "isEndRedirectReserveCollisionInfo": 0,
         "effectResId": 15008007
     },
     {
@@ -103,8 +106,9 @@
         "collisionEffectEntityType": 0,
         "endRedirectCount": 0,
         "endRedirectType": 0,
-        "endRedirectParam": "",
+        "endRedirectIntListParam": [],
         "endRedirectLastTime": 0,
+        "isEndRedirectReserveCollisionInfo": 0,
         "effectResId": 0
     },
     {
@@ -130,8 +134,9 @@
         "collisionEffectEntityType": 0,
         "endRedirectCount": 0,
         "endRedirectType": 0,
-        "endRedirectParam": "",
+        "endRedirectIntListParam": [],
         "endRedirectLastTime": 0,
+        "isEndRedirectReserveCollisionInfo": 0,
         "effectResId": 15008007
     },
     {
@@ -157,8 +162,9 @@
         "collisionEffectEntityType": 0,
         "endRedirectCount": 0,
         "endRedirectType": 0,
-        "endRedirectParam": "",
+        "endRedirectIntListParam": [],
         "endRedirectLastTime": 0,
+        "isEndRedirectReserveCollisionInfo": 0,
         "effectResId": 0
     },
     {
@@ -184,8 +190,9 @@
         "collisionEffectEntityType": 0,
         "endRedirectCount": 0,
         "endRedirectType": 0,
-        "endRedirectParam": "",
+        "endRedirectIntListParam": [],
         "endRedirectLastTime": 0,
+        "isEndRedirectReserveCollisionInfo": 0,
         "effectResId": 0
     },
     {
@@ -211,8 +218,9 @@
         "collisionEffectEntityType": 0,
         "endRedirectCount": 0,
         "endRedirectType": 0,
-        "endRedirectParam": "",
+        "endRedirectIntListParam": [],
         "endRedirectLastTime": 0,
+        "isEndRedirectReserveCollisionInfo": 0,
         "effectResId": 0
     },
     {
@@ -238,8 +246,40 @@
         "collisionEffectEntityType": 0,
         "endRedirectCount": 0,
         "endRedirectType": 0,
-        "endRedirectParam": "",
+        "endRedirectIntListParam": [],
         "endRedirectLastTime": 0,
+        "isEndRedirectReserveCollisionInfo": 0,
         "effectResId": 0
+    },
+    {
+        "id": 3801101,
+        "name": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 \u6295\u63b7\u7269 lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 lv1",
+        "effectTargetType": 0,
+        "isFollow": 1,
+        "projectileType": 0,
+        "lastTime": 99999999,
+        "deflectionAngle": 0,
+        "speed": 10000,
+        "collisionRadius": 1500,
+        "isThrough": 1,
+        "isFlyMaxRange": 0,
+        "startEffectList": [],
+        "collisionEffectList": [],
+        "collisionDamageChange": 0,
+        "collisionDamageChangeLimit": 0,
+        "endEffectList": [
+            4801101
+        ],
+        "collisionEffectEntityType": 0,
+        "endRedirectCount": 5,
+        "endRedirectType": 4,
+        "endRedirectIntListParam": [
+            10000,
+            0
+        ],
+        "endRedirectLastTime": 9999999,
+        "isEndRedirectReserveCollisionInfo": 1,
+        "effectResId": 15008007
     }
 ]

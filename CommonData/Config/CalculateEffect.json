@@ -340,5 +340,24 @@
         "isEffectFollowTarget": 1,
         "effectPosName": "hit_pos",
         "isForShow": 0
+    },
+    {
+        "id": 4801101,
+        "name": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403",
+        "describe": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 lv1",
+        "effectTargetType": 2,
+        "addedValueGroup": [
+            [
+                1,
+                1500,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008028,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
     }
 ]
