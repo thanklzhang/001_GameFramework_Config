@@ -68,5 +68,12 @@
         "name": "\u627f\u53d7\u4f24\u5bb3\u6bd4\u7387",
         "describe": "\u627f\u53d7\u4f24\u5bb3\u7684\u6539\u53d8\u6bd4\u7387",
         "iconResId": 0
+    },
+    {
+        "id": 24000015,
+        "type": 15,
+        "name": "",
+        "describe": "",
+        "iconResId": 0
     }
 ]
