@@ -5,6 +5,7 @@
         "describe": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",
         "moveSpeed": 10000,
         "moveTargetPosType": 0,
+        "moveProcessType": 0,
         "endPosType": 4,
         "lastTime": 320,
         "startEffectList": [
@@ -21,6 +22,7 @@
         "describe": "\u591c\u9b42 \u5927\u62db \u4f4d\u79fb",
         "moveSpeed": 10000,
         "moveTargetPosType": 0,
+        "moveProcessType": 0,
         "endPosType": 1,
         "lastTime": 320,
         "startEffectList": [],
@@ -30,6 +32,21 @@
         ],
         "endRemoveEffectList": [],
         "isThisEndForSkillEnd": 1,
+        "effectResId": 15008009
+    },
+    {
+        "id": 16801101,
+        "name": "\u968f\u673a\u6280\u80fd \u77ac\u95f4\u4f4d\u79fb",
+        "describe": "\u968f\u673a\u6280\u80fd \u77ac\u95f4\u4f4d\u79fb",
+        "moveSpeed": 10000,
+        "moveTargetPosType": 0,
+        "moveProcessType": 1,
+        "endPosType": 1,
+        "lastTime": 320,
+        "startEffectList": [],
+        "reachEffectList": [],
+        "endRemoveEffectList": [],
+        "isThisEndForSkillEnd": 0,
         "effectResId": 15008009
     }
 ]
