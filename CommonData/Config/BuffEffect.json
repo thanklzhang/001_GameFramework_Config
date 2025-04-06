@@ -505,5 +505,32 @@
         ],
         "effectResId": 15008017,
         "showType": 0
+    },
+    {
+        "id": 14801301,
+        "name": "\u968f\u673a\u6280\u80fd \u88ab\u52a8\u589e\u52a0\u53ec\u5524\u517d\u653b\u51fb\u529b lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u88ab\u52a8\u589e\u52a0\u53ec\u5524\u517d\u653b\u51fb\u529b lv1",
+        "iconResId": 15003218,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [],
+        "lastTime": 999999000,
+        "isCanBeClear": 0,
+        "affectType": 0,
+        "isDeleteOnDead": 0,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 1801201,
+        "endRemoveEffectList": [],
+        "effectResId": 15008017,
+        "showType": 0
     }
 ]

@@ -201,14 +201,30 @@
     },
     {
         "id": 18801301,
-        "name": "\u81ea\u7206\u4eba\u81ea\u7206\u88ab\u52a8\u6280\u80fd lv1",
-        "describe": "\u81ea\u7206\u4eba\u81ea\u7206\u88ab\u52a8\u6280\u80fd lv1",
+        "name": "\u968f\u673a\u6280\u80fd \u81ea\u7206\u4eba\u81ea\u7206\u88ab\u52a8\u6280\u80fd lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u81ea\u7206\u4eba\u81ea\u7206\u88ab\u52a8\u6280\u80fd lv1",
         "triggerTimeType": 9,
         "triggerParam": "",
         "triggerChance": 1000,
         "triggerTargetType": 0,
         "triggerEffectList": [
             13801101
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18801401,
+        "name": "\u968f\u673a\u6280\u80fd \u88ab\u52a8\u589e\u52a0\u53ec\u5524\u517d\u653b\u51fb\u529b lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u88ab\u52a8\u589e\u52a0\u53ec\u5524\u517d\u653b\u51fb\u529b lv1",
+        "triggerTimeType": 14,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 1,
+        "triggerEffectList": [
+            14801301
         ],
         "afterTriggerRemoveEffectList": [],
         "maxTriggerCount": 0,
