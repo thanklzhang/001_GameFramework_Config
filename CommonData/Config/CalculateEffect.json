@@ -3,7 +3,7 @@
         "id": 4003101,
         "name": "\u5510\u4f9d\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
         "describe": "\u5510\u4f9d\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -22,7 +22,7 @@
         "id": 4003201,
         "name": "\u5510\u4f9d q \u6280\u80fd\u7a7f\u523a\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
         "describe": "\u5510\u4f9d q \u6280\u80fd\u7a7f\u523a\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -41,7 +41,7 @@
         "id": 4003301,
         "name": "\u5510\u4f9d\u5927\u62db\u7fa4\u653b\u6548\u679c\u8ba1\u7b97",
         "describe": "\u5510\u4f9d\u5927\u62db\u7fa4\u653b\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -60,7 +60,7 @@
         "id": 4004101,
         "name": "\u591c\u9b42\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
         "describe": "\u591c\u9b42\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -79,7 +79,7 @@
         "id": 4004201,
         "name": "\u591c\u9b42q\u88ab\u52a8\u533a\u57df\u6548\u679c\u8ba1\u7b97",
         "describe": "\u591c\u9b42q\u88ab\u52a8\u533a\u57df\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 4,
@@ -98,7 +98,7 @@
         "id": 4004301,
         "name": "\u591c\u9b42q\u653b\u51fb\u9644\u5e26\u62a4\u7532\u4f24\u5bb3\u6548\u679c\u8ba1\u7b97",
         "describe": "\u591c\u9b42q\u653b\u51fb\u9644\u5e26\u62a4\u7532\u4f24\u5bb3\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 4,
@@ -117,7 +117,7 @@
         "id": 4004401,
         "name": "\u591c\u9b42\u5927\u62db\u4f24\u5bb3",
         "describe": "\u591c\u9b42\u5927\u62db\u4f24\u5bb3",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 4,
@@ -136,7 +136,7 @@
         "id": 4005101,
         "name": "\u8427\u7389\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
         "describe": "\u8427\u7389\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -155,7 +155,7 @@
         "id": 4005201,
         "name": "\u8427\u7389 q \u961f\u53cb\u52a0\u8840\u6548\u679c\u8ba1\u7b97",
         "describe": "\u8427\u7389 q \u961f\u53cb\u52a0\u8840\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -174,7 +174,7 @@
         "id": 4005301,
         "name": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97",
         "describe": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -193,7 +193,7 @@
         "id": 4005401,
         "name": "\u8427\u7389 q \u88ab\u52a8\u52a0\u8840\u6548\u679c\u8ba1\u7b97",
         "describe": "\u8427\u7389 q \u88ab\u52a8\u52a0\u8840\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -212,7 +212,7 @@
         "id": 4005501,
         "name": "\u8427\u7389 \u5927\u62db\u4f24\u5bb3\u8ba1\u7b97",
         "describe": "\u8427\u7389 \u5927\u62db\u4f24\u5bb3\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -231,7 +231,7 @@
         "id": 4006101,
         "name": "\u627f\u7075 \u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
         "describe": "\u627f\u7075 \u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -250,7 +250,7 @@
         "id": 4006201,
         "name": "\u627f\u7075 q \u88ab\u52a8 \u53ec\u5524\u7269\u9020\u6210\u4f24\u5bb3\u81ea\u5df1\u52a0\u8840\u7684\u8ba1\u7b97",
         "describe": "\u627f\u7075 q \u88ab\u52a8 \u53ec\u5524\u7269\u9020\u6210\u4f24\u5bb3\u81ea\u5df1\u52a0\u8840\u7684\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 20,
@@ -269,7 +269,7 @@
         "id": 4006301,
         "name": "\u627f\u7075 q \u88ab\u52a8 \u81ea\u5df1\u9020\u6210\u4f24\u5bb3\u7ed9\u53ec\u5524\u517d\u52a0\u8840\u7684\u8ba1\u7b97",
         "describe": "\u627f\u7075 q \u88ab\u52a8 \u81ea\u5df1\u9020\u6210\u4f24\u5bb3\u7ed9\u53ec\u5524\u517d\u52a0\u8840\u7684\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 20,
@@ -288,7 +288,7 @@
         "id": 4101101,
         "name": "\u602a\u72691\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
         "describe": "\u602a\u72691\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -307,7 +307,7 @@
         "id": 4501101,
         "name": "\u627f\u7075 q \u53ec\u5524\u7269 \u666e\u901a\u653b\u51fb\u6548\u679c\u8ba1\u7b97",
         "describe": "\u627f\u7075 q \u53ec\u5524\u7269 \u666e\u901a\u653b\u51fb\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -326,7 +326,7 @@
         "id": 4502101,
         "name": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269 \u666e\u901a\u653b\u51fb\u6548\u679c\u8ba1\u7b97",
         "describe": "\u627f\u7075 \u5927\u62db \u53ec\u5524\u7269 \u666e\u901a\u653b\u51fb\u6548\u679c\u8ba1\u7b97",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
@@ -343,13 +343,51 @@
     },
     {
         "id": 4801101,
-        "name": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403",
+        "name": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 lv1",
         "describe": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 lv1",
-        "effectTargetType": 2,
+        "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
                 1500,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008028,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4801201,
+        "name": "\u968f\u673a\u6280\u80fd \u53cd\u5f39\u4f24\u5bb3 lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u53cd\u5f39\u4f24\u5bb3 lv1",
+        "calculateEffectTargetType": 0,
+        "addedValueGroup": [
+            [
+                20,
+                500,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008028,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4801301,
+        "name": "\u968f\u673a\u6280\u80fd \u81ea\u7206\u4eba\u81ea\u7206\u4f24\u5bb3 lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u81ea\u7206\u4eba\u81ea\u7206\u4f24\u5bb3 lv1",
+        "calculateEffectTargetType": 5,
+        "addedValueGroup": [
+            [
+                1,
+                10000,
                 1
             ]
         ],

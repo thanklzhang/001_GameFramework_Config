@@ -130,7 +130,7 @@
         "starAttrId": 1,
         "skillIds": [
             2006101,
-            2801301
+            2801501
         ],
         "ultimateSkillId": 2006301,
         "level": 1,
@@ -212,6 +212,32 @@
             2502101,
             2502201,
             2502301
+        ],
+        "ultimateSkillId": 0,
+        "level": 1,
+        "quality": 0,
+        "star": 1,
+        "skillLevels": [
+            1,
+            1
+        ],
+        "aiScript": "BaseAI",
+        "isBoss": 0,
+        "avatarResId": 15003501,
+        "allBodyResId": 15003601
+    },
+    {
+        "id": 1000801,
+        "name": "\u81ea\u7206\u4eba\uff08\u53ec\u5524\u7269\uff09",
+        "describe": "\u81ea\u7206\u4eba\uff08\u53ec\u5524\u7269\uff09",
+        "type": 0,
+        "modelId": 15011104,
+        "baseAttrId": 20801,
+        "levelAttrId": 10001,
+        "starAttrId": 10001,
+        "skillIds": [
+            2502101,
+            2801601
         ],
         "ultimateSkillId": 0,
         "level": 1,
