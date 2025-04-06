@@ -472,5 +472,38 @@
         "endRemoveEffectList": [],
         "effectResId": 15008025,
         "showType": 0
+    },
+    {
+        "id": 14801201,
+        "name": "\u968f\u673a\u6280\u80fd \u8eb2\u907f\u4f24\u5bb3 lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u8eb2\u907f\u4f24\u5bb3 lv1",
+        "iconResId": 15003218,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            2053
+        ],
+        "lastTime": 10000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 3,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [],
+        "startEffectList": [
+            18801101
+        ],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 0,
+        "endRemoveEffectList": [
+            18801101
+        ],
+        "effectResId": 15008017,
+        "showType": 0
     }
 ]

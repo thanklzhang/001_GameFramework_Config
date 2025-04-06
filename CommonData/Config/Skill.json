@@ -561,5 +561,34 @@
         "skillDirectionId": 0,
         "skillTrackList": [],
         "tagList": []
+    },
+    {
+        "id": 2801301,
+        "name": "\u968f\u673a\u6280\u80fd \u8eb2\u907f\u4f24\u5bb3 lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u8eb2\u907f\u4f24\u5bb3 lv1",
+        "level": 0,
+        "iconResId": 15003755,
+        "skillCategory": 2,
+        "skillReleaseTargeType": 0,
+        "areaEffectId": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "entityRelationFilterType": 0,
+        "skillEffectTargetType": 2,
+        "effectList": [
+            14801201
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 180,
+        "afterTime": 100,
+        "cdTime": 0,
+        "isNoBreak": 0,
+        "animationSpeedScale": 1540,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": []
     }
 ]
