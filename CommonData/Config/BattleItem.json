@@ -1,73 +1,123 @@
 [
     {
         "id": 100001,
-        "name": "\u9053\u5177",
-        "describe": "\u4e3b\u52a8\u91ca\u653e\uff1a\u52a0\u8840\uff0c\u5468\u56f4\u51fb\u6655 \u88ab\u52a8\u6280\u80fd\uff1a\u589e\u52a0\u79fb\u52a8\u901f\u5ea6   \u5c5e\u6027\uff1a\u589e\u52a0100\u653b\u51fb\u548c100\u70b9\u9632\u5fa1",
-        "iconResId": 15004001,
-        "itemType": 1,
-        "itemQuality": 0,
-        "addType": 2,
-        "isDestroyAfterUse": 1,
-        "skillId": 2005001,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [
-            1,
-            2
-        ],
-        "addedValueGroup": [
-            [
-                0,
-                10000,
-                0
-            ],
-            [
-                0,
-                5000,
-                0
-            ]
-        ]
-    },
-    {
-        "id": 100101,
-        "name": "\u6d4b\u8bd5\u9053\u5177 1",
-        "describe": "\u6d4b\u8bd5\u9053\u5177 1 \u4ecb\u7ecd \u589e\u52a0\u653b\u51fb\u529b",
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 0,
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "attrGroupConfigId": 100603,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 3000001
     },
     {
-        "id": 100102,
-        "name": "\u6d4b\u8bd5\u9053\u5177 2",
-        "describe": "\u6d4b\u8bd5\u9053\u5177 2 \u4ecb\u7ecd \u589e\u52a0\u62a4\u7532",
+        "id": 100002,
+        "name": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
         "iconResId": 15004002,
         "itemType": 1,
         "itemQuality": 0,
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "attrGroupConfigId": 100604,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 3000002
     },
     {
-        "id": 100103,
-        "name": "\u6d4b\u8bd5\u9053\u5177 3",
-        "describe": "\u6d4b\u8bd5\u9053\u5177 3 \u4ecb\u7ecd",
+        "id": 100003,
+        "name": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 400",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
         "iconResId": 15004003,
         "itemType": 1,
         "itemQuality": 0,
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "attrGroupConfigId": 100603,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 3000003
+    },
+    {
+        "id": 100004,
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3000004
+    },
+    {
+        "id": 100005,
+        "name": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.5",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
+        "iconResId": 15004002,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3000005
+    },
+    {
+        "id": 100006,
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
+        "iconResId": 15004003,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3000006
+    },
+    {
+        "id": 100007,
+        "name": "\u9053\u5177 15% \u66b4\u51fb\u51e0\u7387",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3000007
+    },
+    {
+        "id": 100008,
+        "name": "\u9053\u5177 50% \u66b4\u51fb\u4f24\u5bb3",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
+        "iconResId": 15004002,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3000008
+    },
+    {
+        "id": 100009,
+        "name": "\u9053\u5177 20 \u6280\u80fd\u51b7\u5374",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
+        "iconResId": 15004003,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3000009
+    },
+    {
+        "id": 100010,
+        "name": "\u9053\u5177 \u751f\u547d\u6062\u590d\u901f\u5ea6 150%",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3000010
     },
     {
         "id": 200001,
@@ -79,9 +129,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 2001023,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 200002,
@@ -93,9 +141,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 2001024,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 201000,
@@ -107,9 +153,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 201001,
@@ -121,9 +165,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 201002,
@@ -135,9 +177,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 201003,
@@ -149,9 +189,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 201004,
@@ -163,9 +201,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 201005,
@@ -177,9 +213,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 201006,
@@ -191,9 +225,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 202000,
@@ -205,9 +237,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 202001,
@@ -219,9 +249,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 202002,
@@ -233,9 +261,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 202003,
@@ -247,9 +273,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 202004,
@@ -261,9 +285,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 202005,
@@ -275,9 +297,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 202006,
@@ -289,9 +309,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 203000,
@@ -303,9 +321,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 203001,
@@ -317,9 +333,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 203002,
@@ -331,9 +345,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 203003,
@@ -345,9 +357,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 203004,
@@ -359,9 +369,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 203005,
@@ -373,9 +381,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 204000,
@@ -387,9 +393,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 204001,
@@ -401,9 +405,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 204002,
@@ -415,9 +417,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 204003,
@@ -429,9 +429,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 204004,
@@ -443,9 +441,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 204005,
@@ -457,9 +453,7 @@
         "addType": 0,
         "isDestroyAfterUse": 1,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 500001,
@@ -471,9 +465,7 @@
         "addType": 2,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     },
     {
         "id": 500101,
@@ -485,8 +477,6 @@
         "addType": 2,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "attrGroupConfigId": 0,
-        "addedAttrGroup": [],
-        "addedValueGroup": []
+        "attrGroupConfigId": 0
     }
 ]
