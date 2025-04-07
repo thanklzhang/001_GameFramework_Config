@@ -150,8 +150,8 @@
     },
     {
         "id": 13801101,
-        "name": "\u53ec\u5524\u7269\u81ea\u7206\u4eba\u81ea\u7206\u6280\u80fd\u7684\u533a\u57df\u9009\u62e9",
-        "describe": "\u53ec\u5524\u7269\u81ea\u7206\u4eba\u81ea\u7206\u6280\u80fd\u7684\u533a\u57df\u9009\u62e9",
+        "name": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u81ea\u7206\u4eba\u81ea\u7206\u6280\u80fd\u7684\u533a\u57df\u9009\u62e9",
+        "describe": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u81ea\u7206\u4eba\u81ea\u7206\u6280\u80fd\u7684\u533a\u57df\u9009\u62e9",
         "areaType": 0,
         "startPosType": 0,
         "startPosShiftDirType": 0,
@@ -165,6 +165,27 @@
         "randSelectCount": 0,
         "effectList": [
             4801301
+        ],
+        "groupEffectList": [],
+        "effectResId": 0
+    },
+    {
+        "id": 13801201,
+        "name": "\u968f\u673a\u6280\u80fd \u5468\u4e3a\u5355\u4f4d\u51fb\u6655\u7684\u533a\u57df\u9009\u62e9",
+        "describe": "\u968f\u673a\u6280\u80fd \u5468\u4e3a\u5355\u4f4d\u51fb\u6655\u7684\u533a\u57df\u9009\u62e9",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            5000
+        ],
+        "entityRelationFilterType": 0,
+        "filterEntityType": 0,
+        "excludeEntityType": 0,
+        "randSelectCount": 0,
+        "effectList": [
+            14801601
         ],
         "groupEffectList": [],
         "effectResId": 0
