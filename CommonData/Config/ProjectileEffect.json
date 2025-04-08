@@ -281,5 +281,33 @@
         "endRedirectLastTime": 9999999,
         "isEndRedirectReserveCollisionInfo": 1,
         "effectResId": 15008007
+    },
+    {
+        "id": 3820101,
+        "name": "\u9053\u5177\u6280\u80fd \u88ab\u653b\u51fb\u65f6\u5019\u53cd\u5c04\u653b\u51fb\u7403",
+        "describe": "\u9053\u5177\u6280\u80fd \u88ab\u653b\u51fb\u65f6\u5019\u53cd\u5c04\u653b\u51fb\u7403",
+        "effectTargetType": 0,
+        "isFollow": 1,
+        "projectileType": 0,
+        "lastTime": 99999999,
+        "deflectionAngle": 0,
+        "speed": 5000,
+        "collisionRadius": 1500,
+        "isThrough": 1,
+        "isFlyMaxRange": 0,
+        "startEffectList": [],
+        "collisionEffectList": [],
+        "collisionDamageChange": 0,
+        "collisionDamageChangeLimit": 0,
+        "endEffectList": [
+            4820101
+        ],
+        "collisionEffectEntityType": 0,
+        "endRedirectCount": 0,
+        "endRedirectType": 0,
+        "endRedirectIntListParam": [],
+        "endRedirectLastTime": 0,
+        "isEndRedirectReserveCollisionInfo": 0,
+        "effectResId": 15008003
     }
 ]
