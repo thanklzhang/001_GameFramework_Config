@@ -156,6 +156,18 @@
         "attrGroupConfigId": 3000014
     },
     {
+        "id": 100014,
+        "name": "\u9053\u5177 \u589e\u52a0\u6240\u6709\u6cbb\u7597\u6548\u679c40% \u589e\u52a0 60 \u6280\u80fd\u51b7\u5374 \u548c 300 \u751f\u547d\u503c",
+        "describe": "\u589e\u52a0\u653b\u51fb\u529b 100",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 0,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 2820301,
+        "attrGroupConfigId": 3000015
+    },
+    {
         "id": 200001,
         "name": "\u6280\u80fd\u4e66-\u5f71\u88ad\u98ce\u66b4",
         "describe": "\u5b66\u4e60\u6280\u80fd\uff1a\u5f71\u88ad\u98ce\u66b4",
