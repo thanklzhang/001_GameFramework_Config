@@ -172,13 +172,89 @@
     },
     {
         "id": 4005301,
-        "name": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97",
-        "describe": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97",
+        "name": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97 lv1",
+        "describe": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97 lv1",
+        "calculateEffectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                500,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008027,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4005302,
+        "name": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97 lv2",
+        "describe": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97 lv2",
         "calculateEffectTargetType": 0,
         "addedValueGroup": [
             [
                 1,
                 1500,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008027,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4005303,
+        "name": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97 lv3",
+        "describe": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97 lv3",
+        "calculateEffectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                2500,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008027,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4005304,
+        "name": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97 lv4",
+        "describe": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97 lv4",
+        "calculateEffectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                3500,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008027,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4005305,
+        "name": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97 lv5",
+        "describe": "\u8427\u7389 q \u654c\u4eba\u51cf\u8840\u6548\u679c\u8ba1\u7b97 lv5",
+        "calculateEffectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                4500,
                 1
             ]
         ],
