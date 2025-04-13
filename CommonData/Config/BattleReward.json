@@ -61,8 +61,20 @@
         "describe": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u961f\u957f\u6280\u80fd\u589e\u52a0\u7ecf\u9a8c",
         "iconResId": 15003751,
         "type": 102,
-        "valueList": [],
-        "weightList": [],
+        "valueList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "weightList": [
+            100,
+            60,
+            30,
+            20,
+            10
+        ],
         "count": 1,
         "makeSureRewardOccasion": 1
     },
