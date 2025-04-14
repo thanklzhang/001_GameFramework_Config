@@ -70,10 +70,24 @@
         "iconResId": 0
     },
     {
+        "id": 24000011,
+        "type": 11,
+        "name": "\u6280\u80fd\u51b7\u5374",
+        "describe": "\u6280\u80fd\u91ca\u653e\u7684\u51b7\u5374",
+        "iconResId": 0
+    },
+    {
+        "id": 24000012,
+        "type": 12,
+        "name": "\u6cbb\u7597\u6bd4\u7387",
+        "describe": "\u6240\u6709\u6cbb\u7597\u6548\u679c\u7684\u7a0b\u5ea6",
+        "iconResId": 0
+    },
+    {
         "id": 24000015,
         "type": 15,
-        "name": "",
-        "describe": "",
+        "name": "\u751f\u547d\u6062\u590d",
+        "describe": "\u6bcf\u79d2\u6062\u590d\u7684\u751f\u547d\u503c",
         "iconResId": 0
     }
 ]

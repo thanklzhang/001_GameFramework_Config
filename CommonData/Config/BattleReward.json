@@ -84,17 +84,47 @@
         "describe": "\u901a\u7528 \u83b7\u5f97\u4e00\u4e2a\u88c5\u5907",
         "iconResId": 15003751,
         "type": 300,
-        "valueList": [],
-        "weightList": [],
+        "valueList": [
+            100001,
+            100002,
+            100003,
+            100004,
+            100005,
+            100006,
+            100007,
+            100008,
+            100009,
+            100010,
+            100011,
+            100012,
+            100013,
+            100014
+        ],
+        "weightList": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
         "id": 300201,
-        "name": "\u901a\u7528 \u968f\u5373\u590d\u5236\u4e00\u4e2a\u88c5\u5907",
-        "describe": "\u901a\u7528 \u968f\u5373\u590d\u5236\u4e00\u4e2a\u88c5\u5907",
+        "name": "\u901a\u7528 \u590d\u5236\u88c5\u5907",
+        "describe": "\u901a\u7528 \u968f\u673a\u590d\u5236\u4e00\u4e2a\u88c5\u5907\uff08\u81ea\u5df1\u548c\u961f\u53cb\u548c\u4ed3\u5e93\uff09\u653e\u5230\u4ed3\u5e93\u4e2d",
         "iconResId": 15003751,
-        "type": 302,
+        "type": 301,
         "valueList": [],
         "weightList": [],
         "count": 1,
@@ -172,7 +202,9 @@
         "describe": "\u901a\u7528 \u83b7\u5f97\u968f\u673a\u6218\u94f6",
         "iconResId": 15003751,
         "type": 600,
-        "valueList": [],
+        "valueList": [
+            500
+        ],
         "weightList": [],
         "count": 1,
         "makeSureRewardOccasion": 1
@@ -183,7 +215,9 @@
         "describe": "\u901a\u7528 \u83b7\u5f97\u4eba\u53e3",
         "iconResId": 15003751,
         "type": 601,
-        "valueList": [],
+        "valueList": [
+            1
+        ],
         "weightList": [],
         "count": 1,
         "makeSureRewardOccasion": 1
@@ -194,7 +228,10 @@
         "describe": "\u901a\u7528 \u63d0\u5347\u6218\u94f6\u83b7\u5f97\u6548\u7387",
         "iconResId": 15003751,
         "type": 602,
-        "valueList": [],
+        "valueList": [
+            100,
+            150
+        ],
         "weightList": [],
         "count": 1,
         "makeSureRewardOccasion": 1
