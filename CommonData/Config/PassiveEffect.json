@@ -22,7 +22,7 @@
         "triggerTimeType": 1,
         "triggerParam": "",
         "triggerChance": 1000,
-        "triggerTargetType": 0,
+        "triggerTargetType": 1,
         "triggerEffectList": [
             3003201
         ],

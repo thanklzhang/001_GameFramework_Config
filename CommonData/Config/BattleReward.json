@@ -136,8 +136,18 @@
         "describe": "\u901a\u7528 \u968f\u673a\u7ed9\u82f1\u96c4",
         "iconResId": 15003751,
         "type": 400,
-        "valueList": [],
-        "weightList": [],
+        "valueList": [
+            1000003,
+            1000004,
+            1000005,
+            1000006
+        ],
+        "weightList": [
+            10,
+            10,
+            10,
+            10
+        ],
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -147,8 +157,36 @@
         "describe": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u961f\u53cb\u83b7\u5f97\u4e00\u4e2a\u968f\u673a\u5c5e\u6027",
         "iconResId": 15003751,
         "type": 401,
-        "valueList": [],
-        "weightList": [],
+        "valueList": [
+            4000001,
+            4000002,
+            4000003,
+            4000004,
+            4000005,
+            4000006,
+            4000007,
+            4000008,
+            4000009,
+            4000010,
+            4000011,
+            4000012,
+            4000015
+        ],
+        "weightList": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -158,30 +196,82 @@
         "describe": "\u901a\u7528 \u6240\u6709\u961f\u53cb\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "iconResId": 15003751,
         "type": 402,
-        "valueList": [],
-        "weightList": [],
+        "valueList": [
+            4000001,
+            4000002,
+            4000003,
+            4000004,
+            4000005,
+            4000006,
+            4000007,
+            4000008,
+            4000009,
+            4000010,
+            4000011,
+            4000012,
+            4000015
+        ],
+        "weightList": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
         "id": 400401,
-        "name": "\u901a\u7528 \u968f\u673a\u7ed9\u4e00\u4e2a\u82f1\u96c4\u7ecf\u9a8c",
+        "name": "\u901a\u7528 \u968f\u673a\u7ed9\u4e00\u4e2a\u82f1\u96c4\u661f\u7ea7\u7ecf\u9a8c",
         "describe": "\u901a\u7528 \u968f\u673a\u7ed9\u4e00\u4e2a\u82f1\u96c4\u7ecf\u9a8c",
         "iconResId": 15003751,
         "type": 403,
-        "valueList": [],
-        "weightList": [],
+        "valueList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "weightList": [
+            100,
+            60,
+            30,
+            20,
+            10
+        ],
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
         "id": 400501,
-        "name": "\u901a\u7528 \u7ed9\u5168\u90e8\u82f1\u96c4\u7ecf\u9a8c",
+        "name": "\u901a\u7528 \u7ed9\u5168\u90e8\u82f1\u96c4\u661f\u7ea7\u7ecf\u9a8c",
         "describe": "\u901a\u7528 \u7ed9\u5168\u90e8\u82f1\u96c4\u7ecf\u9a8c",
         "iconResId": 15003751,
         "type": 404,
-        "valueList": [],
-        "weightList": [],
+        "valueList": [
+            1,
+            2,
+            3,
+            4,
+            5
+        ],
+        "weightList": [
+            100,
+            60,
+            30,
+            20,
+            10
+        ],
         "count": 1,
         "makeSureRewardOccasion": 1
     },
