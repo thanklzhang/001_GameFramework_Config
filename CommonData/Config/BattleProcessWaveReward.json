@@ -8,14 +8,8 @@
         "itemCountList": [
             300
         ],
-        "fixedBoxIdList": [
-            100,
-            101
-        ],
-        "fixedBoxCountList": [
-            1,
-            1
-        ],
+        "fixedBoxIdList": [],
+        "fixedBoxCountList": [],
         "randBoxIdList": [
             401,
             402
@@ -35,14 +29,8 @@
         "itemCountList": [
             600
         ],
-        "fixedBoxIdList": [
-            100,
-            101
-        ],
-        "fixedBoxCountList": [
-            2,
-            2
-        ],
+        "fixedBoxIdList": [],
+        "fixedBoxCountList": [],
         "randBoxIdList": [
             401,
             402
@@ -62,14 +50,8 @@
         "itemCountList": [
             900
         ],
-        "fixedBoxIdList": [
-            100,
-            101
-        ],
-        "fixedBoxCountList": [
-            3,
-            3
-        ],
+        "fixedBoxIdList": [],
+        "fixedBoxCountList": [],
         "randBoxIdList": [
             401,
             402

@@ -4,6 +4,7 @@
         "name": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u4e00\u4e2a\u968f\u673a\u6280\u80fd",
         "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u4e00\u4e2a\u968f\u673a\u6280\u80fd",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 100,
         "valueList": [
             2801101,
@@ -29,6 +30,7 @@
             10,
             10
         ],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -37,6 +39,7 @@
         "name": "\u901a\u7528 \u7ed9\u81ea\u5df1\u4e00\u4e2a\u5c0f\u62db\u968f\u673a\u6280\u80fd\u7ecf\u9a8c",
         "describe": "\u901a\u7528 \u7ed9\u81ea\u5df1\u4e00\u4e2a\u5c0f\u62db\u968f\u673a\u6280\u80fd\u7ecf\u9a8c",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 101,
         "valueList": [
             1,
@@ -52,6 +55,7 @@
             20,
             10
         ],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -60,6 +64,7 @@
         "name": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u961f\u957f\u6280\u80fd\u589e\u52a0\u7ecf\u9a8c",
         "describe": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u961f\u957f\u6280\u80fd\u589e\u52a0\u7ecf\u9a8c",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 102,
         "valueList": [
             1,
@@ -75,6 +80,7 @@
             20,
             10
         ],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -83,6 +89,7 @@
         "name": "\u901a\u7528 \u83b7\u5f97\u4e00\u4e2a\u88c5\u5907",
         "describe": "\u901a\u7528 \u83b7\u5f97\u4e00\u4e2a\u88c5\u5907",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 300,
         "valueList": [
             100001,
@@ -116,6 +123,7 @@
             10,
             10
         ],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -124,9 +132,11 @@
         "name": "\u901a\u7528 \u590d\u5236\u88c5\u5907",
         "describe": "\u901a\u7528 \u968f\u673a\u590d\u5236\u4e00\u4e2a\u88c5\u5907\uff08\u81ea\u5df1\u548c\u961f\u53cb\u548c\u4ed3\u5e93\uff09\u653e\u5230\u4ed3\u5e93\u4e2d",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 301,
         "valueList": [],
         "weightList": [],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -135,6 +145,7 @@
         "name": "\u901a\u7528 \u968f\u673a\u7ed9\u82f1\u96c4",
         "describe": "\u901a\u7528 \u968f\u673a\u7ed9\u82f1\u96c4",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 400,
         "valueList": [
             1000003,
@@ -148,6 +159,7 @@
             10,
             10
         ],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -156,6 +168,7 @@
         "name": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u961f\u53cb\u83b7\u5f97\u4e00\u4e2a\u968f\u673a\u5c5e\u6027",
         "describe": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u961f\u53cb\u83b7\u5f97\u4e00\u4e2a\u968f\u673a\u5c5e\u6027",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 401,
         "valueList": [
             4000001,
@@ -187,6 +200,7 @@
             10,
             10
         ],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -195,6 +209,7 @@
         "name": "\u901a\u7528 \u6240\u6709\u961f\u53cb\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "describe": "\u901a\u7528 \u6240\u6709\u961f\u53cb\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 402,
         "valueList": [
             4000001,
@@ -226,6 +241,7 @@
             10,
             10
         ],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -234,6 +250,7 @@
         "name": "\u901a\u7528 \u968f\u673a\u7ed9\u4e00\u4e2a\u82f1\u96c4\u661f\u7ea7\u7ecf\u9a8c",
         "describe": "\u901a\u7528 \u968f\u673a\u7ed9\u4e00\u4e2a\u82f1\u96c4\u7ecf\u9a8c",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 403,
         "valueList": [
             1,
@@ -249,6 +266,7 @@
             20,
             10
         ],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -257,6 +275,7 @@
         "name": "\u901a\u7528 \u7ed9\u5168\u90e8\u82f1\u96c4\u661f\u7ea7\u7ecf\u9a8c",
         "describe": "\u901a\u7528 \u7ed9\u5168\u90e8\u82f1\u96c4\u7ecf\u9a8c",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 404,
         "valueList": [
             1,
@@ -272,6 +291,7 @@
             20,
             10
         ],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -280,9 +300,56 @@
         "name": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "iconResId": 15003751,
-        "type": 501,
-        "valueList": [],
-        "weightList": [],
+        "gainTimingType": 0,
+        "type": 500,
+        "valueList": [
+            4000001,
+            4000002,
+            4000003,
+            4000004,
+            4000005,
+            4000006,
+            4000007,
+            4000008,
+            4000009,
+            4000010,
+            4000011,
+            4000012,
+            4000015
+        ],
+        "weightList": [
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10,
+            10
+        ],
+        "maxGainTimesType": 0,
+        "count": 1,
+        "makeSureRewardOccasion": 1
+    },
+    {
+        "id": 500201,
+        "name": "\u901a\u7528 \u6bcf\u6b21\u51c6\u5907\u9636\u6bb5 \u81ea\u5df1\u83b7\u5f97 50% \u653b\u51fb\u529b\u5c5e\u6027",
+        "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
+        "iconResId": 15003751,
+        "gainTimingType": 1,
+        "type": 500,
+        "valueList": [
+            4000016
+        ],
+        "weightList": [
+            1
+        ],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -291,11 +358,13 @@
         "name": "\u901a\u7528 \u83b7\u5f97\u968f\u673a\u6218\u94f6",
         "describe": "\u901a\u7528 \u83b7\u5f97\u968f\u673a\u6218\u94f6",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 600,
         "valueList": [
             500
         ],
         "weightList": [],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -304,11 +373,13 @@
         "name": "\u901a\u7528 \u83b7\u5f97\u4eba\u53e3",
         "describe": "\u901a\u7528 \u83b7\u5f97\u4eba\u53e3",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 601,
         "valueList": [
             1
         ],
         "weightList": [],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -317,12 +388,14 @@
         "name": "\u901a\u7528 \u63d0\u5347\u6218\u94f6\u83b7\u5f97\u6548\u7387",
         "describe": "\u901a\u7528 \u63d0\u5347\u6218\u94f6\u83b7\u5f97\u6548\u7387",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 602,
         "valueList": [
             100,
             150
         ],
         "weightList": [],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -331,9 +404,11 @@
         "name": "\u901a\u7528 \u968f\u673a\u83b7\u5f97\u4e00\u4e2a\u5173\u5361\u6548\u679c",
         "describe": "\u901a\u7528 \u968f\u673a\u83b7\u5f97\u4e00\u4e2a\u5173\u5361\u6548\u679c",
         "iconResId": 15003751,
+        "gainTimingType": 0,
         "type": 700,
         "valueList": [],
         "weightList": [],
+        "maxGainTimesType": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     }
