@@ -850,6 +850,23 @@
         "isAddedAttrGroupContinuous": []
     },
     {
+        "id": 4001001,
+        "name": "\u5b9d\u7bb1\u5956\u52b1 buff \u589e\u4f24 50%",
+        "describe": "\u5b9d\u7bb1\u5956\u52b1 \u589e\u4f24 50%",
+        "addedAttrGroup": [
+            9
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                500,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
         "id": 101,
         "name": "\u6b8b\u8840\u7206\u53d1\u589e\u52a0\u653b\u51fblv1",
         "describe": "\u6b8b\u8840\u7206\u53d1\uff08\u88ab\u52a8\uff09lv1",

@@ -74,7 +74,7 @@
     {
         "id": 20001,
         "describe": "\u602a\u72691 \u8fd1\u6218",
-        "attack": 1,
+        "attack": 300,
         "defence": 10,
         "health": 2500,
         "magic": 0,

@@ -296,6 +296,36 @@
         "makeSureRewardOccasion": 1
     },
     {
+        "id": 400601,
+        "name": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u82f1\u96c4\u52a0\u4e00\u4e2a\u51cf\u4f24 buff 15\u79d2",
+        "describe": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u82f1\u96c4\u52a0\u4e00\u4e2a\u51cf\u4f24 buff 15\u79d2",
+        "iconResId": 15003751,
+        "gainTimingType": 0,
+        "type": 405,
+        "valueList": [],
+        "weightList": [],
+        "maxGainTimesType": 0,
+        "count": 1,
+        "makeSureRewardOccasion": 1
+    },
+    {
+        "id": 400701,
+        "name": "\u901a\u7528 \u6240\u6709\u82f1\u96c4\u52a0\u4e00\u4e2a\u589e\u4f24 buff 15\u79d2",
+        "describe": "\u901a\u7528 \u6240\u6709\u82f1\u96c4\u52a0\u4e00\u4e2a\u589e\u4f24 buff 15\u79d2",
+        "iconResId": 15003751,
+        "gainTimingType": 2,
+        "type": 406,
+        "valueList": [
+            14850101
+        ],
+        "weightList": [
+            100
+        ],
+        "maxGainTimesType": 0,
+        "count": 1,
+        "makeSureRewardOccasion": 1
+    },
+    {
         "id": 500101,
         "name": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
