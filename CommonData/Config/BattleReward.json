@@ -31,6 +31,7 @@
             10
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -56,6 +57,7 @@
             10
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -81,6 +83,7 @@
             10
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -124,6 +127,7 @@
             10
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -137,6 +141,7 @@
         "valueList": [],
         "weightList": [],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -160,6 +165,7 @@
             10
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -201,6 +207,7 @@
             10
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -242,6 +249,7 @@
             10
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -267,6 +275,7 @@
             10
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -292,6 +301,7 @@
             10
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -305,6 +315,7 @@
         "valueList": [],
         "weightList": [],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -322,6 +333,25 @@
             100
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
+        "count": 1,
+        "makeSureRewardOccasion": 1
+    },
+    {
+        "id": 400801,
+        "name": "\u901a\u7528 \u6240\u6709\u961f\u53cb\u83b7\u5f97\u751f\u547d\u5c5e\u6027\uff08\u5305\u542b\u540e\u6765\u7684\u65b0\u961f\u53cb\uff09",
+        "describe": "\u901a\u7528 \u6240\u6709\u961f\u53cb\u83b7\u5f97\u751f\u547d\u5c5e\u6027\uff08\u5305\u542b\u540e\u6765\u7684\u65b0\u961f\u53cb\uff09",
+        "iconResId": 15003751,
+        "gainTimingType": 0,
+        "type": 402,
+        "valueList": [
+            4000001
+        ],
+        "weightList": [
+            100
+        ],
+        "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 1,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -363,6 +393,7 @@
             10
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -380,6 +411,7 @@
             1
         ],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -395,6 +427,7 @@
         ],
         "weightList": [],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -410,6 +443,7 @@
         ],
         "weightList": [],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -426,6 +460,7 @@
         ],
         "weightList": [],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
@@ -439,6 +474,7 @@
         "valueList": [],
         "weightList": [],
         "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     }

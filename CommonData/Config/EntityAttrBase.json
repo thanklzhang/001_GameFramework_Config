@@ -20,7 +20,7 @@
     {
         "id": 10004,
         "describe": "\u591c\u9b42",
-        "attack": 60,
+        "attack": 100,
         "defence": 60,
         "health": 100000,
         "magic": 20,
@@ -38,7 +38,7 @@
     {
         "id": 10005,
         "describe": "\u8427\u7389",
-        "attack": 65,
+        "attack": 100,
         "defence": 45,
         "health": 100000,
         "magic": 20,
@@ -56,7 +56,7 @@
     {
         "id": 10006,
         "describe": "\u627f\u7075",
-        "attack": 300,
+        "attack": 100,
         "defence": 40,
         "health": 100000,
         "magic": 20,
