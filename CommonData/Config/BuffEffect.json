@@ -724,5 +724,38 @@
         "endRemoveEffectList": [],
         "effectResId": 15008017,
         "showType": 0
+    },
+    {
+        "id": 14850201,
+        "name": "\u6218\u6597\u5956\u52b1 buff \u589e\u52a0\u653b\u51fb\u529b 50%",
+        "describe": "\u6218\u6597\u5956\u52b1 buff \u589e\u52a0\u653b\u51fb\u529b 50%",
+        "iconResId": 15003107,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            1
+        ],
+        "lastTime": 9999999,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 0,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 4001002,
+        "endRemoveEffectList": [],
+        "effectResId": 15008017,
+        "showType": 0
     }
 ]

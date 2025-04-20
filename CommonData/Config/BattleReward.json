@@ -416,6 +416,24 @@
         "makeSureRewardOccasion": 1
     },
     {
+        "id": 500301,
+        "name": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97 50% \u653b\u51fb\u529b\u5c5e\u6027\u7684buff",
+        "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97 50% \u653b\u51fb\u529b\u5c5e\u6027\u7684buff",
+        "iconResId": 15003751,
+        "gainTimingType": 0,
+        "type": 501,
+        "valueList": [
+            14850201
+        ],
+        "weightList": [
+            1
+        ],
+        "maxGainTimesType": 0,
+        "applyToNewTeamMembers": 0,
+        "count": 1,
+        "makeSureRewardOccasion": 1
+    },
+    {
         "id": 600101,
         "name": "\u901a\u7528 \u83b7\u5f97\u968f\u673a\u6218\u94f6",
         "describe": "\u901a\u7528 \u83b7\u5f97\u968f\u673a\u6218\u94f6",
