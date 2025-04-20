@@ -1,498 +1,222 @@
 [
     {
-        "id": 100101,
+        "id": 10101,
         "name": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u4e00\u4e2a\u968f\u673a\u6280\u80fd",
         "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u4e00\u4e2a\u968f\u673a\u6280\u80fd",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 100,
-        "valueList": [
-            2801101,
-            2801201,
-            2801301,
-            2801401,
-            2801501,
-            2801701,
-            2801801,
-            2801901,
-            2802001,
-            2802101
+        "rewardEffectOptionIds": [
+            100101
         ],
-        "weightList": [
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 100201,
+        "id": 10201,
         "name": "\u901a\u7528 \u7ed9\u81ea\u5df1\u4e00\u4e2a\u5c0f\u62db\u968f\u673a\u6280\u80fd\u7ecf\u9a8c",
         "describe": "\u901a\u7528 \u7ed9\u81ea\u5df1\u4e00\u4e2a\u5c0f\u62db\u968f\u673a\u6280\u80fd\u7ecf\u9a8c",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 101,
-        "valueList": [
-            1,
-            2,
-            3,
-            4,
-            5
+        "rewardEffectOptionIds": [
+            100201
         ],
-        "weightList": [
-            100,
-            60,
-            30,
-            20,
-            10
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 100301,
+        "id": 10301,
         "name": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u961f\u957f\u6280\u80fd\u589e\u52a0\u7ecf\u9a8c",
         "describe": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u961f\u957f\u6280\u80fd\u589e\u52a0\u7ecf\u9a8c",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 102,
-        "valueList": [
-            1,
-            2,
-            3,
-            4,
-            5
+        "rewardEffectOptionIds": [
+            100301
         ],
-        "weightList": [
-            100,
-            60,
-            30,
-            20,
-            10
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 300101,
+        "id": 30101,
         "name": "\u901a\u7528 \u83b7\u5f97\u4e00\u4e2a\u88c5\u5907",
         "describe": "\u901a\u7528 \u83b7\u5f97\u4e00\u4e2a\u88c5\u5907",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 300,
-        "valueList": [
-            100001,
-            100002,
-            100003,
-            100004,
-            100005,
-            100006,
-            100007,
-            100008,
-            100009,
-            100010,
-            100011,
-            100012,
-            100013,
-            100014
+        "rewardEffectOptionIds": [
+            300101
         ],
-        "weightList": [
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 300201,
+        "id": 30201,
         "name": "\u901a\u7528 \u590d\u5236\u88c5\u5907",
         "describe": "\u901a\u7528 \u968f\u673a\u590d\u5236\u4e00\u4e2a\u88c5\u5907\uff08\u81ea\u5df1\u548c\u961f\u53cb\u548c\u4ed3\u5e93\uff09\u653e\u5230\u4ed3\u5e93\u4e2d",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 301,
-        "valueList": [],
-        "weightList": [],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
+        "rewardEffectOptionIds": [
+            300201
+        ],
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 400101,
+        "id": 40101,
         "name": "\u901a\u7528 \u968f\u673a\u7ed9\u82f1\u96c4",
         "describe": "\u901a\u7528 \u968f\u673a\u7ed9\u82f1\u96c4",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 400,
-        "valueList": [
-            1000003,
-            1000004,
-            1000005,
-            1000006
+        "rewardEffectOptionIds": [
+            400101
         ],
-        "weightList": [
-            10,
-            10,
-            10,
-            10
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 400201,
+        "id": 40201,
         "name": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u961f\u53cb\u83b7\u5f97\u4e00\u4e2a\u968f\u673a\u5c5e\u6027",
         "describe": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u961f\u53cb\u83b7\u5f97\u4e00\u4e2a\u968f\u673a\u5c5e\u6027",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 401,
-        "valueList": [
-            4000001,
-            4000002,
-            4000003,
-            4000004,
-            4000005,
-            4000006,
-            4000007,
-            4000008,
-            4000009,
-            4000010,
-            4000011,
-            4000012,
-            4000015
+        "rewardEffectOptionIds": [
+            400201
         ],
-        "weightList": [
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 400301,
+        "id": 40301,
         "name": "\u901a\u7528 \u6240\u6709\u961f\u53cb\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "describe": "\u901a\u7528 \u6240\u6709\u961f\u53cb\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 402,
-        "valueList": [
-            4000001,
-            4000002,
-            4000003,
-            4000004,
-            4000005,
-            4000006,
-            4000007,
-            4000008,
-            4000009,
-            4000010,
-            4000011,
-            4000012,
-            4000015
+        "rewardEffectOptionIds": [
+            400301
         ],
-        "weightList": [
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 400401,
+        "id": 40401,
         "name": "\u901a\u7528 \u968f\u673a\u7ed9\u4e00\u4e2a\u82f1\u96c4\u661f\u7ea7\u7ecf\u9a8c",
         "describe": "\u901a\u7528 \u968f\u673a\u7ed9\u4e00\u4e2a\u82f1\u96c4\u7ecf\u9a8c",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 403,
-        "valueList": [
-            1,
-            2,
-            3,
-            4,
-            5
+        "rewardEffectOptionIds": [
+            400401
         ],
-        "weightList": [
-            100,
-            60,
-            30,
-            20,
-            10
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 400501,
+        "id": 40501,
         "name": "\u901a\u7528 \u7ed9\u5168\u90e8\u82f1\u96c4\u661f\u7ea7\u7ecf\u9a8c",
         "describe": "\u901a\u7528 \u7ed9\u5168\u90e8\u82f1\u96c4\u7ecf\u9a8c",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 404,
-        "valueList": [
-            1,
-            2,
-            3,
-            4,
-            5
+        "rewardEffectOptionIds": [
+            400501
         ],
-        "weightList": [
-            100,
-            60,
-            30,
-            20,
-            10
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 400601,
+        "id": 40601,
         "name": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u82f1\u96c4\u52a0\u4e00\u4e2a\u51cf\u4f24 buff 15\u79d2",
         "describe": "\u901a\u7528 \u968f\u673a\u4e00\u4e2a\u82f1\u96c4\u52a0\u4e00\u4e2a\u51cf\u4f24 buff 15\u79d2",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 405,
-        "valueList": [],
-        "weightList": [],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
+        "rewardEffectOptionIds": [
+            400601
+        ],
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 400701,
+        "id": 40701,
         "name": "\u901a\u7528 \u6240\u6709\u82f1\u96c4\u52a0\u4e00\u4e2a\u589e\u4f24 buff 15\u79d2",
         "describe": "\u901a\u7528 \u6240\u6709\u82f1\u96c4\u52a0\u4e00\u4e2a\u589e\u4f24 buff 15\u79d2",
         "iconResId": 15003751,
-        "gainTimingType": 2,
-        "type": 406,
-        "valueList": [
-            14850101
+        "rewardEffectOptionIds": [
+            400701
         ],
-        "weightList": [
-            100
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 400801,
+        "id": 40801,
         "name": "\u901a\u7528 \u6240\u6709\u961f\u53cb\u83b7\u5f97\u751f\u547d\u5c5e\u6027\uff08\u5305\u542b\u540e\u6765\u7684\u65b0\u961f\u53cb\uff09",
         "describe": "\u901a\u7528 \u6240\u6709\u961f\u53cb\u83b7\u5f97\u751f\u547d\u5c5e\u6027\uff08\u5305\u542b\u540e\u6765\u7684\u65b0\u961f\u53cb\uff09",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 402,
-        "valueList": [
-            4000001
+        "rewardEffectOptionIds": [
+            400801
         ],
-        "weightList": [
-            100
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 1,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 500101,
+        "id": 50101,
         "name": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 500,
-        "valueList": [
-            4000001,
-            4000002,
-            4000003,
-            4000004,
-            4000005,
-            4000006,
-            4000007,
-            4000008,
-            4000009,
-            4000010,
-            4000011,
-            4000012,
-            4000015
+        "rewardEffectOptionIds": [
+            500101
         ],
-        "weightList": [
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10,
-            10
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 500201,
+        "id": 50201,
         "name": "\u901a\u7528 \u6bcf\u6b21\u51c6\u5907\u9636\u6bb5 \u81ea\u5df1\u83b7\u5f97 50% \u653b\u51fb\u529b\u5c5e\u6027",
         "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97\u968f\u673a\u5c5e\u6027",
         "iconResId": 15003751,
-        "gainTimingType": 1,
-        "type": 500,
-        "valueList": [
-            4000016
+        "rewardEffectOptionIds": [
+            500201
         ],
-        "weightList": [
-            1
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 500301,
+        "id": 50301,
         "name": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97 50% \u653b\u51fb\u529b\u5c5e\u6027\u7684buff",
         "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f97 50% \u653b\u51fb\u529b\u5c5e\u6027\u7684buff",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 501,
-        "valueList": [
-            14850201
+        "rewardEffectOptionIds": [
+            500301
         ],
-        "weightList": [
-            1
-        ],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 600101,
+        "id": 60101,
         "name": "\u901a\u7528 \u83b7\u5f97\u968f\u673a\u6218\u94f6",
         "describe": "\u901a\u7528 \u83b7\u5f97\u968f\u673a\u6218\u94f6",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 600,
-        "valueList": [
-            500
+        "rewardEffectOptionIds": [
+            600101
         ],
-        "weightList": [],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 600201,
+        "id": 60201,
         "name": "\u901a\u7528 \u83b7\u5f97\u4eba\u53e3",
         "describe": "\u901a\u7528 \u83b7\u5f97\u4eba\u53e3",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 601,
-        "valueList": [
-            1
+        "rewardEffectOptionIds": [
+            600201
         ],
-        "weightList": [],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 600301,
+        "id": 60301,
         "name": "\u901a\u7528 \u63d0\u5347\u6218\u94f6\u83b7\u5f97\u6548\u7387",
         "describe": "\u901a\u7528 \u63d0\u5347\u6218\u94f6\u83b7\u5f97\u6548\u7387",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 602,
-        "valueList": [
-            100,
-            150
+        "rewardEffectOptionIds": [
+            600301
         ],
-        "weightList": [],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
         "count": 1,
         "makeSureRewardOccasion": 1
     },
     {
-        "id": 700101,
-        "name": "\u901a\u7528 \u968f\u673a\u83b7\u5f97\u4e00\u4e2a\u5173\u5361\u6548\u679c",
-        "describe": "\u901a\u7528 \u968f\u673a\u83b7\u5f97\u4e00\u4e2a\u5173\u5361\u6548\u679c",
+        "id": 1000101,
+        "name": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f9750%\u653b\u51fb\u529b\u7684buff \uff0c \u83b7\u5f97\u968f\u673a\u6218\u94f6",
+        "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f9750%\u653b\u51fb\u529b \uff0c \u83b7\u5f97\u968f\u673a\u6218\u94f6",
         "iconResId": 15003751,
-        "gainTimingType": 0,
-        "type": 700,
-        "valueList": [],
-        "weightList": [],
-        "maxGainTimesType": 0,
-        "applyToNewTeamMembers": 0,
+        "rewardEffectOptionIds": [
+            500301,
+            600101
+        ],
         "count": 1,
         "makeSureRewardOccasion": 1
     }
