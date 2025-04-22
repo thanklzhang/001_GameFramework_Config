@@ -209,6 +209,17 @@
         "makeSureRewardOccasion": 1
     },
     {
+        "id": 70101,
+        "name": "\u901a\u7528 \u602a\u7269\u589e\u52a0\u5c5e\u6027 1 \u56de\u5408\uff08\u653b\u51fb\u589e\u5f3a\uff09",
+        "describe": "\u901a\u7528 \u602a\u7269\u589e\u52a0\u5c5e\u6027 1 \u56de\u5408\uff08\u653b\u51fb\u589e\u5f3a\uff09",
+        "iconResId": 15003751,
+        "rewardEffectOptionIds": [
+            700101
+        ],
+        "count": 0,
+        "makeSureRewardOccasion": 0
+    },
+    {
         "id": 1000101,
         "name": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f9750%\u653b\u51fb\u529b\u7684buff \uff0c \u83b7\u5f97\u968f\u673a\u6218\u94f6",
         "describe": "\u901a\u7528 \u81ea\u5df1\u83b7\u5f9750%\u653b\u51fb\u529b \uff0c \u83b7\u5f97\u968f\u673a\u6218\u94f6",
