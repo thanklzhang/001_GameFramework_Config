@@ -128,6 +128,69 @@
         "effectResId": 0
     },
     {
+        "id": 13101101,
+        "name": "\u602a\u7269 \u6280\u80fd \u9009\u62e9 3 \u8fde\u51fb\u533a\u57df\u4f24\u5bb3",
+        "describe": "\u602a\u7269 \u6280\u80fd \u9009\u62e9 3 \u8fde\u51fb\u533a\u57df\u4f24\u5bb3",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 20,
+        "startPosShiftDistance": 1500,
+        "rangeParam": [
+            1500
+        ],
+        "entityRelationFilterType": 0,
+        "filterEntityType": 0,
+        "excludeEntityType": 0,
+        "randSelectCount": 0,
+        "effectList": [
+            4102101
+        ],
+        "groupEffectList": [],
+        "effectResId": 0
+    },
+    {
+        "id": 13101201,
+        "name": "\u602a\u7269 \u6280\u80fd \u9009\u62e9 3 \u8fde\u51fb\u533a\u57df\u4f24\u5bb3",
+        "describe": "\u602a\u7269 \u6280\u80fd \u9009\u62e9 3 \u8fde\u51fb\u533a\u57df\u4f24\u5bb3",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 20,
+        "startPosShiftDistance": 3200,
+        "rangeParam": [
+            1500
+        ],
+        "entityRelationFilterType": 0,
+        "filterEntityType": 0,
+        "excludeEntityType": 0,
+        "randSelectCount": 0,
+        "effectList": [
+            4102101
+        ],
+        "groupEffectList": [],
+        "effectResId": 0
+    },
+    {
+        "id": 13101301,
+        "name": "\u602a\u7269 \u6280\u80fd \u9009\u62e9 3 \u8fde\u51fb\u533a\u57df\u4f24\u5bb3",
+        "describe": "\u602a\u7269 \u6280\u80fd \u9009\u62e9 3 \u8fde\u51fb\u533a\u57df\u4f24\u5bb3",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 20,
+        "startPosShiftDistance": 5000,
+        "rangeParam": [
+            1500
+        ],
+        "entityRelationFilterType": 0,
+        "filterEntityType": 0,
+        "excludeEntityType": 0,
+        "randSelectCount": 0,
+        "effectList": [
+            4102101
+        ],
+        "groupEffectList": [],
+        "effectResId": 0
+    },
+    {
         "id": 13501101,
         "name": "\u627f\u7075\u5927\u62db\u53ec\u5524\u7269\u7684\u653b\u51fb\u88ab\u52a8\u533a\u57df\u9009\u62e9",
         "describe": "\u627f\u7075\u5927\u62db\u53ec\u5524\u7269\u7684\u653b\u51fb\u88ab\u52a8\u533a\u57df\u9009\u62e9",
