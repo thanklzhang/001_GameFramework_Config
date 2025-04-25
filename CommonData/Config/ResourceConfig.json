@@ -1647,6 +1647,15 @@
         "tag": ""
     },
     {
+        "id": 15008203,
+        "name": "eft_skill_track_003",
+        "des": "",
+        "path": "Effects/Prefabs",
+        "ext": "prefab",
+        "type": 4,
+        "tag": ""
+    },
+    {
         "id": 15010001,
         "name": "battle_scene_001",
         "des": "",

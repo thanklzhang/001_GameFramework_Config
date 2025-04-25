@@ -563,7 +563,7 @@
         ],
         "effectListOnGain": [],
         "releaseRange": 5000,
-        "beforeTime": 180,
+        "beforeTime": 1000,
         "afterTime": 100,
         "cdTime": 1000,
         "isNoBreak": 0,
@@ -571,7 +571,9 @@
         "animationTriggerName": "",
         "releaserEffectResId": 0,
         "skillDirectionId": 2003101,
-        "skillTrackList": [],
+        "skillTrackList": [
+            2500201
+        ],
         "tagList": []
     },
     {
