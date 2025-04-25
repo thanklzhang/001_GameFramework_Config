@@ -8,7 +8,8 @@
             100101
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 10201,
@@ -19,7 +20,8 @@
             100201
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 10301,
@@ -30,7 +32,8 @@
             100301
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 30101,
@@ -41,7 +44,8 @@
             300101
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 30201,
@@ -52,7 +56,8 @@
             300201
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 40101,
@@ -63,7 +68,8 @@
             400101
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 40201,
@@ -74,7 +80,8 @@
             400201
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 40301,
@@ -85,7 +92,8 @@
             400301
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 40401,
@@ -96,7 +104,8 @@
             400401
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 40501,
@@ -107,7 +116,8 @@
             400501
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 40601,
@@ -118,7 +128,8 @@
             400601
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 40701,
@@ -129,7 +140,8 @@
             400701
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 40801,
@@ -140,7 +152,8 @@
             400801
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 50101,
@@ -151,7 +164,8 @@
             500101
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 50201,
@@ -162,7 +176,8 @@
             500201
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 50301,
@@ -173,7 +188,8 @@
             500301
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 60101,
@@ -184,7 +200,8 @@
             600101
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 60201,
@@ -195,7 +212,8 @@
             600201
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 60301,
@@ -206,7 +224,8 @@
             600301
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 0
     },
     {
         "id": 70101,
@@ -217,7 +236,8 @@
             700101
         ],
         "count": 0,
-        "makeSureRewardOccasion": 0
+        "makeSureRewardOccasion": 0,
+        "maxAcquireCount": 0
     },
     {
         "id": 1000101,
@@ -229,6 +249,7 @@
             600101
         ],
         "count": 1,
-        "makeSureRewardOccasion": 1
+        "makeSureRewardOccasion": 1,
+        "maxAcquireCount": 1
     }
 ]
