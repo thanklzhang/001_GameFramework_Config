@@ -399,6 +399,25 @@
         "isForShow": 0
     },
     {
+        "id": 4103101,
+        "name": "\u602a\u7269\u62c9\u4eba\u4f24\u5bb3\u6548\u679c\u8ba1\u7b97",
+        "describe": "\u602a\u7269\u62c9\u4eba\u4f24\u5bb3\u6548\u679c\u8ba1\u7b97",
+        "calculateEffectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                2000,
+                1
+            ]
+        ],
+        "finalEffectType": 1,
+        "effectResId": 15008028,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
         "id": 4501101,
         "name": "\u627f\u7075 q \u53ec\u5524\u7269 \u666e\u901a\u653b\u51fb\u6548\u679c\u8ba1\u7b97",
         "describe": "\u627f\u7075 q \u53ec\u5524\u7269 \u666e\u901a\u653b\u51fb\u6548\u679c\u8ba1\u7b97",

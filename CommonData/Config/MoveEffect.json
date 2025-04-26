@@ -35,6 +35,25 @@
         "effectResId": 15008009
     },
     {
+        "id": 16101101,
+        "name": "\u602a\u7269 \u62c9\u4eba \u4f4d\u79fb",
+        "describe": "\u602a\u7269 \u62c9\u4eba \u4f4d\u79fb",
+        "moveSpeed": 20000,
+        "moveTargetPosType": 0,
+        "moveProcessType": 0,
+        "endPosType": 5,
+        "lastTime": 99999999,
+        "startEffectList": [
+            14101101
+        ],
+        "reachEffectList": [
+            4103101
+        ],
+        "endRemoveEffectList": [],
+        "isThisEndForSkillEnd": 0,
+        "effectResId": 15008009
+    },
+    {
         "id": 16801101,
         "name": "\u968f\u673a\u6280\u80fd \u77ac\u95f4\u4f4d\u79fb",
         "describe": "\u968f\u673a\u6280\u80fd \u77ac\u95f4\u4f4d\u79fb",
