@@ -8,7 +8,7 @@
         "intervalTime": 1000,
         "triggerCount": 1,
         "entityConfigId": 1000101,
-        "entityCount": 5,
+        "entityCount": 1,
         "posType": 0
     },
     {
@@ -20,7 +20,7 @@
         "intervalTime": 2000,
         "triggerCount": 1,
         "entityConfigId": 1000101,
-        "entityCount": 5,
+        "entityCount": 1,
         "posType": 0
     },
     {
