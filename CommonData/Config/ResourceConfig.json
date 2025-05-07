@@ -1773,6 +1773,15 @@
         "tag": ""
     },
     {
+        "id": 15011036,
+        "name": "role_006",
+        "des": "",
+        "path": "Models/Role/Prefabs",
+        "ext": "prefab",
+        "type": 6,
+        "tag": ""
+    },
+    {
         "id": 15011101,
         "name": "monster_001",
         "des": "",
