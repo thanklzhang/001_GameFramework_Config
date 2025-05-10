@@ -34,7 +34,7 @@
         "entityRelationFilterType": 0,
         "filterEntityType": 0,
         "excludeEntityType": 0,
-        "randSelectCount": 0,
+        "randSelectCount": 4,
         "effectList": [
             3003301
         ],

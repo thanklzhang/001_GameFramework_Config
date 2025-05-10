@@ -85,6 +85,31 @@
         "isForShow": 0
     },
     {
+        "id": 4002301,
+        "name": "\u51e4\u7d2b\u5915\u5927\u62db\u6d41\u8840\u6548\u679c\u8ba1\u7b97",
+        "describe": "\u51e4\u7d2b\u5915\u5927\u62db\u6d41\u8840\u6548\u679c\u8ba1\u7b97",
+        "calculateEffectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                150,
+                0
+            ],
+            [
+                3,
+                5,
+                1
+            ]
+        ],
+        "addedValueScaleEffectIds": [],
+        "finalEffectType": 1,
+        "effectResId": 15008027,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
         "id": 4003101,
         "name": "\u5510\u4f9d\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
         "describe": "\u5510\u4f9d\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",

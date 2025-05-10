@@ -32,6 +32,22 @@
         "triggerEffectResId": 0
     },
     {
+        "id": 18002101,
+        "name": "\u51e4\u7d2b\u5915 \u5927\u62db\u666e\u901a\u51fb\u4e2d\u65f6\u589e\u52a0 \u6d41\u8840buff",
+        "describe": "\u51e4\u7d2b\u5915 \u5927\u62db\u666e\u901a\u51fb\u4e2d\u65f6\u589e\u52a0 \u6d41\u8840buff",
+        "triggerTimeType": 3,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 1,
+        "triggerEffectList": [
+            14002301
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
         "id": 18003101,
         "name": "\u5510\u4f9d \u666e\u901a\u51fb\u4e2d\u65f6\u589e\u52a0\u79fb\u901fbuff",
         "describe": "\u5510\u4f9d \u666e\u901a\u51fb\u4e2d\u65f6\u589e\u52a0\u79fb\u901fbuff",
