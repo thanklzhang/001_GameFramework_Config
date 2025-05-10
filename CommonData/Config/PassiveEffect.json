@@ -1,5 +1,37 @@
 [
     {
+        "id": 18001101,
+        "name": "\u9690\u58a8 \u653b\u51fb\u52a0\u62a4\u7532",
+        "describe": "\u9690\u58a8 \u653b\u51fb\u52a0\u62a4\u7532",
+        "triggerTimeType": 3,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [
+            14001101
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18001201,
+        "name": "\u9690\u58a8\u5927\u62db \u7fa4\u653b",
+        "describe": "\u9690\u58a8\u5927\u62db \u7fa4\u653b",
+        "triggerTimeType": 3,
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 1,
+        "triggerEffectList": [
+            13001101
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
         "id": 18003101,
         "name": "\u5510\u4f9d \u666e\u901a\u51fb\u4e2d\u65f6\u589e\u52a0\u79fb\u901fbuff",
         "describe": "\u5510\u4f9d \u666e\u901a\u51fb\u4e2d\u65f6\u589e\u52a0\u79fb\u901fbuff",

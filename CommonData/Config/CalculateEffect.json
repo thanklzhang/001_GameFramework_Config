@@ -1,5 +1,90 @@
 [
     {
+        "id": 4001101,
+        "name": "\u9690\u58a8\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
+        "describe": "\u9690\u58a8\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
+        "calculateEffectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                1000,
+                0
+            ]
+        ],
+        "addedValueScaleEffectIds": [],
+        "finalEffectType": 1,
+        "effectResId": 15008027,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4001201,
+        "name": "\u9690\u58a8 q \u6280\u80fd\u7a7f\u523a\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
+        "describe": "\u9690\u58a8 q \u6280\u80fd\u7a7f\u523a\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
+        "calculateEffectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                1500,
+                0
+            ]
+        ],
+        "addedValueScaleEffectIds": [],
+        "finalEffectType": 1,
+        "effectResId": 15008027,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4002101,
+        "name": "\u51e4\u7d2b\u5915\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
+        "describe": "\u51e4\u7d2b\u5915\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
+        "calculateEffectTargetType": 0,
+        "addedValueGroup": [
+            [
+                1,
+                1000,
+                0
+            ]
+        ],
+        "addedValueScaleEffectIds": [],
+        "finalEffectType": 1,
+        "effectResId": 15008027,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
+        "id": 4002201,
+        "name": "\u51e4\u7d2b\u5915 q \u6280\u80fd\u88ab\u52a8 \u6b8b\u8840\u52a0\u666e\u901a\u653b\u51fb\u4f24\u5bb3\uff08\u53ea\u8ba1\u7b97\uff09",
+        "describe": "\u51e4\u7d2b\u5915 q \u6280\u80fd\u88ab\u52a8 \u6b8b\u8840\u52a0\u666e\u901a\u653b\u51fb\u4f24\u5bb3\uff08\u53ea\u8ba1\u7b97\uff09",
+        "calculateEffectTargetType": 1,
+        "addedValueGroup": [
+            [
+                1,
+                1000,
+                0
+            ],
+            [
+                30,
+                1,
+                1
+            ]
+        ],
+        "addedValueScaleEffectIds": [],
+        "finalEffectType": 1,
+        "effectResId": 15008027,
+        "effectPosType": 0,
+        "isEffectFollowTarget": 1,
+        "effectPosName": "hit_pos",
+        "isForShow": 0
+    },
+    {
         "id": 4003101,
         "name": "\u5510\u4f9d\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
         "describe": "\u5510\u4f9d\u666e\u901a\u653b\u51fb\u6295\u63b7\u7269\u6548\u679c\u8ba1\u7b97",
@@ -8,9 +93,10 @@
             [
                 1,
                 1000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -27,9 +113,10 @@
             [
                 1,
                 1200,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -46,9 +133,10 @@
             [
                 1,
                 1000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -65,9 +153,10 @@
             [
                 1,
                 1000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -84,9 +173,10 @@
             [
                 4,
                 1000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -103,9 +193,10 @@
             [
                 4,
                 1500,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -122,9 +213,10 @@
             [
                 4,
                 2000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -141,9 +233,10 @@
             [
                 1,
                 1000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -160,9 +253,10 @@
             [
                 1,
                 -750,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -179,9 +273,10 @@
             [
                 1,
                 500,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -198,9 +293,10 @@
             [
                 1,
                 1500,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -217,9 +313,10 @@
             [
                 1,
                 2500,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -236,9 +333,10 @@
             [
                 1,
                 3500,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -255,9 +353,10 @@
             [
                 1,
                 4500,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -274,9 +373,10 @@
             [
                 1,
                 -200,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -293,9 +393,10 @@
             [
                 1,
                 2000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008027,
         "effectPosType": 0,
@@ -312,9 +413,10 @@
             [
                 1,
                 1000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -331,9 +433,10 @@
             [
                 20,
                 -10,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -350,9 +453,10 @@
             [
                 20,
                 -20,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -369,9 +473,10 @@
             [
                 1,
                 1000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -388,9 +493,10 @@
             [
                 1,
                 2000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -407,9 +513,10 @@
             [
                 1,
                 2000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -426,9 +533,10 @@
             [
                 1,
                 1000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -445,9 +553,10 @@
             [
                 1,
                 1000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -464,9 +573,10 @@
             [
                 1,
                 1500,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -483,9 +593,10 @@
             [
                 20,
                 500,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -502,9 +613,10 @@
             [
                 1,
                 10000,
-                1
+                5
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -521,9 +633,10 @@
             [
                 1,
                 1500,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,
@@ -540,9 +653,10 @@
             [
                 4,
                 1000,
-                1
+                0
             ]
         ],
+        "addedValueScaleEffectIds": [],
         "finalEffectType": 1,
         "effectResId": 15008028,
         "effectPosType": 0,

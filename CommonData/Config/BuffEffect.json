@@ -1,5 +1,105 @@
 [
     {
+        "id": 14001101,
+        "name": "\u9690\u58a8\u653b\u51fb\u52a0\u62a4\u7532 buff",
+        "describe": "\u9690\u58a8\u653b\u51fb\u52a0\u62a4\u7532 buff",
+        "iconResId": 15003107,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            2
+        ],
+        "lastTime": 5000,
+        "isCanBeClear": 1,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 5,
+        "addLayerType": 1,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 1001101,
+        "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
+        "effectResId": 15008025,
+        "showType": 0
+    },
+    {
+        "id": 14001201,
+        "name": "\u9690\u58a8\u5927\u62db buff",
+        "describe": "\u9690\u58a8\u5927\u62db buff",
+        "iconResId": 15003107,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            1
+        ],
+        "lastTime": 10000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [],
+        "startEffectList": [
+            18001201
+        ],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 1001201,
+        "endRemoveEffectList": [
+            18001201
+        ],
+        "normalAttackAddedEffectIds": [],
+        "effectResId": 15008017,
+        "showType": 0
+    },
+    {
+        "id": 14002101,
+        "name": "\u51e4\u7d2b\u5915\u88ab\u52a8buff \u589e\u52a0\u666e\u901a\u4f24\u5bb3",
+        "describe": "\u51e4\u7d2b\u5915\u88ab\u52a8buff \u589e\u52a0\u666e\u901a\u4f24\u5bb3",
+        "iconResId": 15003107,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            1
+        ],
+        "lastTime": 999999999,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 0,
+        "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [
+            4002201
+        ],
+        "effectResId": 15008017,
+        "showType": 0
+    },
+    {
         "id": 14003101,
         "name": "\u5510\u4f9d\u653b\u51fb\u547d\u4e2d\u589e\u52a0\u79fb\u901f\u7684 buff",
         "describe": "\u5510\u4f9d\u653b\u51fb\u547d\u4e2d\u589e\u52a0\u79fb\u901f\u7684 buff",
@@ -29,6 +129,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1003101,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008025,
         "showType": 0
     },
@@ -66,6 +167,7 @@
         "endRemoveEffectList": [
             18003201
         ],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
     },
@@ -103,6 +205,7 @@
         "endRemoveEffectList": [
             18003301
         ],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
     },
@@ -136,6 +239,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1004101,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 0,
         "showType": 0
     },
@@ -171,6 +275,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 0,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008025,
         "showType": 0
     },
@@ -204,6 +309,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1004201,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008025,
         "showType": 0
     },
@@ -239,6 +345,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 0,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008025,
         "showType": 0
     },
@@ -272,6 +379,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 0,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008015,
         "showType": 0
     },
@@ -305,6 +413,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1004301,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008025,
         "showType": 0
     },
@@ -338,6 +447,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1004201,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008025,
         "showType": 0
     },
@@ -371,6 +481,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1006101,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 0,
         "showType": 0
     },
@@ -404,6 +515,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1006201,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 0,
         "showType": 0
     },
@@ -437,6 +549,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 0,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008015,
         "showType": 0
     },
@@ -470,6 +583,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1501101,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008025,
         "showType": 0
     },
@@ -503,6 +617,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1801101,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008025,
         "showType": 0
     },
@@ -536,6 +651,7 @@
         "endRemoveEffectList": [
             18801101
         ],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
     },
@@ -563,6 +679,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1801201,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
     },
@@ -592,6 +709,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1801301,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
     },
@@ -621,6 +739,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 1801401,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
     },
@@ -656,6 +775,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 0,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008015,
         "showType": 0
     },
@@ -689,6 +809,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 3000013,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
     },
@@ -722,6 +843,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 3000016,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
     },
@@ -755,6 +877,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 4001001,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
     },
@@ -788,6 +911,7 @@
         "endEffectList": [],
         "attrGroupConfigId": 4001002,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
     }

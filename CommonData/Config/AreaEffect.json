@@ -1,5 +1,26 @@
 [
     {
+        "id": 13001101,
+        "name": "\u9690\u58a8\u5927\u62db\u7fa4\u653b\u533a\u57df\u9009\u62e9",
+        "describe": "\u9690\u58a8\u5927\u62db\u7fa4\u653b\u533a\u57df\u9009\u62e9",
+        "areaType": 0,
+        "startPosType": 0,
+        "startPosShiftDirType": 0,
+        "startPosShiftDistance": 0,
+        "rangeParam": [
+            5000
+        ],
+        "entityRelationFilterType": 0,
+        "filterEntityType": 0,
+        "excludeEntityType": 1,
+        "randSelectCount": 0,
+        "effectList": [
+            3001101
+        ],
+        "groupEffectList": [],
+        "effectResId": 0
+    },
+    {
         "id": 13003101,
         "name": "\u5510\u4f9d\u5927\u62db\u7fa4\u653b\u533a\u57df\u9009\u62e9",
         "describe": "\u5510\u4f9d\u5927\u62db\u7fa4\u653b\u533a\u57df\u9009\u62e9",

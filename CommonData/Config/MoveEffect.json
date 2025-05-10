@@ -1,5 +1,20 @@
 [
     {
+        "id": 16002101,
+        "name": "\u51e4\u7d2b\u5915 \u77ac\u95f4\u4f4d\u79fb",
+        "describe": "\u51e4\u7d2b\u5915 \u77ac\u95f4\u4f4d\u79fb",
+        "moveSpeed": 10000,
+        "moveTargetPosType": 0,
+        "moveProcessType": 1,
+        "endPosType": 1,
+        "lastTime": 320,
+        "startEffectList": [],
+        "reachEffectList": [],
+        "endRemoveEffectList": [],
+        "isThisEndForSkillEnd": 0,
+        "effectResId": 15008009
+    },
+    {
         "id": 16003101,
         "name": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",
         "describe": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",

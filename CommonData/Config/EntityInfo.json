@@ -1,5 +1,65 @@
 [
     {
+        "id": 1000001,
+        "name": "\u9690\u58a8",
+        "describe": "\u9690\u58a8",
+        "type": 0,
+        "modelId": 15011031,
+        "baseAttrId": 10001,
+        "levelAttrId": 1,
+        "starAttrId": 1,
+        "skillIds": [
+            2001101,
+            2001201
+        ],
+        "ultimateSkillId": 2001301,
+        "level": 1,
+        "quality": 0,
+        "star": 1,
+        "skillLevels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "aiScript": "BaseAI",
+        "isBoss": 0,
+        "avatarResId": 15003503,
+        "allBodyResId": 15003603
+    },
+    {
+        "id": 1000002,
+        "name": "\u51e4\u7d2b\u5915",
+        "describe": "\u51e4\u7d2b\u5915",
+        "type": 0,
+        "modelId": 15011032,
+        "baseAttrId": 10002,
+        "levelAttrId": 1,
+        "starAttrId": 1,
+        "skillIds": [
+            2002101,
+            2002201
+        ],
+        "ultimateSkillId": 0,
+        "level": 1,
+        "quality": 0,
+        "star": 1,
+        "skillLevels": [
+            1,
+            1,
+            1,
+            1,
+            1,
+            1
+        ],
+        "aiScript": "BaseAI",
+        "isBoss": 0,
+        "avatarResId": 15003503,
+        "allBodyResId": 15003603
+    },
+    {
         "id": 1000003,
         "name": "\u5510\u4f9d",
         "describe": "\u5510\u4f9d",
