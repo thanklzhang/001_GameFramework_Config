@@ -32,6 +32,74 @@
         "effectResId": 15008009
     },
     {
+        "id": 16003102,
+        "name": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",
+        "describe": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",
+        "moveSpeed": 10000,
+        "moveTargetPosType": 0,
+        "moveProcessType": 0,
+        "endPosType": 4,
+        "lastTime": 320,
+        "startEffectList": [
+            14003202
+        ],
+        "reachEffectList": [],
+        "endRemoveEffectList": [],
+        "isThisEndForSkillEnd": 1,
+        "effectResId": 15008009
+    },
+    {
+        "id": 16003103,
+        "name": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",
+        "describe": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",
+        "moveSpeed": 10000,
+        "moveTargetPosType": 0,
+        "moveProcessType": 0,
+        "endPosType": 4,
+        "lastTime": 320,
+        "startEffectList": [
+            14003203
+        ],
+        "reachEffectList": [],
+        "endRemoveEffectList": [],
+        "isThisEndForSkillEnd": 1,
+        "effectResId": 15008009
+    },
+    {
+        "id": 16003104,
+        "name": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",
+        "describe": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",
+        "moveSpeed": 10000,
+        "moveTargetPosType": 0,
+        "moveProcessType": 0,
+        "endPosType": 4,
+        "lastTime": 320,
+        "startEffectList": [
+            14003204
+        ],
+        "reachEffectList": [],
+        "endRemoveEffectList": [],
+        "isThisEndForSkillEnd": 1,
+        "effectResId": 15008009
+    },
+    {
+        "id": 16003105,
+        "name": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",
+        "describe": "\u5510\u4f9d \u6280\u80fd1 \u4f4d\u79fb",
+        "moveSpeed": 10000,
+        "moveTargetPosType": 0,
+        "moveProcessType": 0,
+        "endPosType": 4,
+        "lastTime": 320,
+        "startEffectList": [
+            14003205
+        ],
+        "reachEffectList": [],
+        "endRemoveEffectList": [],
+        "isThisEndForSkillEnd": 1,
+        "effectResId": 15008009
+    },
+    {
         "id": 16004101,
         "name": "\u591c\u9b42 \u5927\u62db \u4f4d\u79fb",
         "describe": "\u591c\u9b42 \u5927\u62db \u4f4d\u79fb",
