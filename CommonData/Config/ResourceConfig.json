@@ -1782,6 +1782,24 @@
         "tag": ""
     },
     {
+        "id": 15011037,
+        "name": "role_007",
+        "des": "",
+        "path": "Models/Role/Prefabs",
+        "ext": "prefab",
+        "type": 6,
+        "tag": ""
+    },
+    {
+        "id": 15011038,
+        "name": "role_008",
+        "des": "",
+        "path": "Models/Role/Prefabs",
+        "ext": "prefab",
+        "type": 6,
+        "tag": ""
+    },
+    {
         "id": 15011101,
         "name": "monster_001",
         "des": "",

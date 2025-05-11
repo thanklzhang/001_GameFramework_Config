@@ -217,6 +217,40 @@
         "isAddedAttrGroupContinuous": []
     },
     {
+        "id": 1007101,
+        "name": "\u6797\u6e05\u8fdc\u5927\u62db\u51cf\u5c11\u79fb\u901f",
+        "describe": "\u6797\u6e05\u8fdc\u5927\u62db\u589e\u52a0\u79fb\u901f",
+        "addedAttrGroup": [
+            1005
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                -700,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1007201,
+        "name": "\u6797\u6e05\u8fdc q\u6b8b\u8840\u7206\u53d1\u589e\u52a0\u653b\u51fb",
+        "describe": "\u6797\u6e05\u8fdc q\u6b8b\u8840\u7206\u53d1\u589e\u52a0\u653b\u51fb",
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                30,
+                1000,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
         "id": 1501101,
         "name": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u589e\u52a0\u653b\u901f",
         "describe": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u589e\u52a0\u653b\u901f",

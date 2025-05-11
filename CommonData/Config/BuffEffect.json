@@ -586,6 +586,68 @@
         "showType": 0
     },
     {
+        "id": 14007101,
+        "name": "\u6797\u6e05\u8fdc q \u6280\u80fd\u51cf\u901f",
+        "describe": "\u6797\u6e05\u8fdc q \u6280\u80fd\u51cf\u901f",
+        "iconResId": 15003107,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            1005
+        ],
+        "lastTime": 4000,
+        "isCanBeClear": 0,
+        "affectType": 2,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 1007101,
+        "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
+        "effectResId": 15008023,
+        "showType": 0
+    },
+    {
+        "id": 14007201,
+        "name": "\u6797\u6e05\u8fdc q \u6280\u80fd \u6b8b\u8840\u7206\u53d1\u589e\u52a0\u653b\u51fb",
+        "describe": "\u6797\u6e05\u8fdc q \u6280\u80fd \u6b8b\u8840\u7206\u53d1\u589e\u52a0\u653b\u51fb",
+        "iconResId": 15003218,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [],
+        "lastTime": 999999000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 1,
+        "addLayerType": 2,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 101,
+        "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
+        "effectResId": 15008017,
+        "showType": 0
+    },
+    {
         "id": 14101101,
         "name": "\u602a\u7269 \u62c9\u4eba\u51fb\u6655",
         "describe": "\u591c\u9b42 \u5927\u62db\u51fb\u6655",
