@@ -703,6 +703,34 @@
         "tagList": []
     },
     {
+        "id": 2007301,
+        "name": "\u6797\u6e05\u8fdc \u5927\u62db \u589e\u52a0\u653b\u901f \u548c\u5438\u8840",
+        "describe": "\u6797\u6e05\u8fdc \u5927\u62db \u589e\u52a0\u653b\u901f \u548c\u5438\u8840",
+        "level": 1,
+        "iconResId": 15003751,
+        "skillCategory": 3,
+        "skillReleaseTargeType": 0,
+        "skillReleaseType": 0,
+        "isPassiveSkill": 0,
+        "entityRelationFilterType": 0,
+        "skillEffectTargetType": 2,
+        "effectList": [
+            14007301
+        ],
+        "effectListOnGain": [],
+        "releaseRange": 0,
+        "beforeTime": 180,
+        "afterTime": 180,
+        "cdTime": 14000,
+        "isNoBreak": 0,
+        "animationSpeedScale": 2667,
+        "animationTriggerName": "",
+        "releaserEffectResId": 0,
+        "skillDirectionId": 0,
+        "skillTrackList": [],
+        "tagList": []
+    },
+    {
         "id": 2101101,
         "name": "\u602a\u72691 \u666e\u901a\u653b\u51fb",
         "describe": "\u602a\u72691 \u666e\u901a\u653b\u51fb",

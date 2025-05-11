@@ -251,6 +251,23 @@
         "isAddedAttrGroupContinuous": []
     },
     {
+        "id": 1007301,
+        "name": "\u6797\u6e05\u8fdc \u5927\u62db\u589e\u52a0\u653b\u901f",
+        "describe": "\u6797\u6e05\u8fdc \u5927\u62db\u589e\u52a0\u653b\u901f",
+        "addedAttrGroup": [
+            1004
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                1000,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
         "id": 1501101,
         "name": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u589e\u52a0\u653b\u901f",
         "describe": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u589e\u52a0\u653b\u901f",

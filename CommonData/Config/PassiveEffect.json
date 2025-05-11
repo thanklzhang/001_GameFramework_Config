@@ -227,6 +227,23 @@
         "triggerEffectResId": 0
     },
     {
+        "id": 18007301,
+        "name": "\u6797\u6e05\u8fdc \u5927\u62db \u666e\u901a\u51fb\u4e2d\u65f6\u5438\u8840",
+        "describe": "\u6797\u6e05\u8fdc \u5927\u62db \u666e\u901a\u51fb\u4e2d\u65f6\u5438\u8840",
+        "triggerTimeType": 3,
+        "triggerIntListParam": [],
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 0,
+        "triggerEffectList": [
+            4007401
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
         "id": 18501101,
         "name": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u7684\u7fa4\u653b\u88ab\u52a8",
         "describe": "\u627f\u7075\u5927\u62db\u53ec\u5524\u517d\u7684\u7fa4\u653b\u88ab\u52a8",

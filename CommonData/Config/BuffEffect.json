@@ -641,8 +641,46 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "attrGroupConfigId": 101,
+        "attrGroupConfigId": 1007201,
         "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
+        "effectResId": 15008017,
+        "showType": 0
+    },
+    {
+        "id": 14007301,
+        "name": "\u6797\u6e05\u8fdc \u5927\u62db\u589e\u52a0\u653b\u901fbuff + \u5438\u8840",
+        "describe": "\u6797\u6e05\u8fdc \u5927\u62db\u589e\u52a0\u653b\u901fbuff",
+        "iconResId": 15003107,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            4
+        ],
+        "lastTime": 10000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [
+            18007301
+        ],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 1007301,
+        "endRemoveEffectList": [
+            18007301
+        ],
         "normalAttackAddedEffectIds": [],
         "effectResId": 15008017,
         "showType": 0
