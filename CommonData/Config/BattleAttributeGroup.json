@@ -476,7 +476,75 @@
         "addedValueGroup": [
             [
                 0,
-                2000,
+                400,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801302,
+        "name": "\u968f\u673a\u6280\u80fd \u4e00\u6bb5\u65f6\u95f4\u589e\u52a0\u653b\u901f\u7684\u5c5e\u6027",
+        "describe": "\u968f\u673a\u6280\u80fd \u4e00\u6bb5\u65f6\u95f4\u589e\u52a0\u653b\u901f\u7684\u5c5e\u6027",
+        "addedAttrGroup": [
+            1004
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                500,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801303,
+        "name": "\u968f\u673a\u6280\u80fd \u4e00\u6bb5\u65f6\u95f4\u589e\u52a0\u653b\u901f\u7684\u5c5e\u6027",
+        "describe": "\u968f\u673a\u6280\u80fd \u4e00\u6bb5\u65f6\u95f4\u589e\u52a0\u653b\u901f\u7684\u5c5e\u6027",
+        "addedAttrGroup": [
+            1004
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                600,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801304,
+        "name": "\u968f\u673a\u6280\u80fd \u4e00\u6bb5\u65f6\u95f4\u589e\u52a0\u653b\u901f\u7684\u5c5e\u6027",
+        "describe": "\u968f\u673a\u6280\u80fd \u4e00\u6bb5\u65f6\u95f4\u589e\u52a0\u653b\u901f\u7684\u5c5e\u6027",
+        "addedAttrGroup": [
+            1004
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                700,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801305,
+        "name": "\u968f\u673a\u6280\u80fd \u4e00\u6bb5\u65f6\u95f4\u589e\u52a0\u653b\u901f\u7684\u5c5e\u6027",
+        "describe": "\u968f\u673a\u6280\u80fd \u4e00\u6bb5\u65f6\u95f4\u589e\u52a0\u653b\u901f\u7684\u5c5e\u6027",
+        "addedAttrGroup": [
+            1004
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                800,
                 0
             ]
         ],
@@ -485,16 +553,254 @@
     },
     {
         "id": 1801401,
-        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027",
-        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027",
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv1",
         "addedAttrGroup": [
             1001
         ],
         "addedValueGroup": [
             [
                 0,
-                2000,
+                300,
                 1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801402,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv2",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv2",
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                400,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801403,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv3",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv3",
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                500,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801404,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv4",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv4",
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                600,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801405,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv5",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv5",
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                700,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801501,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv1",
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                300,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801502,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv2",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv2",
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                400,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801503,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv3",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv3",
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                500,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801504,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv4",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv4",
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                600,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801505,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv5",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv5",
+        "addedAttrGroup": [
+            1001
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                700,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801601,
+        "name": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u7070\u718a\u5c5e\u6027\u52a0\u6210 Lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u7070\u718a\u5c5e\u6027\u52a0\u6210 Lv1",
+        "addedAttrGroup": [
+            3
+        ],
+        "addedValueGroup": [
+            [
+                1,
+                5000,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801602,
+        "name": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u7070\u718a\u5c5e\u6027\u52a0\u6210 Lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u7070\u718a\u5c5e\u6027\u52a0\u6210 Lv1",
+        "addedAttrGroup": [
+            3
+        ],
+        "addedValueGroup": [
+            [
+                1,
+                6000,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801603,
+        "name": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u7070\u718a\u5c5e\u6027\u52a0\u6210 Lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u7070\u718a\u5c5e\u6027\u52a0\u6210 Lv1",
+        "addedAttrGroup": [
+            3
+        ],
+        "addedValueGroup": [
+            [
+                1,
+                7000,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801604,
+        "name": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u7070\u718a\u5c5e\u6027\u52a0\u6210 Lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u7070\u718a\u5c5e\u6027\u52a0\u6210 Lv1",
+        "addedAttrGroup": [
+            3
+        ],
+        "addedValueGroup": [
+            [
+                1,
+                8000,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801605,
+        "name": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u7070\u718a\u5c5e\u6027\u52a0\u6210 Lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u53ec\u5524\u7269\u7070\u718a\u5c5e\u6027\u52a0\u6210 Lv1",
+        "addedAttrGroup": [
+            3
+        ],
+        "addedValueGroup": [
+            [
+                1,
+                9000,
+                0
             ]
         ],
         "addedValueRand": [],

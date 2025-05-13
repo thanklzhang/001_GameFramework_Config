@@ -680,7 +680,7 @@
         "dirType": 0,
         "lastTime": 99999999,
         "deflectionAngle": 0,
-        "speed": 10000,
+        "speed": 13000,
         "collisionRadius": 1500,
         "isThrough": 1,
         "isFlyMaxRange": 0,
@@ -692,7 +692,131 @@
             4801101
         ],
         "collisionEntityRelationFilterType": 0,
+        "endRedirectCount": 3,
+        "endRedirectType": 4,
+        "endRedirectIntListParam": [
+            10000,
+            0
+        ],
+        "endRedirectLastTime": 9999999,
+        "isEndRedirectReserveCollisionInfo": 1,
+        "effectResId": 15008007
+    },
+    {
+        "id": 3801102,
+        "name": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 \u6295\u63b7\u7269 lv2",
+        "describe": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 lv2",
+        "isFollow": 1,
+        "projectileType": 0,
+        "dirType": 0,
+        "lastTime": 99999999,
+        "deflectionAngle": 0,
+        "speed": 13000,
+        "collisionRadius": 1500,
+        "isThrough": 1,
+        "isFlyMaxRange": 0,
+        "startEffectList": [],
+        "collisionEffectList": [],
+        "collisionDamageChange": 0,
+        "collisionDamageChangeLimit": 0,
+        "endEffectList": [
+            4801102
+        ],
+        "collisionEntityRelationFilterType": 0,
+        "endRedirectCount": 4,
+        "endRedirectType": 4,
+        "endRedirectIntListParam": [
+            10000,
+            0
+        ],
+        "endRedirectLastTime": 9999999,
+        "isEndRedirectReserveCollisionInfo": 1,
+        "effectResId": 15008007
+    },
+    {
+        "id": 3801103,
+        "name": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 \u6295\u63b7\u7269 lv3",
+        "describe": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 lv3",
+        "isFollow": 1,
+        "projectileType": 0,
+        "dirType": 0,
+        "lastTime": 99999999,
+        "deflectionAngle": 0,
+        "speed": 13000,
+        "collisionRadius": 1500,
+        "isThrough": 1,
+        "isFlyMaxRange": 0,
+        "startEffectList": [],
+        "collisionEffectList": [],
+        "collisionDamageChange": 0,
+        "collisionDamageChangeLimit": 0,
+        "endEffectList": [
+            4801103
+        ],
+        "collisionEntityRelationFilterType": 0,
         "endRedirectCount": 5,
+        "endRedirectType": 4,
+        "endRedirectIntListParam": [
+            10000,
+            0
+        ],
+        "endRedirectLastTime": 9999999,
+        "isEndRedirectReserveCollisionInfo": 1,
+        "effectResId": 15008007
+    },
+    {
+        "id": 3801104,
+        "name": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 \u6295\u63b7\u7269 lv4",
+        "describe": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 lv4",
+        "isFollow": 1,
+        "projectileType": 0,
+        "dirType": 0,
+        "lastTime": 99999999,
+        "deflectionAngle": 0,
+        "speed": 13000,
+        "collisionRadius": 1500,
+        "isThrough": 1,
+        "isFlyMaxRange": 0,
+        "startEffectList": [],
+        "collisionEffectList": [],
+        "collisionDamageChange": 0,
+        "collisionDamageChangeLimit": 0,
+        "endEffectList": [
+            4801104
+        ],
+        "collisionEntityRelationFilterType": 0,
+        "endRedirectCount": 6,
+        "endRedirectType": 4,
+        "endRedirectIntListParam": [
+            10000,
+            0
+        ],
+        "endRedirectLastTime": 9999999,
+        "isEndRedirectReserveCollisionInfo": 1,
+        "effectResId": 15008007
+    },
+    {
+        "id": 3801105,
+        "name": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 \u6295\u63b7\u7269 lv5",
+        "describe": "\u968f\u673a\u6280\u80fd \u8fde\u9501\u7403 lv5",
+        "isFollow": 1,
+        "projectileType": 0,
+        "dirType": 0,
+        "lastTime": 99999999,
+        "deflectionAngle": 0,
+        "speed": 13000,
+        "collisionRadius": 1500,
+        "isThrough": 1,
+        "isFlyMaxRange": 0,
+        "startEffectList": [],
+        "collisionEffectList": [],
+        "collisionDamageChange": 0,
+        "collisionDamageChangeLimit": 0,
+        "endEffectList": [
+            4801105
+        ],
+        "collisionEntityRelationFilterType": 0,
+        "endRedirectCount": 7,
         "endRedirectType": 4,
         "endRedirectIntListParam": [
             10000,

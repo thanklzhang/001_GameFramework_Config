@@ -460,6 +460,74 @@
         "triggerEffectResId": 0
     },
     {
+        "id": 18801202,
+        "name": "\u968f\u673a\u6280\u80fd \u53cd\u5f39\u4f24\u5bb3 lv2",
+        "describe": "\u968f\u673a\u6280\u80fd \u53cd\u5f39\u4f24\u5bb3 lv2",
+        "triggerTimeType": 4,
+        "triggerIntListParam": [],
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 1,
+        "triggerEffectList": [
+            4801202
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18801203,
+        "name": "\u968f\u673a\u6280\u80fd \u53cd\u5f39\u4f24\u5bb3 lv3",
+        "describe": "\u968f\u673a\u6280\u80fd \u53cd\u5f39\u4f24\u5bb3 lv3",
+        "triggerTimeType": 4,
+        "triggerIntListParam": [],
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 1,
+        "triggerEffectList": [
+            4801203
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18801204,
+        "name": "\u968f\u673a\u6280\u80fd \u53cd\u5f39\u4f24\u5bb3 lv4",
+        "describe": "\u968f\u673a\u6280\u80fd \u53cd\u5f39\u4f24\u5bb3 lv4",
+        "triggerTimeType": 4,
+        "triggerIntListParam": [],
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 1,
+        "triggerEffectList": [
+            4801204
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
+        "id": 18801205,
+        "name": "\u968f\u673a\u6280\u80fd \u53cd\u5f39\u4f24\u5bb3 lv5",
+        "describe": "\u968f\u673a\u6280\u80fd \u53cd\u5f39\u4f24\u5bb3 lv5",
+        "triggerTimeType": 4,
+        "triggerIntListParam": [],
+        "triggerParam": "",
+        "triggerChance": 1000,
+        "triggerTargetType": 1,
+        "triggerEffectList": [
+            4801205
+        ],
+        "afterTriggerRemoveEffectList": [],
+        "maxTriggerCount": 0,
+        "triggerCD": 0,
+        "triggerEffectResId": 0
+    },
+    {
         "id": 18801301,
         "name": "\u968f\u673a\u6280\u80fd \u81ea\u7206\u4eba\u81ea\u7206\u88ab\u52a8\u6280\u80fd lv1",
         "describe": "\u968f\u673a\u6280\u80fd \u81ea\u7206\u4eba\u81ea\u7206\u88ab\u52a8\u6280\u80fd lv1",
