@@ -11,8 +11,9 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 999999,
+        "readyRewardId": 100001,
         "passType": 1,
-        "passRewardId": 10001
+        "passRewardId": 100101
     },
     {
         "id": 101,
@@ -26,8 +27,9 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 999999,
+        "readyRewardId": 100002,
         "passType": 1,
-        "passRewardId": 10002
+        "passRewardId": 100102
     },
     {
         "id": 102,
@@ -40,8 +42,9 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 999999,
+        "readyRewardId": 100003,
         "passType": 1,
-        "passRewardId": 10003
+        "passRewardId": 100103
     },
     {
         "id": 103,
@@ -54,8 +57,9 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 999999,
+        "readyRewardId": 100004,
         "passType": 1,
-        "passRewardId": 10003
+        "passRewardId": 100104
     },
     {
         "id": 104,
@@ -68,7 +72,8 @@
         "waveType": 2,
         "readyTime": 999999999,
         "limitTime": 999999,
+        "readyRewardId": 100005,
         "passType": 1,
-        "passRewardId": 10003
+        "passRewardId": 100105
     }
 ]

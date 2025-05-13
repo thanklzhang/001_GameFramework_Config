@@ -48,5 +48,17 @@
             1
         ],
         "fixedRewardList": []
+    },
+    {
+        "id": 1102,
+        "name": "\u6d4b\u8bd5",
+        "describe": "",
+        "rewardIdList": [
+            10101
+        ],
+        "rewardWeightList": [
+            1
+        ],
+        "fixedRewardList": []
     }
 ]

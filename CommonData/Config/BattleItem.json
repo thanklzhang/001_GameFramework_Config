@@ -1,6 +1,6 @@
 [
     {
-        "id": 100001,
+        "id": 1000001,
         "name": "\u9053\u51771",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
         "iconResId": 15004001,
@@ -12,7 +12,7 @@
         "attrGroupConfigId": 3000001
     },
     {
-        "id": 100002,
+        "id": 1000002,
         "name": "\u9053\u51772",
         "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
         "iconResId": 15004002,
@@ -24,7 +24,7 @@
         "attrGroupConfigId": 3000002
     },
     {
-        "id": 100003,
+        "id": 1000003,
         "name": "\u9053\u51773",
         "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 400",
         "iconResId": 15004003,
@@ -36,7 +36,7 @@
         "attrGroupConfigId": 3000003
     },
     {
-        "id": 100004,
+        "id": 1000004,
         "name": "\u9053\u51774",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
         "iconResId": 15004001,
@@ -48,7 +48,7 @@
         "attrGroupConfigId": 3000004
     },
     {
-        "id": 100005,
+        "id": 1000005,
         "name": "\u9053\u51775",
         "describe": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.5",
         "iconResId": 15004002,
@@ -60,7 +60,7 @@
         "attrGroupConfigId": 3000005
     },
     {
-        "id": 100006,
+        "id": 1000006,
         "name": "\u9053\u51776",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
         "iconResId": 15004003,
@@ -72,100 +72,292 @@
         "attrGroupConfigId": 3000006
     },
     {
-        "id": 100007,
+        "id": 1100001,
+        "name": "\u9053\u51771",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 1,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3100001
+    },
+    {
+        "id": 1100002,
+        "name": "\u9053\u51772",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 1,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3100002
+    },
+    {
+        "id": 1100003,
+        "name": "\u9053\u51773",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 400",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 1,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3100003
+    },
+    {
+        "id": 1100004,
+        "name": "\u9053\u51774",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 1,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3100004
+    },
+    {
+        "id": 1100005,
+        "name": "\u9053\u51775",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.5",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 1,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3100005
+    },
+    {
+        "id": 1100006,
+        "name": "\u9053\u51776",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 1,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3100006
+    },
+    {
+        "id": 1100007,
         "name": "\u9053\u51777",
-        "describe": "\u9053\u5177 15% \u66b4\u51fb\u51e0\u7387",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u66b4\u51fb",
         "iconResId": 15004001,
         "itemType": 1,
-        "itemQuality": 0,
+        "itemQuality": 1,
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "attrGroupConfigId": 3000007
+        "attrGroupConfigId": 3100007
     },
     {
-        "id": 100008,
+        "id": 1100008,
         "name": "\u9053\u51778",
-        "describe": "\u9053\u5177 50% \u66b4\u51fb\u4f24\u5bb3",
-        "iconResId": 15004002,
+        "describe": "\u9053\u5177 \u589e\u52a0 \u7206\u4f24",
+        "iconResId": 15004001,
         "itemType": 1,
-        "itemQuality": 0,
+        "itemQuality": 1,
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "attrGroupConfigId": 3000008
+        "attrGroupConfigId": 3100008
     },
     {
-        "id": 100009,
+        "id": 1100009,
         "name": "\u9053\u51779",
-        "describe": "\u9053\u5177 20 \u6280\u80fd\u51b7\u5374",
-        "iconResId": 15004003,
+        "describe": "\u9053\u5177 \u589e\u52a0 \u6280\u80fd\u51b7\u5374",
+        "iconResId": 15004001,
         "itemType": 1,
-        "itemQuality": 0,
+        "itemQuality": 1,
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "attrGroupConfigId": 3000009
+        "attrGroupConfigId": 3100009
     },
     {
-        "id": 100010,
+        "id": 1100010,
         "name": "\u9053\u517710",
-        "describe": "\u9053\u5177 \u751f\u547d\u6062\u590d\u901f\u5ea6 150%",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u6cbb\u7597\u6bd4\u7387",
         "iconResId": 15004001,
         "itemType": 1,
-        "itemQuality": 0,
+        "itemQuality": 1,
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "attrGroupConfigId": 3000010
+        "attrGroupConfigId": 3100010
     },
     {
-        "id": 100011,
+        "id": 1100011,
         "name": "\u9053\u517711",
-        "describe": "\u9053\u5177 \u589e\u52a0 10% \u589e\u4f24 \u548c 10% \u51cf\u4f24",
-        "iconResId": 15004002,
+        "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u56de\u590d",
+        "iconResId": 15004001,
         "itemType": 1,
-        "itemQuality": 0,
+        "itemQuality": 1,
         "addType": 0,
         "isDestroyAfterUse": 0,
         "skillId": 0,
-        "attrGroupConfigId": 3000011
+        "attrGroupConfigId": 3100011
     },
     {
-        "id": 100012,
+        "id": 1200001,
+        "name": "\u9053\u51771",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200001
+    },
+    {
+        "id": 1200002,
+        "name": "\u9053\u51772",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200002
+    },
+    {
+        "id": 1200003,
+        "name": "\u9053\u51773",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 400",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200003
+    },
+    {
+        "id": 1200004,
+        "name": "\u9053\u51774",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200004
+    },
+    {
+        "id": 1200005,
+        "name": "\u9053\u51775",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.5",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200005
+    },
+    {
+        "id": 1200006,
+        "name": "\u9053\u51776",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200006
+    },
+    {
+        "id": 1200007,
+        "name": "\u9053\u51777",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u66b4\u51fb",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200007
+    },
+    {
+        "id": 1200008,
+        "name": "\u9053\u51778",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u7206\u4f24",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200008
+    },
+    {
+        "id": 1200009,
+        "name": "\u9053\u51779",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u6280\u80fd\u51b7\u5374",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200009
+    },
+    {
+        "id": 1200010,
+        "name": "\u9053\u517710",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u6cbb\u7597\u6bd4\u7387",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200010
+    },
+    {
+        "id": 1200011,
+        "name": "\u9053\u517711",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u56de\u590d",
+        "iconResId": 15004001,
+        "itemType": 1,
+        "itemQuality": 2,
+        "addType": 0,
+        "isDestroyAfterUse": 0,
+        "skillId": 0,
+        "attrGroupConfigId": 3200011
+    },
+    {
+        "id": 1200012,
         "name": "\u9053\u517712",
-        "describe": "\u9053\u5177 \u53e0\u52a0\u66b4\u51fb \u589e\u52a0 \u589e\u52a0 250 \u653b\u51fb\u529b\u548c 100%\u7206\u4f24",
-        "iconResId": 15004003,
+        "describe": "\u9053\u5177 \u589e\u52a0 \u589e\u4f24",
+        "iconResId": 15004001,
         "itemType": 1,
-        "itemQuality": 0,
+        "itemQuality": 2,
         "addType": 0,
         "isDestroyAfterUse": 0,
-        "skillId": 2820101,
-        "attrGroupConfigId": 3000012
+        "skillId": 0,
+        "attrGroupConfigId": 3200012
     },
     {
-        "id": 100013,
+        "id": 1200013,
         "name": "\u9053\u517713",
-        "describe": "\u9053\u5177 \u88ab\u653b\u51fb\u65f6\u5411\u653b\u51fb\u8005\u53d1\u5c04\u4e00\u4e2a\u653b\u51fb\u7403\uff08\u62a4\u7532\u52a0\u6210\uff09 \u589e\u52a0 600 \u751f\u547d\u503c \u548c 300 \u62a4\u7532",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u51cf\u4f24",
         "iconResId": 15004001,
         "itemType": 1,
-        "itemQuality": 0,
+        "itemQuality": 2,
         "addType": 0,
         "isDestroyAfterUse": 0,
-        "skillId": 2820201,
-        "attrGroupConfigId": 3000014
-    },
-    {
-        "id": 100014,
-        "name": "\u9053\u517714",
-        "describe": "\u9053\u5177 \u589e\u52a0\u6240\u6709\u6cbb\u7597\u6548\u679c40% \u589e\u52a0 60 \u6280\u80fd\u51b7\u5374 \u548c 300 \u751f\u547d\u503c",
-        "iconResId": 15004001,
-        "itemType": 1,
-        "itemQuality": 0,
-        "addType": 0,
-        "isDestroyAfterUse": 0,
-        "skillId": 2820301,
-        "attrGroupConfigId": 3000015
+        "skillId": 0,
+        "attrGroupConfigId": 3200013
     },
     {
         "id": 200001,
