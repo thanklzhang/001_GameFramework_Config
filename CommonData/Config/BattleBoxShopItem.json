@@ -8,14 +8,14 @@
         "costItemId": 500001,
         "costCount": 300,
         "boxIdList": [
-            100
+            1
         ],
         "boxWeightList": [
             1
         ],
-        "minCount": 5,
-        "maxCount": 8,
-        "chance": 500
+        "minCount": 1000,
+        "maxCount": 1000,
+        "chance": 1000
     },
     {
         "id": 10002,
