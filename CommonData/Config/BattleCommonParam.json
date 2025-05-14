@@ -8,6 +8,13 @@
             4
         ],
         "initPlayerWarhouseCellUnlockCount": 20,
-        "maxPlayerWarhouseCellCount": 50
+        "maxPlayerWarhouseCellCount": 50,
+        "buyPopulationCostCoin": [
+            500,
+            1000,
+            2000,
+            3500,
+            5500
+        ]
     }
 ]
