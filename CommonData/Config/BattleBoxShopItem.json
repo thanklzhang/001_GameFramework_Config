@@ -13,8 +13,8 @@
         "boxWeightList": [
             1
         ],
-        "minCount": 1000,
-        "maxCount": 1000,
+        "minCount": 500,
+        "maxCount": 500,
         "chance": 1000
     },
     {

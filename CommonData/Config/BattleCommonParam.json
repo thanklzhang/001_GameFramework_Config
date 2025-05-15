@@ -1,6 +1,9 @@
 [
     {
         "id": 1,
+        "initCoin": 500,
+        "initPopulation": 2,
+        "initReviveCoin": 1,
         "initEntityItemBarCellUnlockCount": 1,
         "maxEntityItemBarCellCount": 3,
         "entityItemBarCellUnlockStarLevel": [
