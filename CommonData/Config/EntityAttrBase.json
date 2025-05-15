@@ -2,9 +2,9 @@
     {
         "id": 10001,
         "describe": "\u9690\u58a8",
-        "attack": 100,
+        "attack": 2000,
         "defence": 40,
-        "health": 2000,
+        "health": 20000000,
         "magic": 20,
         "attackSpeed": 1000,
         "moveSpeed": 3000,
@@ -146,9 +146,9 @@
     {
         "id": 20001,
         "describe": "\u602a\u72691 \u8fd1\u6218",
-        "attack": 10,
+        "attack": 10000,
         "defence": 0,
-        "health": 150,
+        "health": 6000,
         "magic": 0,
         "attackSpeed": 850,
         "moveSpeed": 1800,
