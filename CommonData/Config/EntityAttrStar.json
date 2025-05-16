@@ -7,7 +7,6 @@
         "attack": 0,
         "defence": 0,
         "health": 0,
-        "magic": 0,
         "attackSpeed": 0,
         "moveSpeed": 0,
         "attackRange": 0,
@@ -15,7 +14,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 0
     },
     {
         "id": 12001002,
@@ -25,7 +25,6 @@
         "attack": 10,
         "defence": 2,
         "health": 50,
-        "magic": 20,
         "attackSpeed": 50,
         "moveSpeed": 500,
         "attackRange": 0,
@@ -33,7 +32,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 20
     },
     {
         "id": 12001003,
@@ -43,7 +43,6 @@
         "attack": 11,
         "defence": 3,
         "health": 51,
-        "magic": 21,
         "attackSpeed": 51,
         "moveSpeed": 501,
         "attackRange": 0,
@@ -51,7 +50,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 21
     },
     {
         "id": 12001004,
@@ -61,7 +61,6 @@
         "attack": 12,
         "defence": 4,
         "health": 52,
-        "magic": 22,
         "attackSpeed": 52,
         "moveSpeed": 502,
         "attackRange": 0,
@@ -69,7 +68,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 22
     },
     {
         "id": 12001005,
@@ -79,7 +79,6 @@
         "attack": 13,
         "defence": 5,
         "health": 53,
-        "magic": 23,
         "attackSpeed": 53,
         "moveSpeed": 503,
         "attackRange": 0,
@@ -87,7 +86,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 23
     },
     {
         "id": 12001006,
@@ -97,7 +97,6 @@
         "attack": 14,
         "defence": 6,
         "health": 54,
-        "magic": 24,
         "attackSpeed": 54,
         "moveSpeed": 504,
         "attackRange": 0,
@@ -105,7 +104,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 24
     },
     {
         "id": 12001007,
@@ -115,7 +115,6 @@
         "attack": 15,
         "defence": 7,
         "health": 55,
-        "magic": 25,
         "attackSpeed": 55,
         "moveSpeed": 505,
         "attackRange": 0,
@@ -123,7 +122,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 25
     },
     {
         "id": 12001008,
@@ -133,7 +133,6 @@
         "attack": 16,
         "defence": 8,
         "health": 56,
-        "magic": 26,
         "attackSpeed": 56,
         "moveSpeed": 506,
         "attackRange": 0,
@@ -141,7 +140,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 26
     },
     {
         "id": 12001009,
@@ -151,7 +151,6 @@
         "attack": 17,
         "defence": 9,
         "health": 57,
-        "magic": 27,
         "attackSpeed": 57,
         "moveSpeed": 507,
         "attackRange": 0,
@@ -159,7 +158,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 27
     },
     {
         "id": 12001010,
@@ -169,7 +169,6 @@
         "attack": 18,
         "defence": 10,
         "health": 58,
-        "magic": 28,
         "attackSpeed": 58,
         "moveSpeed": 508,
         "attackRange": 0,
@@ -177,7 +176,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 28
     },
     {
         "id": 12002001,
@@ -187,7 +187,6 @@
         "attack": 0,
         "defence": 0,
         "health": 0,
-        "magic": 0,
         "attackSpeed": 0,
         "moveSpeed": 0,
         "attackRange": 0,
@@ -195,7 +194,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 0
     },
     {
         "id": 12002002,
@@ -205,7 +205,6 @@
         "attack": 151,
         "defence": 11,
         "health": 366,
-        "magic": 226,
         "attackSpeed": 50,
         "moveSpeed": 500,
         "attackRange": 0,
@@ -213,7 +212,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 226
     },
     {
         "id": 12002003,
@@ -223,7 +223,6 @@
         "attack": 152,
         "defence": 12,
         "health": 367,
-        "magic": 227,
         "attackSpeed": 51,
         "moveSpeed": 501,
         "attackRange": 0,
@@ -231,7 +230,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 227
     },
     {
         "id": 12002004,
@@ -241,7 +241,6 @@
         "attack": 153,
         "defence": 13,
         "health": 368,
-        "magic": 228,
         "attackSpeed": 52,
         "moveSpeed": 502,
         "attackRange": 0,
@@ -249,7 +248,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 228
     },
     {
         "id": 12002005,
@@ -259,7 +259,6 @@
         "attack": 154,
         "defence": 14,
         "health": 369,
-        "magic": 229,
         "attackSpeed": 53,
         "moveSpeed": 503,
         "attackRange": 0,
@@ -267,7 +266,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 229
     },
     {
         "id": 12002006,
@@ -277,7 +277,6 @@
         "attack": 155,
         "defence": 15,
         "health": 370,
-        "magic": 230,
         "attackSpeed": 54,
         "moveSpeed": 504,
         "attackRange": 0,
@@ -285,7 +284,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 230
     },
     {
         "id": 12002007,
@@ -295,7 +295,6 @@
         "attack": 156,
         "defence": 16,
         "health": 371,
-        "magic": 231,
         "attackSpeed": 55,
         "moveSpeed": 505,
         "attackRange": 0,
@@ -303,7 +302,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 231
     },
     {
         "id": 12002008,
@@ -313,7 +313,6 @@
         "attack": 157,
         "defence": 17,
         "health": 372,
-        "magic": 232,
         "attackSpeed": 56,
         "moveSpeed": 506,
         "attackRange": 0,
@@ -321,7 +320,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 232
     },
     {
         "id": 12002009,
@@ -331,7 +331,6 @@
         "attack": 158,
         "defence": 18,
         "health": 373,
-        "magic": 233,
         "attackSpeed": 57,
         "moveSpeed": 507,
         "attackRange": 0,
@@ -339,7 +338,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 233
     },
     {
         "id": 12002010,
@@ -349,7 +349,6 @@
         "attack": 159,
         "defence": 19,
         "health": 374,
-        "magic": 234,
         "attackSpeed": 58,
         "moveSpeed": 508,
         "attackRange": 0,
@@ -357,7 +356,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 234
     },
     {
         "id": 12100001,
@@ -367,7 +367,6 @@
         "attack": 50,
         "defence": 50,
         "health": 200,
-        "magic": 0,
         "attackSpeed": 200,
         "moveSpeed": 100,
         "attackRange": 0,
@@ -375,7 +374,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 0
     },
     {
         "id": 12100002,
@@ -385,7 +385,6 @@
         "attack": 100,
         "defence": 100,
         "health": 400,
-        "magic": 0,
         "attackSpeed": 400,
         "moveSpeed": 200,
         "attackRange": 0,
@@ -393,7 +392,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 0
     },
     {
         "id": 12100003,
@@ -403,7 +403,6 @@
         "attack": 200,
         "defence": 200,
         "health": 800,
-        "magic": 0,
         "attackSpeed": 600,
         "moveSpeed": 300,
         "attackRange": 0,
@@ -411,7 +410,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 0
     },
     {
         "id": 12100004,
@@ -421,7 +421,6 @@
         "attack": 400,
         "defence": 400,
         "health": 1600,
-        "magic": 0,
         "attackSpeed": 800,
         "moveSpeed": 400,
         "attackRange": 0,
@@ -429,7 +428,8 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 0
     },
     {
         "id": 12100005,
@@ -439,7 +439,6 @@
         "attack": 800,
         "defence": 800,
         "health": 3200,
-        "magic": 0,
         "attackSpeed": 1000,
         "moveSpeed": 500,
         "attackRange": 0,
@@ -447,6 +446,187 @@
         "outputDamageRate": 0,
         "critRate": 0,
         "critDamage": 0,
-        "skillCD": 0
+        "skillCD": 0,
+        "magic": 0
+    },
+    {
+        "id": 21001001,
+        "templateId": 1001,
+        "starLevel": 1,
+        "describe": "\u602a\u72691\u661f\u7ea7\u6a21\u677f",
+        "attack": 0,
+        "defence": 0,
+        "health": 0,
+        "attackSpeed": 0,
+        "moveSpeed": 0,
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0,
+        "magic": 0
+    },
+    {
+        "id": 21001002,
+        "templateId": 1001,
+        "starLevel": 2,
+        "describe": "\u602a\u72691\u661f\u7ea7\u6a21\u677f",
+        "attack": 60,
+        "defence": 20,
+        "health": 300,
+        "attackSpeed": 100,
+        "moveSpeed": 0,
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0,
+        "magic": 0
+    },
+    {
+        "id": 21001003,
+        "templateId": 1001,
+        "starLevel": 3,
+        "describe": "\u602a\u72691\u661f\u7ea7\u6a21\u677f",
+        "attack": 120,
+        "defence": 30,
+        "health": 600,
+        "attackSpeed": 200,
+        "moveSpeed": 0,
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0,
+        "magic": 0
+    },
+    {
+        "id": 21001004,
+        "templateId": 1001,
+        "starLevel": 4,
+        "describe": "\u602a\u72691\u661f\u7ea7\u6a21\u677f",
+        "attack": 240,
+        "defence": 40,
+        "health": 1200,
+        "attackSpeed": 300,
+        "moveSpeed": 0,
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0,
+        "magic": 0
+    },
+    {
+        "id": 21001005,
+        "templateId": 1001,
+        "starLevel": 5,
+        "describe": "\u602a\u72691\u661f\u7ea7\u6a21\u677f",
+        "attack": 480,
+        "defence": 50,
+        "health": 2400,
+        "attackSpeed": 400,
+        "moveSpeed": 0,
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0,
+        "magic": 0
+    },
+    {
+        "id": 21002001,
+        "templateId": 1002,
+        "starLevel": 1,
+        "describe": "\u602a\u72691\u661f\u7ea7\u6a21\u677f",
+        "attack": 0,
+        "defence": 0,
+        "health": 0,
+        "attackSpeed": 0,
+        "moveSpeed": 0,
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0,
+        "magic": 0
+    },
+    {
+        "id": 21002002,
+        "templateId": 1002,
+        "starLevel": 2,
+        "describe": "\u602a\u72691\u661f\u7ea7\u6a21\u677f",
+        "attack": 40,
+        "defence": 10,
+        "health": 200,
+        "attackSpeed": 150,
+        "moveSpeed": 0,
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0,
+        "magic": 0
+    },
+    {
+        "id": 21002003,
+        "templateId": 1002,
+        "starLevel": 3,
+        "describe": "\u602a\u72691\u661f\u7ea7\u6a21\u677f",
+        "attack": 80,
+        "defence": 15,
+        "health": 400,
+        "attackSpeed": 300,
+        "moveSpeed": 0,
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0,
+        "magic": 0
+    },
+    {
+        "id": 21002004,
+        "templateId": 1002,
+        "starLevel": 4,
+        "describe": "\u602a\u72691\u661f\u7ea7\u6a21\u677f",
+        "attack": 120,
+        "defence": 20,
+        "health": 800,
+        "attackSpeed": 450,
+        "moveSpeed": 0,
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0,
+        "magic": 0
+    },
+    {
+        "id": 21002005,
+        "templateId": 1002,
+        "starLevel": 5,
+        "describe": "\u602a\u72691\u661f\u7ea7\u6a21\u677f",
+        "attack": 240,
+        "defence": 25,
+        "health": 1500,
+        "attackSpeed": 600,
+        "moveSpeed": 0,
+        "attackRange": 0,
+        "inputDamageRate": 0,
+        "outputDamageRate": 0,
+        "critRate": 0,
+        "critDamage": 0,
+        "skillCD": 0,
+        "magic": 0
     }
 ]

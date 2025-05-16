@@ -13,10 +13,10 @@
             2001201
         ],
         "ultimateSkillId": 2001301,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1,
             1,
@@ -44,10 +44,10 @@
             2002201
         ],
         "ultimateSkillId": 2002301,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1,
             1,
@@ -76,10 +76,10 @@
             2103301
         ],
         "ultimateSkillId": 2003301,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1,
             1,
@@ -107,10 +107,10 @@
             2004201
         ],
         "ultimateSkillId": 2004301,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1,
             1,
@@ -138,10 +138,10 @@
             2005201
         ],
         "ultimateSkillId": 2005301,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1,
             1,
@@ -169,10 +169,10 @@
             2006201
         ],
         "ultimateSkillId": 2006301,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1,
             1,
@@ -200,10 +200,10 @@
             2007201
         ],
         "ultimateSkillId": 2007301,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1,
             1,
@@ -231,10 +231,10 @@
             2005201
         ],
         "ultimateSkillId": 2006301,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1,
             1,
@@ -256,15 +256,71 @@
         "modelId": 15011101,
         "baseAttrId": 20001,
         "levelAttrId": 10001,
-        "starAttrId": 10001,
+        "starAttrId": 1001,
         "skillIds": [
             2101101
         ],
         "ultimateSkillId": 0,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
+            1,
+            1
+        ],
+        "originEntityId": 0,
+        "aiScript": "BaseAI",
+        "isBoss": 0,
+        "avatarResId": 15003501,
+        "allBodyResId": 15003601
+    },
+    {
+        "id": 1000102,
+        "name": "\u602a\u72692",
+        "describe": "\u602a\u72692",
+        "type": 0,
+        "modelId": 15011102,
+        "baseAttrId": 20002,
+        "levelAttrId": 10001,
+        "starAttrId": 1002,
+        "skillIds": [
+            3101201
+        ],
+        "ultimateSkillId": 0,
+        "level_pre": 1,
+        "quality": 0,
+        "star_pre": 1,
+        "skillLevels_pre": [
+            1,
+            1
+        ],
+        "originEntityId": 0,
+        "aiScript": "BaseAI",
+        "isBoss": 0,
+        "avatarResId": 15003501,
+        "allBodyResId": 15003601
+    },
+    {
+        "id": 1000103,
+        "name": "boss",
+        "describe": "boss",
+        "type": 0,
+        "modelId": 15011103,
+        "baseAttrId": 20003,
+        "levelAttrId": 10001,
+        "starAttrId": 10001,
+        "skillIds": [
+            2103101,
+            2103201,
+            2103301,
+            2103401,
+            2103501
+        ],
+        "ultimateSkillId": 0,
+        "level_pre": 1,
+        "quality": 0,
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1
         ],
@@ -287,10 +343,10 @@
             2501101
         ],
         "ultimateSkillId": 0,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1
         ],
@@ -315,10 +371,10 @@
             2502301
         ],
         "ultimateSkillId": 0,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1
         ],
@@ -342,10 +398,10 @@
             2580101
         ],
         "ultimateSkillId": 0,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1
         ],
@@ -366,10 +422,10 @@
         "starAttrId": 10001,
         "skillIds": [],
         "ultimateSkillId": 0,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1
         ],
@@ -390,10 +446,10 @@
         "starAttrId": 10001,
         "skillIds": [],
         "ultimateSkillId": 0,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1
         ],
@@ -414,10 +470,10 @@
         "starAttrId": 10001,
         "skillIds": [],
         "ultimateSkillId": 0,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1
         ],
@@ -438,10 +494,10 @@
         "starAttrId": 10001,
         "skillIds": [],
         "ultimateSkillId": 0,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1
         ],
@@ -462,10 +518,10 @@
         "starAttrId": 10001,
         "skillIds": [],
         "ultimateSkillId": 0,
-        "level": 1,
+        "level_pre": 1,
         "quality": 0,
-        "star": 1,
-        "skillLevels": [
+        "star_pre": 1,
+        "skillLevels_pre": [
             1,
             1
         ],
