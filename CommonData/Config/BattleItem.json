@@ -2,7 +2,7 @@
     {
         "id": 1000001,
         "name": "\u9053\u51771",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 75",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 0,
@@ -14,7 +14,7 @@
     {
         "id": 1000002,
         "name": "\u9053\u51772",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 25",
         "iconResId": 15004002,
         "itemType": 1,
         "itemQuality": 0,
@@ -38,7 +38,7 @@
     {
         "id": 1000004,
         "name": "\u9053\u51774",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 30%",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 0,
@@ -50,7 +50,7 @@
     {
         "id": 1000005,
         "name": "\u9053\u51775",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.5",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.0",
         "iconResId": 15004002,
         "itemType": 1,
         "itemQuality": 0,
@@ -62,7 +62,7 @@
     {
         "id": 1000006,
         "name": "\u9053\u51776",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 1.0",
         "iconResId": 15004003,
         "itemType": 1,
         "itemQuality": 0,
@@ -74,7 +74,7 @@
     {
         "id": 1100001,
         "name": "\u9053\u51771",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 160",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 1,
@@ -86,7 +86,7 @@
     {
         "id": 1100002,
         "name": "\u9053\u51772",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 45",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 1,
@@ -98,7 +98,7 @@
     {
         "id": 1100003,
         "name": "\u9053\u51773",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 400",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 900",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 1,
@@ -110,7 +110,7 @@
     {
         "id": 1100004,
         "name": "\u9053\u51774",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 50%",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 1,
@@ -134,7 +134,7 @@
     {
         "id": 1100006,
         "name": "\u9053\u51776",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 1.5",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 1,
@@ -146,7 +146,7 @@
     {
         "id": 1100007,
         "name": "\u9053\u51777",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u66b4\u51fb",
+        "describe": "\u9053\u5177 15% \u66b4\u51fb\u51e0\u7387",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 1,
@@ -158,7 +158,7 @@
     {
         "id": 1100008,
         "name": "\u9053\u51778",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u7206\u4f24",
+        "describe": "\u9053\u5177 50% \u66b4\u51fb\u4f24\u5bb3",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 1,
@@ -170,7 +170,7 @@
     {
         "id": 1100009,
         "name": "\u9053\u51779",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u6280\u80fd\u51b7\u5374",
+        "describe": "\u9053\u5177 20 \u6280\u80fd\u51b7\u5374",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 1,
@@ -182,7 +182,7 @@
     {
         "id": 1100010,
         "name": "\u9053\u517710",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u6cbb\u7597\u6bd4\u7387",
+        "describe": "\u9053\u5177 \u6cbb\u7597\u6548\u679c\u589e\u52a0 35%",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 1,
@@ -194,7 +194,7 @@
     {
         "id": 1100011,
         "name": "\u9053\u517711",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u56de\u590d",
+        "describe": "\u9053\u5177 \u751f\u547d\u6062\u590d\u901f\u5ea6 150%",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 1,
@@ -206,7 +206,7 @@
     {
         "id": 1200001,
         "name": "\u9053\u51771",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 350",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,
@@ -218,7 +218,7 @@
     {
         "id": 1200002,
         "name": "\u9053\u51772",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 80",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,
@@ -230,7 +230,7 @@
     {
         "id": 1200003,
         "name": "\u9053\u51773",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 400",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 1800",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,
@@ -242,7 +242,7 @@
     {
         "id": 1200004,
         "name": "\u9053\u51774",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 80%",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,
@@ -254,7 +254,7 @@
     {
         "id": 1200005,
         "name": "\u9053\u51775",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.5",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 2.0",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,
@@ -266,7 +266,7 @@
     {
         "id": 1200006,
         "name": "\u9053\u51776",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
+        "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 2.0",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,
@@ -278,7 +278,7 @@
     {
         "id": 1200007,
         "name": "\u9053\u51777",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u66b4\u51fb",
+        "describe": "\u9053\u5177 30% \u66b4\u51fb\u51e0\u7387",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,
@@ -290,7 +290,7 @@
     {
         "id": 1200008,
         "name": "\u9053\u51778",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u7206\u4f24",
+        "describe": "\u9053\u5177 100% \u66b4\u51fb\u4f24\u5bb3",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,
@@ -302,7 +302,7 @@
     {
         "id": 1200009,
         "name": "\u9053\u51779",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u6280\u80fd\u51b7\u5374",
+        "describe": "\u9053\u5177 40 \u6280\u80fd\u51b7\u5374",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,
@@ -314,7 +314,7 @@
     {
         "id": 1200010,
         "name": "\u9053\u517710",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u6cbb\u7597\u6bd4\u7387",
+        "describe": "\u9053\u5177 \u6cbb\u7597\u6548\u679c\u589e\u52a0 80%",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,
@@ -326,7 +326,7 @@
     {
         "id": 1200011,
         "name": "\u9053\u517711",
-        "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u56de\u590d",
+        "describe": "\u9053\u5177 \u751f\u547d\u6062\u590d\u901f\u5ea6 300%",
         "iconResId": 15004001,
         "itemType": 1,
         "itemQuality": 2,

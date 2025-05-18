@@ -77,7 +77,7 @@
         "addedValueGroup": [
             [
                 0,
-                1200,
+                1400,
                 0
             ]
         ],
@@ -94,7 +94,7 @@
         "addedValueGroup": [
             [
                 0,
-                1500,
+                2000,
                 0
             ]
         ],
@@ -111,7 +111,7 @@
         "addedValueGroup": [
             [
                 0,
-                2000,
+                2800,
                 0
             ]
         ],
@@ -128,7 +128,7 @@
         "addedValueGroup": [
             [
                 0,
-                150,
+                300,
                 0
             ]
         ],
@@ -146,12 +146,12 @@
         "addedValueGroup": [
             [
                 0,
-                100,
+                150,
                 0
             ],
             [
-                0,
-                400,
+                1,
+                200,
                 0
             ]
         ],
@@ -169,12 +169,12 @@
         "addedValueGroup": [
             [
                 0,
-                250,
+                300,
                 0
             ],
             [
-                0,
-                500,
+                1,
+                300,
                 0
             ]
         ],
@@ -192,12 +192,12 @@
         "addedValueGroup": [
             [
                 0,
-                500,
+                550,
                 0
             ],
             [
-                0,
-                750,
+                1,
+                450,
                 0
             ]
         ],
@@ -374,7 +374,7 @@
         "addedValueGroup": [
             [
                 0,
-                800,
+                1000,
                 0
             ]
         ],
@@ -391,7 +391,7 @@
         "addedValueGroup": [
             [
                 0,
-                1200,
+                1600,
                 0
             ]
         ],
@@ -408,7 +408,7 @@
         "addedValueGroup": [
             [
                 0,
-                2000,
+                2600,
                 0
             ]
         ],
@@ -476,7 +476,7 @@
         "addedValueGroup": [
             [
                 0,
-                400,
+                500,
                 0
             ]
         ],
@@ -493,7 +493,7 @@
         "addedValueGroup": [
             [
                 0,
-                500,
+                600,
                 0
             ]
         ],
@@ -510,7 +510,7 @@
         "addedValueGroup": [
             [
                 0,
-                600,
+                700,
                 0
             ]
         ],
@@ -527,7 +527,7 @@
         "addedValueGroup": [
             [
                 0,
-                700,
+                800,
                 0
             ]
         ],
@@ -544,7 +544,7 @@
         "addedValueGroup": [
             [
                 0,
-                800,
+                1000,
                 0
             ]
         ],
@@ -561,7 +561,7 @@
         "addedValueGroup": [
             [
                 0,
-                300,
+                150,
                 1
             ]
         ],
@@ -578,7 +578,7 @@
         "addedValueGroup": [
             [
                 0,
-                400,
+                200,
                 1
             ]
         ],
@@ -595,7 +595,7 @@
         "addedValueGroup": [
             [
                 0,
-                500,
+                250,
                 1
             ]
         ],
@@ -612,7 +612,7 @@
         "addedValueGroup": [
             [
                 0,
-                600,
+                350,
                 1
             ]
         ],
@@ -629,57 +629,6 @@
         "addedValueGroup": [
             [
                 0,
-                700,
-                1
-            ]
-        ],
-        "addedValueRand": [],
-        "isAddedAttrGroupContinuous": []
-    },
-    {
-        "id": 1801501,
-        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv1",
-        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv1",
-        "addedAttrGroup": [
-            1001
-        ],
-        "addedValueGroup": [
-            [
-                0,
-                300,
-                1
-            ]
-        ],
-        "addedValueRand": [],
-        "isAddedAttrGroupContinuous": []
-    },
-    {
-        "id": 1801502,
-        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv2",
-        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv2",
-        "addedAttrGroup": [
-            1001
-        ],
-        "addedValueGroup": [
-            [
-                0,
-                400,
-                1
-            ]
-        ],
-        "addedValueRand": [],
-        "isAddedAttrGroupContinuous": []
-    },
-    {
-        "id": 1801503,
-        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv3",
-        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv3",
-        "addedAttrGroup": [
-            1001
-        ],
-        "addedValueGroup": [
-            [
-                0,
                 500,
                 1
             ]
@@ -688,16 +637,67 @@
         "isAddedAttrGroupContinuous": []
     },
     {
-        "id": 1801504,
-        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv4",
-        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv4",
+        "id": 1801501,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u901f\u7684\u5c5e\u6027 Lv1",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u901f\u7684\u5c5e\u6027 Lv1",
         "addedAttrGroup": [
-            1001
+            1006
         ],
         "addedValueGroup": [
             [
                 0,
-                600,
+                150,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801502,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u901f\u7684\u5c5e\u6027 Lv2",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u901f\u7684\u5c5e\u6027 Lv2",
+        "addedAttrGroup": [
+            1006
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                200,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801503,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u901f\u7684\u5c5e\u6027 Lv3",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u901f\u7684\u5c5e\u6027 Lv3",
+        "addedAttrGroup": [
+            1006
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                250,
+                1
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 1801504,
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u901f\u7684\u5c5e\u6027 Lv4",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u901f\u7684\u5c5e\u6027 Lv4",
+        "addedAttrGroup": [
+            1006
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                350,
                 1
             ]
         ],
@@ -706,15 +706,15 @@
     },
     {
         "id": 1801505,
-        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv5",
-        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u51fb\u529b\u7684\u5c5e\u6027 Lv5",
+        "name": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u901f\u7684\u5c5e\u6027 Lv5",
+        "describe": "\u968f\u673a\u6280\u80fd \u589e\u52a0\u4e00\u4e2a\u961f\u53cb\u653b\u901f\u7684\u5c5e\u6027 Lv5",
         "addedAttrGroup": [
-            1001
+            1006
         ],
         "addedValueGroup": [
             [
                 0,
-                700,
+                500,
                 1
             ]
         ],
@@ -731,7 +731,7 @@
         "addedValueGroup": [
             [
                 1,
-                5000,
+                3500,
                 0
             ]
         ],
@@ -748,7 +748,7 @@
         "addedValueGroup": [
             [
                 1,
-                6000,
+                4000,
                 0
             ]
         ],
@@ -765,7 +765,7 @@
         "addedValueGroup": [
             [
                 1,
-                7000,
+                4500,
                 0
             ]
         ],
@@ -782,7 +782,7 @@
         "addedValueGroup": [
             [
                 1,
-                8000,
+                5500,
                 0
             ]
         ],
@@ -799,7 +799,7 @@
         "addedValueGroup": [
             [
                 1,
-                9000,
+                7000,
                 0
             ]
         ],
@@ -808,7 +808,7 @@
     },
     {
         "id": 3000001,
-        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 75",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
         "addedAttrGroup": [
             1
@@ -816,7 +816,7 @@
         "addedValueGroup": [
             [
                 0,
-                100,
+                75,
                 0
             ]
         ],
@@ -825,7 +825,7 @@
     },
     {
         "id": 3000002,
-        "name": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
+        "name": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 25",
         "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
         "addedAttrGroup": [
             2
@@ -833,7 +833,7 @@
         "addedValueGroup": [
             [
                 0,
-                100,
+                25,
                 0
             ]
         ],
@@ -859,7 +859,7 @@
     },
     {
         "id": 3000004,
-        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 30%",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
         "addedAttrGroup": [
             1004
@@ -867,7 +867,7 @@
         "addedValueGroup": [
             [
                 0,
-                400,
+                300,
                 0
             ]
         ],
@@ -876,7 +876,7 @@
     },
     {
         "id": 3000005,
-        "name": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.5",
+        "name": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.0",
         "describe": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.5",
         "addedAttrGroup": [
             5
@@ -884,7 +884,7 @@
         "addedValueGroup": [
             [
                 0,
-                1500,
+                1000,
                 0
             ]
         ],
@@ -893,7 +893,7 @@
     },
     {
         "id": 3000006,
-        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 1.0",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
         "addedAttrGroup": [
             6
@@ -901,7 +901,7 @@
         "addedValueGroup": [
             [
                 0,
-                3000,
+                1000,
                 0
             ]
         ],
@@ -910,7 +910,7 @@
     },
     {
         "id": 3100001,
-        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 160",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
         "addedAttrGroup": [
             1
@@ -918,7 +918,7 @@
         "addedValueGroup": [
             [
                 0,
-                100,
+                160,
                 0
             ]
         ],
@@ -927,7 +927,7 @@
     },
     {
         "id": 3100002,
-        "name": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
+        "name": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 45",
         "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
         "addedAttrGroup": [
             2
@@ -935,7 +935,7 @@
         "addedValueGroup": [
             [
                 0,
-                100,
+                45,
                 0
             ]
         ],
@@ -944,7 +944,7 @@
     },
     {
         "id": 3100003,
-        "name": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 400",
+        "name": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 900",
         "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 400",
         "addedAttrGroup": [
             3
@@ -952,7 +952,7 @@
         "addedValueGroup": [
             [
                 0,
-                400,
+                900,
                 0
             ]
         ],
@@ -961,7 +961,7 @@
     },
     {
         "id": 3100004,
-        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 50%",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
         "addedAttrGroup": [
             1004
@@ -969,7 +969,7 @@
         "addedValueGroup": [
             [
                 0,
-                400,
+                500,
                 0
             ]
         ],
@@ -995,7 +995,7 @@
     },
     {
         "id": 3100006,
-        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 1.5",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
         "addedAttrGroup": [
             6
@@ -1003,7 +1003,7 @@
         "addedValueGroup": [
             [
                 0,
-                3000,
+                1500,
                 0
             ]
         ],
@@ -1063,7 +1063,7 @@
     },
     {
         "id": 3100010,
-        "name": "\u9053\u5177 \u6cbb\u7597\u6548\u679c\u589e\u52a0 40%",
+        "name": "\u9053\u5177 \u6cbb\u7597\u6548\u679c\u589e\u52a0 35%",
         "describe": "\u9053\u5177 \u6cbb\u7597\u6548\u679c\u589e\u52a0 40%",
         "addedAttrGroup": [
             12
@@ -1071,7 +1071,7 @@
         "addedValueGroup": [
             [
                 0,
-                400,
+                350,
                 0
             ]
         ],
@@ -1097,7 +1097,7 @@
     },
     {
         "id": 3200001,
-        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 350",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u529b 100",
         "addedAttrGroup": [
             1
@@ -1105,7 +1105,7 @@
         "addedValueGroup": [
             [
                 0,
-                100,
+                350,
                 0
             ]
         ],
@@ -1114,7 +1114,7 @@
     },
     {
         "id": 3200002,
-        "name": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
+        "name": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 80",
         "describe": "\u9053\u5177 \u589e\u52a0 \u62a4\u7532 100",
         "addedAttrGroup": [
             2
@@ -1122,7 +1122,7 @@
         "addedValueGroup": [
             [
                 0,
-                100,
+                80,
                 0
             ]
         ],
@@ -1131,7 +1131,7 @@
     },
     {
         "id": 3200003,
-        "name": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 400",
+        "name": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 1800",
         "describe": "\u9053\u5177 \u589e\u52a0 \u751f\u547d\u503c 400",
         "addedAttrGroup": [
             3
@@ -1139,7 +1139,7 @@
         "addedValueGroup": [
             [
                 0,
-                400,
+                1800,
                 0
             ]
         ],
@@ -1148,7 +1148,7 @@
     },
     {
         "id": 3200004,
-        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 80%",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u901f 40%",
         "addedAttrGroup": [
             1004
@@ -1156,7 +1156,7 @@
         "addedValueGroup": [
             [
                 0,
-                400,
+                800,
                 0
             ]
         ],
@@ -1165,7 +1165,7 @@
     },
     {
         "id": 3200005,
-        "name": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.5",
+        "name": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 2.0",
         "describe": "\u9053\u5177 \u589e\u52a0 \u79fb\u901f 1.5",
         "addedAttrGroup": [
             5
@@ -1173,7 +1173,7 @@
         "addedValueGroup": [
             [
                 0,
-                1500,
+                2000,
                 0
             ]
         ],
@@ -1182,10 +1182,95 @@
     },
     {
         "id": 3200006,
-        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
+        "name": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 2.0",
         "describe": "\u9053\u5177 \u589e\u52a0 \u653b\u51fb\u8ddd\u79bb 400",
         "addedAttrGroup": [
             6
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                2000,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 3200007,
+        "name": "\u9053\u5177 30% \u66b4\u51fb\u51e0\u7387",
+        "describe": "\u9053\u5177 15% \u66b4\u51fb\u51e0\u7387",
+        "addedAttrGroup": [
+            7
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                300,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 3200008,
+        "name": "\u9053\u5177 100% \u66b4\u51fb\u4f24\u5bb3",
+        "describe": "\u9053\u5177 50% \u66b4\u51fb\u4f24\u5bb3",
+        "addedAttrGroup": [
+            8
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                1000,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 3200009,
+        "name": "\u9053\u5177 40 \u6280\u80fd\u51b7\u5374",
+        "describe": "\u9053\u5177 20 \u6280\u80fd\u51b7\u5374",
+        "addedAttrGroup": [
+            11
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                40,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 3200010,
+        "name": "\u9053\u5177 \u6cbb\u7597\u6548\u679c\u589e\u52a0 80%",
+        "describe": "\u9053\u5177 \u6cbb\u7597\u6548\u679c\u589e\u52a0 40%",
+        "addedAttrGroup": [
+            12
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                800,
+                0
+            ]
+        ],
+        "addedValueRand": [],
+        "isAddedAttrGroupContinuous": []
+    },
+    {
+        "id": 3200011,
+        "name": "\u9053\u5177 \u751f\u547d\u6062\u590d\u901f\u5ea6 300%",
+        "describe": "\u9053\u5177 \u751f\u547d\u6062\u590d\u901f\u5ea6 150%",
+        "addedAttrGroup": [
+            1015
         ],
         "addedValueGroup": [
             [
@@ -1198,96 +1283,19 @@
         "isAddedAttrGroupContinuous": []
     },
     {
-        "id": 3200007,
-        "name": "\u9053\u5177 15% \u66b4\u51fb\u51e0\u7387",
-        "describe": "\u9053\u5177 15% \u66b4\u51fb\u51e0\u7387",
-        "addedAttrGroup": [
-            7
-        ],
-        "addedValueGroup": [
-            [
-                0,
-                150,
-                0
-            ]
-        ],
-        "addedValueRand": [],
-        "isAddedAttrGroupContinuous": []
-    },
-    {
-        "id": 3200008,
-        "name": "\u9053\u5177 50% \u66b4\u51fb\u4f24\u5bb3",
-        "describe": "\u9053\u5177 50% \u66b4\u51fb\u4f24\u5bb3",
-        "addedAttrGroup": [
-            8
-        ],
-        "addedValueGroup": [
-            [
-                0,
-                500,
-                0
-            ]
-        ],
-        "addedValueRand": [],
-        "isAddedAttrGroupContinuous": []
-    },
-    {
-        "id": 3200009,
-        "name": "\u9053\u5177 20 \u6280\u80fd\u51b7\u5374",
-        "describe": "\u9053\u5177 20 \u6280\u80fd\u51b7\u5374",
-        "addedAttrGroup": [
-            11
-        ],
-        "addedValueGroup": [
-            [
-                0,
-                20,
-                0
-            ]
-        ],
-        "addedValueRand": [],
-        "isAddedAttrGroupContinuous": []
-    },
-    {
-        "id": 3200010,
-        "name": "\u9053\u5177 \u6cbb\u7597\u6548\u679c\u589e\u52a0 40%",
-        "describe": "\u9053\u5177 \u6cbb\u7597\u6548\u679c\u589e\u52a0 40%",
-        "addedAttrGroup": [
-            12
-        ],
-        "addedValueGroup": [
-            [
-                0,
-                400,
-                0
-            ]
-        ],
-        "addedValueRand": [],
-        "isAddedAttrGroupContinuous": []
-    },
-    {
-        "id": 3200011,
-        "name": "\u9053\u5177 \u751f\u547d\u6062\u590d\u901f\u5ea6 150%",
-        "describe": "\u9053\u5177 \u751f\u547d\u6062\u590d\u901f\u5ea6 150%",
-        "addedAttrGroup": [
-            1015
-        ],
-        "addedValueGroup": [
-            [
-                0,
-                1500,
-                0
-            ]
-        ],
-        "addedValueRand": [],
-        "isAddedAttrGroupContinuous": []
-    },
-    {
         "id": 3200012,
         "name": "\u9053\u5177 \u589e\u52a0 \u589e\u4f24",
         "describe": "",
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
+        "addedAttrGroup": [
+            9
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                200,
+                0
+            ]
+        ],
         "addedValueRand": [],
         "isAddedAttrGroupContinuous": []
     },
@@ -1295,8 +1303,16 @@
         "id": 3200013,
         "name": "\u9053\u5177 \u589e\u52a0 \u51cf\u4f24",
         "describe": "",
-        "addedAttrGroup": [],
-        "addedValueGroup": [],
+        "addedAttrGroup": [
+            10
+        ],
+        "addedValueGroup": [
+            [
+                0,
+                -200,
+                0
+            ]
+        ],
         "addedValueRand": [],
         "isAddedAttrGroupContinuous": []
     },
@@ -1316,8 +1332,8 @@
         ],
         "addedValueRand": [
             [
-                75,
-                150
+                15,
+                30
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1338,8 +1354,8 @@
         ],
         "addedValueRand": [
             [
-                20,
-                30
+                5,
+                10
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1360,8 +1376,8 @@
         ],
         "addedValueRand": [
             [
-                200,
-                400
+                75,
+                150
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1382,8 +1398,8 @@
         ],
         "addedValueRand": [
             [
-                200,
-                350
+                50,
+                100
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1404,8 +1420,8 @@
         ],
         "addedValueRand": [
             [
-                500,
-                1000
+                25,
+                100
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1448,8 +1464,8 @@
         ],
         "addedValueRand": [
             [
-                100,
-                300
+                50,
+                100
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1470,8 +1486,8 @@
         ],
         "addedValueRand": [
             [
-                300,
-                700
+                100,
+                250
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1492,8 +1508,8 @@
         ],
         "addedValueRand": [
             [
-                100,
-                200
+                10,
+                60
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1514,8 +1530,8 @@
         ],
         "addedValueRand": [
             [
-                -200,
-                -100
+                -10,
+                -60
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1536,8 +1552,8 @@
         ],
         "addedValueRand": [
             [
-                10,
-                30
+                2,
+                10
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1558,8 +1574,8 @@
         ],
         "addedValueRand": [
             [
-                100,
-                300
+                25,
+                100
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1580,8 +1596,8 @@
         ],
         "addedValueRand": [
             [
-                500,
-                3000
+                250,
+                1000
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1602,8 +1618,8 @@
         ],
         "addedValueRand": [
             [
-                75,
-                150
+                15,
+                30
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1624,8 +1640,8 @@
         ],
         "addedValueRand": [
             [
-                20,
-                30
+                5,
+                10
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1646,8 +1662,8 @@
         ],
         "addedValueRand": [
             [
-                200,
-                400
+                75,
+                150
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1668,8 +1684,8 @@
         ],
         "addedValueRand": [
             [
-                200,
-                350
+                50,
+                100
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1690,8 +1706,8 @@
         ],
         "addedValueRand": [
             [
-                500,
-                1000
+                25,
+                100
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1734,8 +1750,8 @@
         ],
         "addedValueRand": [
             [
-                100,
-                300
+                50,
+                100
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1756,8 +1772,8 @@
         ],
         "addedValueRand": [
             [
-                300,
-                700
+                100,
+                250
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1778,8 +1794,8 @@
         ],
         "addedValueRand": [
             [
-                100,
-                200
+                10,
+                60
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1800,8 +1816,8 @@
         ],
         "addedValueRand": [
             [
-                -200,
-                -100
+                -10,
+                -60
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1822,8 +1838,8 @@
         ],
         "addedValueRand": [
             [
-                10,
-                30
+                2,
+                10
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1844,8 +1860,8 @@
         ],
         "addedValueRand": [
             [
-                100,
-                300
+                25,
+                100
             ]
         ],
         "isAddedAttrGroupContinuous": []
@@ -1866,8 +1882,8 @@
         ],
         "addedValueRand": [
             [
-                500,
-                3000
+                250,
+                1000
             ]
         ],
         "isAddedAttrGroupContinuous": []

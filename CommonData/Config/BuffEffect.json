@@ -2025,7 +2025,143 @@
         "startEffectList": [],
         "intervalEffectList": [],
         "endEffectList": [],
-        "attrGroupConfigId": 1006101,
+        "attrGroupConfigId": 1801601,
+        "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
+        "effectResId": 0,
+        "showType": 0
+    },
+    {
+        "id": 14801902,
+        "name": "\u968f\u673a\u6280\u80fd \u7070\u718a\u53ec\u5524\u5c5e\u6027\u52a0\u6210",
+        "describe": "\u627f\u7075 q \u53ec\u5524\u7269\u5c5e\u6027\u52a0\u6210",
+        "iconResId": 15003114,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            0
+        ],
+        "lastTime": 999999000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 1801602,
+        "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
+        "effectResId": 0,
+        "showType": 0
+    },
+    {
+        "id": 14801903,
+        "name": "\u968f\u673a\u6280\u80fd \u7070\u718a\u53ec\u5524\u5c5e\u6027\u52a0\u6210",
+        "describe": "\u627f\u7075 q \u53ec\u5524\u7269\u5c5e\u6027\u52a0\u6210",
+        "iconResId": 15003114,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            0
+        ],
+        "lastTime": 999999000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 1801603,
+        "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
+        "effectResId": 0,
+        "showType": 0
+    },
+    {
+        "id": 14801904,
+        "name": "\u968f\u673a\u6280\u80fd \u7070\u718a\u53ec\u5524\u5c5e\u6027\u52a0\u6210",
+        "describe": "\u627f\u7075 q \u53ec\u5524\u7269\u5c5e\u6027\u52a0\u6210",
+        "iconResId": 15003114,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            0
+        ],
+        "lastTime": 999999000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 1801604,
+        "endRemoveEffectList": [],
+        "normalAttackAddedEffectIds": [],
+        "effectResId": 0,
+        "showType": 0
+    },
+    {
+        "id": 14801905,
+        "name": "\u968f\u673a\u6280\u80fd \u7070\u718a\u53ec\u5524\u5c5e\u6027\u52a0\u6210",
+        "describe": "\u627f\u7075 q \u53ec\u5524\u7269\u5c5e\u6027\u52a0\u6210",
+        "iconResId": 15003114,
+        "effectTargetType": 0,
+        "abnormalStateTypeList": [
+            0
+        ],
+        "lastTime": 999999000,
+        "isCanBeClear": 0,
+        "affectType": 1,
+        "isDeleteOnDead": 1,
+        "initLayerCount": 0,
+        "maxLayerCount": 0,
+        "addLayerType": 0,
+        "isMaxLayerRemove": 0,
+        "maxLayerTriggerEffectList": [],
+        "maxLayerTriggerTargetType": 0,
+        "intervalTime": 0,
+        "lastTimeAddedGroup": [
+            [
+                0
+            ]
+        ],
+        "startEffectList": [],
+        "intervalEffectList": [],
+        "endEffectList": [],
+        "attrGroupConfigId": 1801605,
         "endRemoveEffectList": [],
         "normalAttackAddedEffectIds": [],
         "effectResId": 0,

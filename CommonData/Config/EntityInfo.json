@@ -72,8 +72,7 @@
         "starAttrId": 1,
         "skillIds": [
             2003101,
-            2003201,
-            2103301
+            2003201
         ],
         "ultimateSkillId": 2003301,
         "level_pre": 1,
