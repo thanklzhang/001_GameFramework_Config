@@ -43,7 +43,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 64000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100003,
         "passType": 1,
         "passRewardId": 100103
@@ -77,7 +77,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 68000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100005,
         "passType": 1,
         "passRewardId": 100105
@@ -94,7 +94,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 70000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100006,
         "passType": 1,
         "passRewardId": 100106
@@ -111,7 +111,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 72000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100007,
         "passType": 1,
         "passRewardId": 100107
@@ -145,7 +145,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 76000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100009,
         "passType": 1,
         "passRewardId": 100109
@@ -162,7 +162,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 78000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100010,
         "passType": 1,
         "passRewardId": 100110
@@ -179,7 +179,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 80000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100011,
         "passType": 1,
         "passRewardId": 100111
@@ -196,7 +196,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 85000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100012,
         "passType": 1,
         "passRewardId": 100112
@@ -213,7 +213,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 90000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100013,
         "passType": 1,
         "passRewardId": 100113
@@ -247,7 +247,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 100000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100015,
         "passType": 1,
         "passRewardId": 100115
@@ -264,7 +264,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 105000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100016,
         "passType": 1,
         "passRewardId": 100116
@@ -281,7 +281,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 110000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100017,
         "passType": 1,
         "passRewardId": 100117
@@ -298,7 +298,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 115000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100018,
         "passType": 1,
         "passRewardId": 100118
@@ -315,7 +315,7 @@
         "waveType": 0,
         "readyTime": 999999999,
         "limitTime": 120000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100019,
         "passType": 1,
         "passRewardId": 100119
@@ -333,7 +333,7 @@
         "waveType": 2,
         "readyTime": 999999999,
         "limitTime": 180000,
-        "readyAddPopulationCount": 1,
+        "readyAddPopulationCount": 0,
         "readyRewardId": 100020,
         "passType": 1,
         "passRewardId": 100120
